@@ -1,0 +1,709 @@
+{
+  "count": 44,
+  "events": [
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3353",
+      "title": "EYCC CTF 2026",
+      "category": "ctf",
+      "description": "EYCC (Egyptian Youth Cybersecurity Challenge) is Egypt's national CTF competition for high school students, now in its second edition. Format: Hybrid — 48h Online Qualifiers → On-site Grand Finals Eligibility: High school students in Egypt only Team Size: 2–5 members Entry: Free Categories: Web, Crypto, Forensics, Reverse Engineering, OSINT, Pwn, Misc Website: https://eycc.stemeghackclub.org/ Discord: https://discord.gg/RZZC8SwHTt",
+      "organizer": "Mont5ab El2hwa",
+      "location": "Online",
+      "url": "https://eycc.stemeghackclub.org/",
+      "starts_at": "2026-07-17T11:00:00.000Z",
+      "ends_at": "2026-07-19T11:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "0d73405ef08877a97394e32379b7fc7f36f2df40"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3104",
+      "title": "OmniCTF 2026 Quals",
+      "category": "ctf",
+      "description": "Discord - https://discord.gg/Tua6ZT7nYW Homepage - https://omnictf.com/ Brought by: OmniCYBR, OctalO and Delta Obscura Partners: Spectrum, Deadoverflow, UNbreakable Romania Platinum Sponsors: CAIDO Gold Sponsors: OtterSec Silver Sponsors: Knight Squad Academy gen.xyz Infra Sponsor: Hetzner Looking for sponsors: sponsors@omnictf.com TEAM SIZE for QUALS is unlimited. TEAM SIZE for FINALS is up to 3 members. We will provide a reduced price for accomodations. TBA These qualifiers will allow top 9 Romania-based teams to qualify for the on-site finals in Constanța, Romania (September - October). NOTE (International teams - 3 slots only): We won't fund flights. We can fund Internal travels to Constanta. Accomodation TBA.",
+      "organizer": "OmniCTF",
+      "location": "Online",
+      "url": "https://omnictf.com/",
+      "starts_at": "2026-07-17T15:00:00.000Z",
+      "ends_at": "2026-07-19T15:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "7c370b6da1d2ac2c8a56d875dcf583caf2e80f5b"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3112",
+      "title": "DownUnderCTF 2026 - CANCELLED",
+      "category": "ctf",
+      "description": "2026 competition is CANCELLED!",
+      "organizer": "DownUnderCTF",
+      "location": "Online",
+      "url": "https://duc.tf/",
+      "starts_at": "2026-07-17T19:30:00.000Z",
+      "ends_at": "2026-07-19T19:30:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "8ee060ae0cc14201c4a6571ea862a5107c3e77cb"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3366",
+      "title": "ATHENA CTF",
+      "category": "ctf",
+      "description": "Athena CTF 2026 is a 24-hour Capture The Flag competition designed to test your cybersecurity skills across real-world challenges. Whether you solve problems manually or leverage AI agents as part of your workflow, success depends on your understanding, strategy, and creativity. Compete across multiple categories, sharpen your technical abilities, and see how you perform under pressure against participants from around the world. Think. Adapt. Capture the Flag.",
+      "organizer": "Athena-CTF",
+      "location": "Online",
+      "url": "https://ctf.athena-ctf.com/",
+      "starts_at": "2026-07-18T05:30:00.000Z",
+      "ends_at": "2026-07-19T05:30:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "7762c5ecdb9716eb2ce192885b34354ed3c1fb16"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3357",
+      "title": "AxiomCTF 2026 Finals",
+      "category": "ctf",
+      "description": "Axiom CTF — ФИНАЛ! Командные соревнования в формате Attack/Defense (A/D). Финальная битва сильнейших. Вам предстоит защищать свои сервисы и одновременно атаковать соперников — искать уязвимости, похищать флаги и оперативно закрывать бреши в своих системах. Динамичная игра, реальный киберполигон и постоянное напряжение. Когда? 18 июля с 10:00 до 18:00 (MSK). Состав команды: 1–5 человек. Сайт: https://ctf.4x10m.ru Telegram: https://t.me/axiomctf Это финал. Ошибок не прощают. Только лучшие останутся на вершине. С любовью, ваша команда 4x10m ❤️ __________________________ Axiom CTF — THE FINAL! Team-based competition in the Attack/Defense (A/D) format. The final showdown of the strongest. Defend your own services while attacking your opponents — find vulnerabilities, steal flags, and quickly patch your systems. Dynamic gameplay, real cyber range, and constant pressure. When?July 18, 9:30 – 18:00 (MSK). Team size: 1–5 players. Website: https://ctf.4x10m.ru Telegram: https://t.me/axiomctf This is the final. No room for mistakes. Only the best will stay on top. With love, your 4x10m team ❤️",
+      "organizer": "4x10m",
+      "location": "Russia, Moscow",
+      "url": "https://ctf.4x10m.ru/",
+      "starts_at": "2026-07-18T07:00:00.000Z",
+      "ends_at": "2026-07-18T15:00:00.000Z",
+      "tags": [
+        "attack-defense"
+      ],
+      "hash": "7c750662131a33516eb55659e29a3070f91b71f7"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3362",
+      "title": "HoneyBadger CTF AvitoTech",
+      "category": "ctf",
+      "description": "Jeopardy CTF by AvitoTech with two separate leagues: one for IT engineers, one for security professionals. Challenges cover web and infrastructure security, cryptography, reverse engineering, pwn, networking, forensics, and AI/LLM attacks. 30 hours, no team size limit. Solving tasks with AI agents is prohibited — the event is for humans competing in hacker ingenuity. Using text models as assistants (research, code help) is allowed. Besides cash prizes, top 10 teams in each league get merch and a plush honey badger. The event is run in Russian, and prizes are limited to teams from Russia, but everyone is welcome to play out of competition. Tasks + a translator = still a good time :) Badger League results will be uploaded to CTFtime.",
+      "organizer": "SPbCTF",
+      "location": "Online",
+      "url": "https://avitoctf.ru/",
+      "starts_at": "2026-07-18T09:00:00.000Z",
+      "ends_at": "2026-07-19T15:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "b0dab9f7c89f539596da3c60e2eed32b70306374"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3324",
+      "title": "ENOWARS 10",
+      "category": "ctf",
+      "description": "The 10th installation of the epic ENOWARS trilogy! More details are soon(TM) to come on our landing page.",
+      "organizer": "ENOFLAG",
+      "location": "Online",
+      "url": "https://10.enowars.com/",
+      "starts_at": "2026-07-18T12:00:00.000Z",
+      "ends_at": "2026-07-18T21:00:00.000Z",
+      "tags": [
+        "attack-defense"
+      ],
+      "hash": "70d07261c1d28c4db69cb172f49a40f5bb34aa06"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3349",
+      "title": "BDSec CTF 2026",
+      "category": "ctf",
+      "description": "BDSec CTF 2026 is an international, 24-hour online jeopardy-style Capture The Flag competition organized by Knight Squad, a cybersecurity team from Bangladesh. Held annually, BDSec CTF is designed to push boundaries, encourage learning, and celebrate strategic brilliance in cybersecurity — open to participants around the globe. The event pays tribute to Bangladesh’s history of resistance and courage, drawing inspiration from the 1952 Language Movement and the 1971 Liberation War. In this CTF, your mind is your shield, and your keyboard is your weapon. Whether you're a student just entering the field or a seasoned infosec professional, BDSec CTF 2025 welcomes you to test your skills, think critically, and hack with honor. Thanks to our sponsors [+] Knight Squad Academy [+] Gen.XYZ [+] NS TechValley Community Partner : KS HackZone",
+      "organizer": "Knight Squad",
+      "location": "Online",
+      "url": "https://2026.bdsec-ctf.com/",
+      "starts_at": "2026-07-20T15:00:00.000Z",
+      "ends_at": "2026-07-21T15:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "a5b82226d0883a9007a690a2640f16e7faaa346b"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3292",
+      "title": "Codegate CTF 2026 Finals",
+      "category": "ctf",
+      "description": "1. CODEGATE 2026 CTF has two divisions: Junior and General. 2. Conditions of participation for each division: - Junior Division: Individual competition, only for those born in 2008 or later. - General Division: Team competition, for everyone else not in the Junior Division. Participants eligible for the Junior Division may also compete in the General Division, but they cannot participate in both divisions simultaneously. 3. Challenges in the Junior Division may differ from those in the General Division, although there may be some common challenges. 4. General Division team member limits: - Preliminary Round: No limit on the number of team members (10 or less recommended). - Final Round: Maximum of 4 members. The team captain has the authority to decide the team members for the final round. Remote participation is not allowed; all members must be physically present. 5. Official communication channel: Discord (We will communicate any updates during the competition via Discord). 6. Questions about challenges should be asked by opening a ticket on Discord. 7. Actions that may result in disqualification: - Sharing or seeking clues, hints, flags, or answers with participants outside of your team. - Participating in multiple teams. - Interfering with, obstructing, or disrupting other teams, participants, or organizers (including, but not limited to, DoS and DDoS attacks). - Attacking or spying on other teams, participants, or organizers. - Brute-forcing flags on the *.codegate.org flag authentication system. - Intentionally hindering others from submitting or obtaining flags. - Participating in divisions not allowed by the rules (e.g., participating in the Junior Division if born before 2005, or participating in both the Junior and General Divisions simultaneously). - Attacking machines or infrastructure not designated as challenges in the competition. - Failing to provide a reasonable explanation for suspected cheating. 8. Write-up submission: - General Division: Top 25 t",
+      "organizer": "CODEGATE",
+      "location": "Online",
+      "url": "https://codegate.org/",
+      "starts_at": "2026-07-23T01:00:00.000Z",
+      "ends_at": "2026-07-24T01:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "0cc199d443b35188ef378ead9926d45987522e92"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3286",
+      "title": "jailCTF 2026",
+      "category": "ctf",
+      "description": "This is the third jailCTF event. Unlike traditional CTFs, this event has a large focus on \"jail\" challenges which ask players to escape out of a code sandbox with some set of restrictions applied. Categories here aren't traditional here either, with pyjail, esolang, and other mainstream languages as categories (js, perl, ruby, c, etc). There will also be King-of-the-hill (koth) style challenges! Come and have fun in jailCTF! Discord: https://discord.gg/JxtuFxMaE8 Infra sponsored by https://goo.gle/ctfsponsorship Additional sponsors for this event, if any, are TBA",
+      "organizer": "jailctf",
+      "location": "Online",
+      "url": "https://ctf.pyjail.club/",
+      "starts_at": "2026-07-24T20:00:00.000Z",
+      "ends_at": "2026-07-27T20:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "2d7d76b09a230db9506a343de19ad4af61421391"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3268",
+      "title": "DIVER OSINT CTF 2026",
+      "category": "ctf",
+      "description": "DIVER OSINT CTF is the real-world oriented OSINT CTF. We provide country/region-neutral OSINT challenges. Challenges will be available in English and Japanese. Anyone is welcome to join. Discord: https://discord.diverctf.org/ Twitter: https://x.com/DIVER_OSINT_CTF",
+      "organizer": "diver_osint",
+      "location": "Online",
+      "url": "https://ctfd.diverctf.org/",
+      "starts_at": "2026-07-25T03:10:00.000Z",
+      "ends_at": "2026-07-26T03:10:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "e397914fed16ea4c4e866fa270fc8dbecd0286e5"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3201",
+      "title": "D^3CTF 2026",
+      "category": "ctf",
+      "description": "Organized by @Vidar, @CNSS, @L-Team, the 7th D^3CTF is coming! D^3 means \"the cube of Dian\", i.e., the cube of \"electronic\" in Chinese. As the three teams co-hosting this CTF game come from three \"University of Electronic\" in China (UESTC, Xidian, HDU). Have fun! [+] Sponsors: ・Infrastructure: sponsored by goo.gle/ctfsponsorship. For more details, visit https://goo.gle/ctfsponsorship ・Prizes: sponsored by Hex-Rays. For more details, visit https://hex-rays.com [+] Prizes: ・5 x IDA Pro Expert-2 licenses: 3 for 1st place, 1 for 2nd, 1 for 3rd ・5 x Hex-Rays notebooks: 3 for 1st place, 1 for 2nd, 1 for 3rd ・5 x T-shirts: 3 for 1st place, 1 for 2nd, 1 for 3rd",
+      "organizer": "D^3CTF Organizers",
+      "location": "Online",
+      "url": "https://d3c.tf/",
+      "starts_at": "2026-07-25T12:00:00.000Z",
+      "ends_at": "2026-07-26T12:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "cca1f5ec4f7c13f34be0eea6bf10bd79429dbb86"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3303",
+      "title": "DeadSec CTF 2026",
+      "category": "ctf",
+      "description": "DeadSec CTF 2026 is an online jeopardy-style CTF organized by DeadSec Team. ## Category There will be challenges with a wide range of difficulty mainly from cryptography, reverse, pwn, web, misc... ## Sponsor TBD",
+      "organizer": "DeadSec",
+      "location": "Online",
+      "url": "https://www.deadsec.xyz/",
+      "starts_at": "2026-07-31T12:00:00.000Z",
+      "ends_at": "2026-08-01T12:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "5e5d3253b399e202c484c92afa64152aaf5ffe42"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3061",
+      "title": "L3akCTF 2026",
+      "category": "ctf",
+      "description": "L3akCTF 2026 is the third annual Capture the Flag competition hosted by team L3ak, welcoming participants of all backgrounds and experience levels. We’re bringing 50+ original challenges spanning 8 categories: crypto, web, rev, pwn, misc, forensics, OSINT, and hardware/RF. The difficulty will range from beginner to expert. With great prizes on the line and a strong focus on quality and fun, L3akCTF 2026 is built to deliver an exciting, memorable weekend of hacking. AI assistance will be strictly prohibited in L3akCTF 2026. Any detected AI usage will result in immediate disqualification. Leave your LLMs at home; this competition is for humans only. Discord: https://discord.gg/KfpVAPXYMD Infra sponsored by goo.gle/ctfsponsorship",
+      "organizer": "L3ak",
+      "location": "Online",
+      "url": "https://ctf.l3ak.team/",
+      "starts_at": "2026-07-31T18:00:00.000Z",
+      "ends_at": "2026-08-02T18:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "7beb3a2381015125a37be9dbcebc1159a8d4a6b2"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3311",
+      "title": "VuwCTF 2026",
+      "category": "ctf",
+      "description": "VuwCTF returns for 2026! For students in the Wellington region, we will be running an in-person event in Cotton Building, Kelburn Campus from 9am to 5pm each day. Registrations are be available on our website (https://vuwctf.com/2026). Thank you to our sponsors who provide the support needed to run the event: IEEE YP Catalyst Cloud Pākiki Security Aura Information Security Carapace",
+      "organizer": "VuwCTF",
+      "location": "Online",
+      "url": "https://2026.vuwctf.com/",
+      "starts_at": "2026-07-31T22:00:00.000Z",
+      "ends_at": "2026-08-02T05:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "f4b962617090fb17396227630ad097d17dc60ca7"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3237",
+      "title": "Universal CTF",
+      "category": "ctf",
+      "description": "U-CTF, short for Universal CTF, is a jeopardy-style competition set across the outer lanes: the transport corridors, relay routes, stations, and inhabited worlds that keep civilization connected. Teams are recruited as operator units to prove that the system is inherently flawed in every part. Their targets are vital pieces of infrastructure that serve, or once served, every citizen, from training stations and relays to maintenance networks and operational grids. Every challenge is a fault line in the machinery that holds the system together. Your task is to find it and break through it.",
+      "organizer": "U-CTF",
+      "location": "Online",
+      "url": "https://ctf.uctf.io/",
+      "starts_at": "2026-08-01T07:00:00.000Z",
+      "ends_at": "2026-08-02T15:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "c9ca5c1775d95316bf98812a62fabc3774d9c47b"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3328",
+      "title": "Kali Team - CTF 26",
+      "category": "ctf",
+      "description": "Welcome to Kali Team - CTF 26! An elite Jeopardy-style cybersecurity competition organized by Kali Team. The online qualifier is open globally to all cybersecurity students, professionals, and enthusiasts worldwide. Team Size [2-4] The online phase will run for 12 continuous hours, featuring high-quality challenges in: - Web Exploitation - Pwn & Binary Exploitation - Reverse Engineering - Cryptography & Forensics - OSINT Note: The official CTF game platform link is currently under development and will be updated here shortly. Dynamic registration on the platform will open 3 days prior to the event. Official Partners: XYZ DOMAIN, LetsDefend, Hackviser, and Knight Squad Academy. Join us and show the world your skills! https://discord.gg/fEt7tcabgw https://www.instagram.com/kali.tteam/ https://www.linkedin.com/company/kali-team",
+      "organizer": "Kali Team",
+      "location": "Online",
+      "url": "https://register.kali-team.online/",
+      "starts_at": "2026-08-05T07:00:00.000Z",
+      "ends_at": "2026-08-05T19:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "0b19120fc8d19e032003a24363615586b06890fb"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3342",
+      "title": "AEROSPACE VILLAGE STARPWN CTF",
+      "category": "ctf",
+      "description": "STARPWN CTF 2026 A cyberpunk CTF brought to you by the AEROSPACE Village at DEFCON 34 Want to try your hand at hacking satellites, spacecraft and ground control systems? Miss out on Hack-A-Sat? Want to explore the final frontier of cybersecurity? STARPWN is the official Aerospace Village space hacking CTF! Back door flight computers, trojan flight software, exploit CVE's, reverse protocols, and more! During your space hacking journey, you’ll learn all about the environmental and operational constraints of space systems, how they affect cybersecurity posture, and impact exploitability. Brought to you by: Aerospace Village Aerospace Corporation Ethos Labs Final Frontier Security Visionspace Sixgen Cal Poly - California Cybersecurity Institute CTFd",
+      "organizer": "Visionspace",
+      "location": "Online",
+      "url": "https://starpwn.ctfd.io/",
+      "starts_at": "2026-08-06T17:00:00.000Z",
+      "ends_at": "2026-08-09T18:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "51ec04bd62b825dc28208a6c4b3c9481941c488e"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3305",
+      "title": "RoboHack AI CTF (Robotic Hacking Community at DEFCON 34)",
+      "category": "ctf",
+      "description": "RoboHack AI CTF is an experimental Capture The Flag event hosted by the Robotic Hacking Community at DEF CON 34. The CTF target will be an AI robot inside a simulated environment. Instead of requiring continuous manual player interaction, the competition may allow participants to submit their own AI models or agents, which will then be used to interact with, exploit, or solve challenges against the robotic target environment. The challenge scope may include both AI model security and robotics system security. In addition to allowing participants to compete using AI models, the target systems and challenges themselves may involve AI models such as VLA, VLM, or LLM components. Potential challenge topics may include adversarial patches, prompt injection, prompt jailbreaks, model poisoning, and other attacks against AI-enabled robotic decision-making systems. The CTF may also include challenges related to the robot’s underlying software stack, communication layers, and robotics protocols, such as ROS 2, DDS, and related robotic middleware or system interfaces. The goal is to explore the intersection of robotics security, AI model behavior, autonomous exploitation, and CTF-style challenge design. Participants may be asked to think beyond traditional web, pwn, reversing, or cloud challenges and consider how autonomous systems perceive, decide, communicate, and act inside a robotic environment. This event is expected to be experimental and community-driven. Details such as rules, scoring, participation format, model submission requirements, challenge categories, target environments, and challenge availability may change as the event develops. Please refer to the official Robotic Hacking Community website for the latest and most accurate event information. Tentative Challenge Areas AI robotic security Autonomous agent / AI model participation VLA, VLM, and LLM security Adversarial patch attacks Prompt injection Prompt jailbreak Model poisoning AI-enabled robotic decision-ma",
+      "organizer": "robotichackingcommunity",
+      "location": "Online",
+      "url": "https://www.robotichackingcommunity.com/",
+      "starts_at": "2026-08-07T00:00:00.000Z",
+      "ends_at": "2026-08-09T00:00:00.000Z",
+      "tags": [
+        "hack quest"
+      ],
+      "hash": "4d844fc0707f90a4f93007f2dce373d1b4aaeb7d"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3322",
+      "title": "DEF CON CTF 2026",
+      "category": "ctf",
+      "description": "",
+      "organizer": "Benevolent Bureau of Birds",
+      "location": "Las Vegas, Nevada, USA",
+      "url": "https://bbbirds.org/",
+      "starts_at": "2026-08-07T16:00:00.000Z",
+      "ends_at": "2026-08-09T19:00:00.000Z",
+      "tags": [
+        "attack-defense"
+      ],
+      "hash": "a3c9b8b33f57074e6c001a9de340277b9e0146b0"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3052",
+      "title": "scriptCTF 2026",
+      "category": "ctf",
+      "description": "ScriptSorcerers is back with scriptCTF 2026! scriptCTF is a 48-hour jeopardy style CTF for hackers to test their skills against creative and innovative CTF challenges. We have mostly beginner friendly challenges, with a few hard ones. scriptCTF makes CTFs fun and approachable for all skill levels!",
+      "organizer": "ScriptSorcerers",
+      "location": "Online",
+      "url": "https://ctf.scriptsorcerers.xyz/",
+      "starts_at": "2026-08-08T00:00:00.000Z",
+      "ends_at": "2026-08-10T00:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "319f7b13c042438c0e010026d19f4edce9944c2e"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3148",
+      "title": "UIUCTF 2026",
+      "category": "ctf",
+      "description": "UIUCTF is an annual capture-the-flag competition hosted by SIGPwny, the cybersecurity club at the University of Illinois Urbana-Champaign (UIUC).",
+      "organizer": "SIGPwny",
+      "location": "Online",
+      "url": "https://uiuc.tf/",
+      "starts_at": "2026-08-08T00:00:00.000Z",
+      "ends_at": "2026-08-10T00:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "62a929f680111ee70c9c226d2502f1c0fd981367"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3330",
+      "title": "Thryve CTF 2026",
+      "category": "ctf",
+      "description": "Thryve CTF 2026 is a competitive jeopardy-style CTF designed to challenge participants across multiple areas of cybersecurity through a diverse set of problems. The competition will be hosted on August 14, 2026, from 11:00 AM to 8:00 PM UTC. The competition will feature: - Digital Forensics, - Web Exploitation, - Reverse Engineering, - Cryptography, - Malware Analysis, - Binary Exploitation, - OSINT, - Miscellaneous. Who can join: - Beginners - Intermediate players - Advanced teams Each category is designed to test real problem-solving skills, technical thinking, and the ability to connect clues under pressure. Join our Discord server : https://discord.gg/efzBFf2Ru",
+      "organizer": "Thryve",
+      "location": "Online",
+      "url": "https://ctf.thryvectf.org/",
+      "starts_at": "2026-08-14T11:00:00.000Z",
+      "ends_at": "2026-08-14T20:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "359943c2d9dae38100e68963062075ae473d7f47"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3181",
+      "title": "gaslightCTF 2026",
+      "category": "ctf",
+      "description": "gaslightCTF is a jeopardy-style CTF both for complete beginners and more advanced players open to everyone. gaslightCTF is hosted by a team of UK secondary school students. Players may participate in teams of up to five members. Teams may belong to the following divisions: Secondary School, University, and Open. Find out more on our website: https://gaslightctf.cooking/ New to CTFs? Check out https://primer.picoctf.org/ for a beginners guide! Thank you to our sponsors for making this event possible! - Trail of Bits https://trailofbits.com/ - OtterSec https://osec.io/ Join our discord: https://discord.gg/6nGCQcasP6",
+      "organizer": "gaslighting",
+      "location": "Online",
+      "url": "https://gaslightctf.cooking/",
+      "starts_at": "2026-08-14T12:00:00.000Z",
+      "ends_at": "2026-08-17T12:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "952e85b2378c89464b9e497b32f44f0331afcc5c"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3318",
+      "title": "HackHowl 2026",
+      "category": "ctf",
+      "description": "HackHowl 2026 HackHowl is an ethical hacking competition. Starting with a 24-hour CTF where every category is locked until you crack the first challenge, then shifting into a full Bug Bounty phase where you'll hunt real vulnerabilities in a corporate infrastructure. CTF: August 14–15 | Bug Bounty: August 16 (UTC−6) Teams of 3–5 people | Only 40 teams Completely free to enter CTF Categories: Web, Reversing, OSINT, Crypto & Blockchain Bug Bounty Phase: Hunt real vulnerabilities in a corporate infrastructure Prizes: - Top 3 teams: ThunderCipher VAPT Certification Exam Voucher (one per member) - All participants: 40% discount on ThunderCipher VAPT Exam + Certificate of Participation Sponsored by ThunderCipher | https://thundercipher.in Registration: June 25 – July 31 | Only 40 spots available Register at https://hackhowl.com",
+      "organizer": "Hack Howl",
+      "location": "Online",
+      "url": "https://hackhowl.com/",
+      "starts_at": "2026-08-15T00:00:00.000Z",
+      "ends_at": "2026-08-17T05:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "738a1dcef756e5101a26d29482f15e8bcb9cbd67"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3343",
+      "title": "THJCC CTF 2026 summer",
+      "category": "ctf",
+      "description": "THJCC CTF is a cybersecurity competition tailored specifically for high school and vocational school students in Taiwan. It is co-hosted by the SCINT (Northern Taiwan Student Information Community) and like-minded students nationwide, and has received the support of multiple domestic cybersecurity organizations and institutions. Continuing the tradition of previous events, we are specially hosting the THJCC CTF 3rd Summer Edition this summer, hoping to bring students a cybersecurity feast full of challenges and fun during their vacation. This competition maintains the Jeopardy format, with challenges covering Web, Reverse, Crypto, Pwn, and Misc. The difficulty level balances introductory learning for novices and advanced challenges, ensuring that everyone—from beginners just starting in cybersecurity to experienced competitors—can find an opportunity to showcase their skills here. Our core mission is to promote cybersecurity education and cultivate high school students' keen interest and practical abilities in cybersecurity technology. Beyond the competition, participants in the student division have the opportunity to win prize money or other special rewards, with the hope of boosting their confidence in tackling various future competitions. THJCC CTF is not merely a stage for competition, but also a platform for students across Taiwan to learn from each other, hone their skills, and exchange ideas. Official website: https://thjcc.org/ Discord: https://dc.thjcc.org/",
+      "organizer": "CakeisTheFake",
+      "location": "Onsite",
+      "url": "https://ctf2026-sum.thjcc.org/",
+      "starts_at": "2026-08-15T00:00:01.000Z",
+      "ends_at": "2026-08-16T12:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "600cb73d012a917144cee0e4fa1e30eb76f75f8a"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3065",
+      "title": "BrunnerCTF 2026",
+      "category": "ctf",
+      "description": "We are whipping up another round of BrunnerCTF! And we hope to have all the favorites from last year’s event. More information will be available as we get closer to the event. Site: https://ctf.brunnerne.dk/ Discord: https://discord.gg/ZSNXY2sjyJ Proudly sponsored by: - Campfire Security - ICSRange - SagaLabs - Bankdata - CyberSkills - Hetzner (infrastructure): https://link.brunnerne.dk/hetzner-2026",
+      "organizer": "SDU",
+      "location": "Online",
+      "url": "https://ctf.brunnerne.dk/",
+      "starts_at": "2026-08-21T12:00:00.000Z",
+      "ends_at": "2026-08-23T12:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "fb7108a901ac62983a59f34a81bddc7476c05375"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3340",
+      "title": "HITCON CTF 2026 Quals",
+      "category": "ctf",
+      "description": "",
+      "organizer": "HITCON",
+      "location": "Online",
+      "url": "http://ctf.hitcon.org/",
+      "starts_at": "2026-08-28T14:00:00.000Z",
+      "ends_at": "2026-08-30T14:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "3a6f592cc1d6df0acaff43677e9530217b71c0f9"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3290",
+      "title": "COMPFEST CTF 2026",
+      "category": "ctf",
+      "description": "Discord server: TBA Event URL: TBA COMPFEST Website: https://compfest.id A CTF event organized by Computer Science students of Universitas Indonesia. The main event is aimed for Indonesian citizens, but everyone is welcome to participate in the mirror contest. *** Please keep in mind this event is a mirror event form an already held local event. Participants from that event may not join this event. *** Thank you to our sponsors: - Google Cloud Platform (Infra sponsored by goo.gle/ctfsponsorship) - Hex-Rays - Offsec",
+      "organizer": "CSUI",
+      "location": "Online",
+      "url": "https://compfest.id/",
+      "starts_at": "2026-08-29T00:00:00.000Z",
+      "ends_at": "2026-08-30T00:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "0a43d478711adcd82129bf1661943235627484e3"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3033",
+      "title": "ASIS CTF Quals 2026",
+      "category": "ctf",
+      "description": "This year, ASIS CTF Quals 2026 and Iran Olympics CTF 2026 have joined forces and will be held as a single, merged event! Secure your spot in the top 3 global teams or the top 7 Iranian teams to win a fully-funded invitation to the highly anticipated onsite finals in Tehran this October: • Olympic Hardware CTF • Olympic Pwny Racing CTF All travel and accommodation costs are fully covered. Register now: https://ctf.olympics.tech",
+      "organizer": "ASIS",
+      "location": "Online",
+      "url": "https://asisctf.com/",
+      "starts_at": "2026-08-29T14:00:00.000Z",
+      "ends_at": "2026-08-30T14:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "5fa38132f5b0816d83e563e7b1fe0b995475c797"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3347",
+      "title": "UND CyberHawks National CTF Competition 2026 Qualifiers",
+      "category": "ctf",
+      "description": "The IEEE CARS 2026 Capture The Flag (CTF) competition is a Jeopardy-style event where participants solve challenges across multiple cybersecurity domains. Whether you are a beginner or an experienced security professional, there are challenges for every skill level. Compete individually or in teams of up to 4. Challenges are released in waves throughout the competition window.",
+      "organizer": "UND CyberHawks",
+      "location": "Online",
+      "url": "https://ctf.hackthebox.com/event/details/und-cyberhawks-national-ctf-competition-2026-qualifiers-3444",
+      "starts_at": "2026-08-29T14:00:00.000Z",
+      "ends_at": "2026-08-30T05:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "0e6a9e652f7909db5e4dd083632e03330959326e"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3097",
+      "title": "NNS CTF 2026",
+      "category": "ctf",
+      "description": "Join us for a jeopardy-style CTF organized by the Norske Nøkkelsnikere CTF team! Expect quality challenges in categories such as web, misc, crypto, blockchain, devsecoops, rev, pwn, and more! We welcome beginners and advanced players. Sponsor inquiries: sponsors at nnsc[.]tf Discord: https://discord.gg/9AZr3WKrjG",
+      "organizer": "Norske Nøkkelsnikere",
+      "location": "Online",
+      "url": "https://nnsc.tf/",
+      "starts_at": "2026-09-04T16:00:00.000Z",
+      "ends_at": "2026-09-06T16:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "0fa2d213acece8e7125ca9c18186aa625e8c0c7a"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3344",
+      "title": "TFC CTF 2026",
+      "category": "ctf",
+      "description": "This year, The Few Chosen return with our sixth annual CTF, taking place on September 5-6, 2026. We’re a team of CTF players who set out to build the kind of competition we’d want to play ourselves. Everything has been built from the ground up, with challenges across Pwn, Reverse, Web, Crypto, and Misc. Expect tough challenges, clever ideas, and plenty of opportunities to get stuck on something for far longer than you’d like. See you in September.",
+      "organizer": "The Few Chosen",
+      "location": "Online",
+      "url": "https://ctf.thefewchosen.com/",
+      "starts_at": "2026-09-05T10:00:00.000Z",
+      "ends_at": "2026-09-06T10:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "e98ceefe8b0c31548845a8b446ce24dd70d2f543"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3145",
+      "title": "K17 CTF 2026",
+      "category": "ctf",
+      "description": "K17 CTF is a 48-hour online Jeopardy CTF with a mix of beginner-friendly and hard challenges, hosted by UNSW's Security Society. Registration: https://k17ctf.secso.cc/ Sponsors: TBD Join our discord for rules and announcements related to the CTF: https://discord.gg/QeCGUhbjXx",
+      "organizer": "K17",
+      "location": "Online",
+      "url": "https://k17ctf.secso.cc/",
+      "starts_at": "2026-09-11T10:00:00.000Z",
+      "ends_at": "2026-09-13T10:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "de52ba7b139a0d86081da45469513ef2bfe8eb8a"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3348",
+      "title": "PatriotCTF 2026",
+      "category": "ctf",
+      "description": "PatriotCTF is a beginner-friendly capture-the-flag cybersecurity competition hosted by GMU's cybersecurity club, MasonCC. It's open to students and professionals alike, with challenges ranging from easy to expert across categories like reverse engineering, web, crypto, forensics, and more.",
+      "organizer": "Competitive Cyber at Mason",
+      "location": "Online",
+      "url": "https://pctf.competitivecyber.club/",
+      "starts_at": "2026-09-11T22:00:00.000Z",
+      "ends_at": "2026-09-13T22:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "f3fd0597a075fbfca5a55f42b97e3c81c9f8d3e3"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3265",
+      "title": "VolgaCTF 2026 Final",
+      "category": "ctf",
+      "description": "VolgaCTF is an international inter-university cybersecurity competition organised by a group of IT enthusiasts based in Samara, Russia. The final round is held onsite in Samara (venue TBA).",
+      "organizer": "VolgaCTF.org",
+      "location": "Russia, Samara",
+      "url": "https://volgactf.ru/en/volgactf-2026/final/",
+      "starts_at": "2026-09-17T05:00:00.000Z",
+      "ends_at": "2026-09-17T15:00:00.000Z",
+      "tags": [
+        "attack-defense"
+      ],
+      "hash": "8825f913a867b0ab250e013fbae15b1d224c5619"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3346",
+      "title": "NullOrigin CTF Qualifiers",
+      "category": "ctf",
+      "description": "NullOrigin CTF 2026 Qualifiers is the official qualification round for NullOrigin CTF 2026, an international online Capture The Flag (CTF) competition organized by Cyber HX. The qualifier is a 12-hour Jeopardy-style CTF where teams of 1–4 members will solve real-world cybersecurity challenges across Web Security, Cryptography, Reverse Engineering, Digital Forensics, OSINT, Binary Exploitation, and Miscellaneous categories. The competition is open to students, professionals, and cybersecurity enthusiasts from around the world. Whether you are just starting your cybersecurity journey or already have CTF experience, NullOrigin offers challenges for every skill level. Top-performing teams will qualify for the NullOrigin CTF 2026 Finals. Rewards include qualification to the Finals, a CPPT (Certified Practical Penetration Tester) Certificate by Cyber HX (Worth $99), Exclusive MITRE ATT&CK Lab Access by Cyber HX, internship opportunities, digital certificates, and sponsor rewards. Mode: Online Duration: 12 Hours Team Size: 1–4 Members Website: https://nullorigin.cyberhx.com Contact: [nullorigin@cyberhx.com](mailto:nullorigin@cyberhx.com)",
+      "organizer": "CyberXoX",
+      "location": "Online",
+      "url": "https://nullorigin.cyberhx.com/",
+      "starts_at": "2026-09-18T04:30:00.000Z",
+      "ends_at": "2026-09-18T16:30:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "70415e57d68efd004acea0a8c1e786fc24aae5b2"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3355",
+      "title": "CSAW CTF Qualification Round 2026",
+      "category": "ctf",
+      "description": "CSAW CTF is a entry-level CTF, designed for undergraduate students who are trying to break into security. Challenges are specifically designed to point students in directions that will help them understand fundamental concepts and develop practical skills. Our sponsors are big players in the security field, who are serious about hiring the right people with the right skills. Our judges are world-renowned experts in the security field, who are dedicated to making sure that our challenges are designed to test these skills.",
+      "organizer": "NYUSEC",
+      "location": "Online",
+      "url": "https://ctf.csaw.io/",
+      "starts_at": "2026-09-18T16:00:00.000Z",
+      "ends_at": "2026-09-20T16:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "521883ca2aab3c41c923cd49cc97dc578a701504"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3326",
+      "title": "WATCHLIST",
+      "category": "ctf",
+      "description": "WATCHLIST is a 24-hour online Jeopardy CTF about digital investigation: forensics, OSINT, recon, and the hands-on work investigators actually do. It's a love letter to Person of Interest, narrated by The Machine. There are 24 challenges across 6 categories: Forensics, Lab, OSINT, Recon, Trivia, and a Person of Interest story track that unlocks as you play. It's made for beginners through intermediate players, so there's an easy way in and the difficulty climbs from there. Every challenge teaches a real, usable skill with tools people actually use, and the hints are written to teach you something, not just hand over the answer. A few quick things: Any tools are fine, including AI. They're helpers, not shortcuts, and they won't finish a challenge for you. Teams of 1 to 6, and solo players are very welcome. Free to play. Prizes: $750 / $500 / $250 for the top three. When: 19 September 2026, 03:30 UTC. Runs for 24 hours. Briefing: https://xposedornot.com/ctf Platform: https://ctf.xposedornot.com Discord: https://discord.com/invite/X5DtMQgbdP Updates: https://x.com/@watchlistctf on X",
+      "organizer": "WatchList CTF",
+      "location": "Online",
+      "url": "https://ctf.xposedornot.com/",
+      "starts_at": "2026-09-19T03:30:00.000Z",
+      "ends_at": "2026-09-20T03:30:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "25524cee5ff40caeb7b03fd22bb020cd1283a285"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3093",
+      "title": "H7CTF 2026 Quals",
+      "category": "ctf",
+      "description": "H7CTF v3: A global cybersecurity competition open to all teams without restriction. A common qualification round will be held for both international and Indian participants. Top-performing teams will advance to the finals. Finals will be held at SRMIST and will feature an AD-CTF format.",
+      "organizer": "H7Tex",
+      "location": "Online",
+      "url": "https://2026.h7tex.com/",
+      "starts_at": "2026-09-26T03:30:00.000Z",
+      "ends_at": "2026-09-27T15:30:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "d8ff3fa15b925d8040e8f873a313334218f75d14"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3312",
+      "title": "FAUST CTF 2026",
+      "category": "ctf",
+      "description": "Classic online attack-defense CTF. Each team will be given a Vulnbox image to host itself and VPN access. You will run exploits against other teams, capture flags and submit them to our server.",
+      "organizer": "FAUST",
+      "location": "Online",
+      "url": "https://2026.faustctf.net/",
+      "starts_at": "2026-09-26T12:00:00.000Z",
+      "ends_at": "2026-09-26T21:00:00.000Z",
+      "tags": [
+        "attack-defense"
+      ],
+      "hash": "cd44cbbfd8c4352cacf3ced8b13e42031baaf132"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3364",
+      "title": "Securinets CTF Quals 2026",
+      "category": "ctf",
+      "description": "Securinets CTF Quals 2026 is an online jeopardy style CTF organized by Securinets INSAT. The CTF will feature these categories: Web, Reverse Engineering, Pwn, Crypto, Forensics, OSINT, Misc ... Only 10 teams will qualify to the final CTF + top 5 from north africa . Registration will be open soon. Join our discord server: https://discord.gg/X5nSDvjSyc",
+      "organizer": "Securinets",
+      "location": "Online",
+      "url": "https://quals.securinets.tn/",
+      "starts_at": "2026-10-03T09:00:00.000Z",
+      "ends_at": "2026-10-04T21:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "1038f99e1d37b6d84da99a2a2076795256c84603"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3293",
+      "title": "CDCTF 2026",
+      "category": "ctf",
+      "description": "Crimson Defense CTF 2026 will be held on Saturday, October 3rd from 10am to 10pm CDT! CDCTF is a virtual 12-hour Jeopardy-style Capture-the-Flag competition designed for collegiate-level players. All ability levels are welcome. This competition will not only provide satisfying challenges for seasoned players, but be a good introduction to CTFs for new ones! CDCTF is a team competition, you may have up to four participants per team. Universities may have multiple teams representing their school. There will be challenges of all difficulties representing the following categories: Reverse Engineering, Log & Network Traffic Analysis, Forensics, Password Cracking, Cryptography, Open Source Intelligence, Social Engineering, and AI! Registration will open in August. CDCTF is hosted and created by Crimson Defense Cyber Security Club at the University of Alabama.",
+      "organizer": "Crimson Defense",
+      "location": "Online",
+      "url": "https://uacrimsondefense.github.io/cdctf.html",
+      "starts_at": "2026-10-03T15:00:00.000Z",
+      "ends_at": "2026-10-04T03:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "30764c4a02cb3b2687fd79d915347f30a2b88cd6"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3354",
+      "title": "GaianSpace CTF 2026",
+      "category": "ctf",
+      "description": "GaianSpace CTF, hosted by GaianSpace! Challenges to secure ground and space systems through Web, Pwn, Forensics, Reverse, Network, Crypto and more. Varied difficulties ensure fun for all skill levels. Hack the cosmos with us! Location: Online Event format: Jeopardy First ever CTF scheduled: Event start datetime: 2026.10.10 9:00pm (UTC) Event finish datetime: 2026.10.14 9:00pm (UTC) Duration: 96 hours Prizes: 1st Place, 2nd Place, 3rd Place, Write-up Prizes",
+      "organizer": "GaianSpace",
+      "location": "Online",
+      "url": "https://gaian.space/ctf",
+      "starts_at": "2026-10-10T21:00:00.000Z",
+      "ends_at": "2026-10-14T21:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "901f6b88ea0587bbc515472775d9c2ec21bd110b"
+    }
+  ]
+}
