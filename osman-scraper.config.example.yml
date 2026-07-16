@@ -1,0 +1,75 @@
+# osman-scraper configuration — copy to osman-scraper.config.yml and edit.
+#
+# Run:   osman-scraper run              (scrape every source once)
+#        osman-scraper run ctftime      (scrape one source)
+#        osman-scraper serve            (scrape on a schedule, serve a JSON feed)
+
+state_file: ./.osman/state.json     # remembers what was seen, for dedupe / change detection
+sync_interval_hours: 6              # how often `serve` re-scrapes
+
+defaults:
+  min_delay_ms: 1500               # polite gap between requests to the same host
+  respect_robots: true             # honor robots.txt (leave on)
+  # user_agent: "my-app/1.0 (contact@example.com)"
+
+sources:
+  # 1) A built-in preset adapter — CTFtime's free public API. No key, no scraping.
+  - name: ctftime
+    adapter: ctftime
+    config: { days: 90 }
+    output:
+      file: ./out/ctftime.json
+
+  # 2) A generic JSON source — any JSON endpoint, mapped to our fields.
+  #    Devpost's listing endpoint is bot-protected, so fetch via browser.
+  - name: devpost
+    type: json
+    url: https://devpost.com/api/hackathons
+    fetch: browser
+    items: hackathons              # path to the array inside the response
+    map:
+      uid: id
+      title: title
+      url: url
+      organizer: organization_name
+      starts_at: submission_period_dates   # display text; AI/selector mode gives cleaner dates
+      category: { const: hackathon }
+    output:
+      file: ./out/devpost.json
+
+  # 3) A generic HTML source with CSS selectors (fast, no API key).
+  #    Selectors are examples — adjust to the real page markup.
+  - name: mlh
+    type: html
+    url: https://mlh.io/seasons/2026/events
+    fetch: static
+    default_category: hackathon
+    extract:
+      selectors:
+        item: .event
+        fields:
+          title: .event-name
+          starts_at: { selector: .event-date-text meta, attr: content }
+          location: .event-location
+          url: { selector: a.event-link, attr: href }
+    output:
+      file: ./out/mlh.json
+
+  # 4) A generic HTML source using AI extraction — for pages with no clean
+  #    structure (community calendars, flyers-as-pages). Needs ANTHROPIC_API_KEY.
+  - name: gdg-accra
+    type: html
+    url: https://gdg.community.dev/gdg-accra/
+    fetch: browser
+    extract:
+      ai:
+        fields: [title, category, starts_at, ends_at, location, url, organizer, tags]
+        hint: "Google Developer Group tech events in Accra, Ghana"
+    output:
+      # Push straight into a TechPulse-style API instead of a file:
+      webhook:
+        url: http://localhost:3000/api/events
+        mode: individual                 # one POST per event
+        headers:
+          x-admin-token: dev-admin-token
+    emit: new                            # only send newly-found / changed events

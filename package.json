@@ -1,0 +1,35 @@
+{
+  "name": "osman-scraper",
+  "version": "0.1.0",
+  "description": "A reusable, adapter-based web scraping toolkit (CLI + library) with selector and AI extraction modes. Outputs a normalized JSON feed for any downstream consumer.",
+  "bin": {
+    "osman-scraper": "bin/cli.js"
+  },
+  "main": "src/index.js",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "start": "node bin/cli.js",
+    "test": "node --test \"test/**/*.test.js\""
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "crawler",
+    "events",
+    "hackathons",
+    "cli",
+    "ical",
+    "ai-extraction"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "js-yaml": "^4.1.0"
+  },
+  "optionalDependencies": {
+    "@anthropic-ai/sdk": "^0.68.0",
+    "playwright": "^1.56.0"
+  }
+}

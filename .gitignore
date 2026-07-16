@@ -1,0 +1,7 @@
+node_modules/
+.osman/
+out/
+outbox/
+*.log
+.env
+.DS_Store
