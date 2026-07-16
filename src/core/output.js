@@ -3,12 +3,14 @@
 const fs = require('node:fs');
 const path = require('node:path');
 
-function writeJson(file, events) {
+function writeJson(file, events, { timestamp = true } = {}) {
   fs.mkdirSync(path.dirname(file), { recursive: true });
-  fs.writeFileSync(
-    file,
-    JSON.stringify({ generated_at: new Date().toISOString(), count: events.length, events }, null, 2)
-  );
+  // Omit generated_at (timestamp: false) for published feeds so the file is
+  // byte-stable across runs and only changes when the events actually change.
+  const payload = timestamp
+    ? { generated_at: new Date().toISOString(), count: events.length, events }
+    : { count: events.length, events };
+  fs.writeFileSync(file, `${JSON.stringify(payload, null, 2)}\n`);
 }
 
 const CSV_COLUMNS = ['source', 'uid', 'title', 'category', 'starts_at', 'ends_at', 'location', 'organizer', 'url', 'tags'];
@@ -61,7 +63,7 @@ async function emitOutput(output, events) {
   if (!output) return;
   const targets = Array.isArray(output) ? output : [output];
   for (const target of targets) {
-    if (target.file) writeJson(target.file, events);
+    if (target.file) writeJson(target.file, events, { timestamp: target.timestamp !== false });
     if (target.csv) writeCsv(target.csv, events);
     if (target.webhook) {
       const w = typeof target.webhook === 'string' ? { url: target.webhook } : target.webhook;

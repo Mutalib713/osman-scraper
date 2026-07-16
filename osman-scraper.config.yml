@@ -1,0 +1,38 @@
+# Default config — used by `osman-scraper run` and the GitHub Actions workflow.
+# See osman-scraper.config.example.yml for the full set of source/output options.
+
+state_file: ./.osman/state.json
+
+defaults:
+  min_delay_ms: 1500
+  respect_robots: true
+
+sources:
+  # CTFtime's free public API — works with no key and no browser.
+  - name: ctftime
+    adapter: ctftime
+    config: { days: 90 }
+    output:
+      file: ./data/ctftime.json
+      timestamp: false        # stable feed: commits only when events change
+
+  # --- Add more sources below. Examples (see the .example file for details): ---
+  #
+  # A JSON API (Devpost is bot-protected, so fetch via browser — enable the
+  # Playwright step in .github/workflows/scrape.yml):
+  # - name: devpost
+  #   type: json
+  #   url: https://devpost.com/api/hackathons
+  #   fetch: browser
+  #   items: hackathons
+  #   map: { uid: id, title: title, url: url, organizer: organization_name, category: { const: hackathon } }
+  #   output: { file: ./data/devpost.json, timestamp: false }
+  #
+  # An HTML page read by AI (needs the ANTHROPIC_API_KEY repo secret):
+  # - name: gdg-accra
+  #   type: html
+  #   url: https://gdg.community.dev/gdg-accra/
+  #   fetch: browser
+  #   extract:
+  #     ai: { fields: [title, category, starts_at, ends_at, location, url, organizer], hint: "Tech events in Accra, Ghana" }
+  #   output: { file: ./data/gdg-accra.json, timestamp: false }

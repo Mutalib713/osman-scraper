@@ -1,0 +1,53 @@
+name: Scrape and publish feed
+
+on:
+  schedule:
+    - cron: '0 7 * * *' # daily at 07:00 UTC
+  workflow_dispatch: {} # manual "Run workflow" button
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+        env:
+          # Install the SDK/Playwright packages but skip the browser binary
+          # download (only browser-mode sources need it — enable below).
+          PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD: '1'
+
+      # Uncomment if any source uses `fetch: browser`:
+      # - name: Install Chromium
+      #   run: npx playwright install --with-deps chromium
+
+      - name: Scrape
+        env:
+          # Optional — only needed by AI-extraction sources.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node bin/cli.js run
+
+      - name: Commit updated feeds
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No feed changes."
+          else
+            git commit -m "chore: update scraped feed [skip ci]"
+            git push
+          fi

@@ -2,12 +2,15 @@
 
 const test = require('node:test');
 const assert = require('node:assert/strict');
+const fs = require('node:fs');
+const os = require('node:os');
+const path = require('node:path');
 
 const { normalizeEvent, hashEvent, toIso, cleanTags, isValid } = require('../src/core/normalize');
 const { reconcile } = require('../src/core/dedupe');
 const { parseRobots, isAllowed } = require('../src/core/politeness');
 const { extractWithSelectors, htmlToText, jsonFromHtml } = require('../src/core/extract');
-const { toCsv } = require('../src/core/output');
+const { toCsv, writeJson } = require('../src/core/output');
 const { mapItem, getPath } = require('../src/engines/json');
 const { buildSchema } = require('../src/ai');
 
@@ -125,6 +128,26 @@ test('csv output escapes commas, quotes and joins tags', () => {
   const [, row] = csv.split('\n');
   assert.match(row, /"A, B"/);
   assert.match(row, /x;y/);
+});
+
+test('writeJson with timestamp:false is byte-stable across runs (for published feeds)', () => {
+  const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'osman-out-'));
+  const file = path.join(dir, 'feed.json');
+  const events = [{ source: 's', uid: '1', title: 'A', hash: 'h' }];
+
+  writeJson(file, events, { timestamp: false });
+  const first = fs.readFileSync(file, 'utf8');
+  writeJson(file, events, { timestamp: false });
+  const second = fs.readFileSync(file, 'utf8');
+
+  assert.equal(first, second); // identical bytes → git commits only on real change
+  const parsed = JSON.parse(first);
+  assert.equal(parsed.generated_at, undefined);
+  assert.equal(parsed.count, 1);
+
+  writeJson(file, events); // default includes a timestamp
+  assert.ok(JSON.parse(fs.readFileSync(file, 'utf8')).generated_at);
+  fs.rmSync(dir, { recursive: true, force: true });
 });
 
 test('AI schema wraps items and forces title/starts_at', () => {

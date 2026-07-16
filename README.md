@@ -171,6 +171,26 @@ Either keep `osman-scraper serve` running (it re-scrapes every `sync_interval_ho
 0 7 * * *  cd /path/to/project && osman-scraper run
 ```
 
+## Deploy free on GitHub Actions
+
+This repo ships a workflow (`.github/workflows/scrape.yml`) that runs the scraper
+on a schedule — no server needed. Each run scrapes the sources in
+`osman-scraper.config.yml`, writes feeds into `data/`, and commits them back, so
+each feed is served at a stable raw URL:
+
+```
+https://raw.githubusercontent.com/Mutalib713/osman-scraper/main/data/ctftime.json
+```
+
+- **Runs daily** (07:00 UTC) and on demand via the **Run workflow** button (Actions tab).
+- Feeds omit a run timestamp, so a commit lands **only when the events change**.
+- **Browser sources** (`fetch: browser`): uncomment the "Install Chromium" step in the workflow.
+- **AI sources**: add an `ANTHROPIC_API_KEY` under **Settings → Secrets → Actions**.
+
+Point any consumer at the raw feed URL — e.g. register it in a platform's
+auto-import — or switch a source's `output` to a `webhook` to POST results
+straight into an API.
+
 ## AI extraction mode
 
 When a page has no clean structure, AI mode reads it like a human. Set `ANTHROPIC_API_KEY` and give a field list instead of selectors. It defaults to **Claude Haiku 4.5** (cheap — fractions of a cent per page); override with `OSMAN_AI_MODEL`. Vision works too: pass a base64 image to the `extractWithAI` library function to read a flyer or screenshot. Without a key, AI mode fails with a clear message and selector mode still works.
