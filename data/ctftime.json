@@ -1,86 +1,6 @@
 {
-  "count": 44,
+  "count": 40,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3353",
-      "title": "EYCC CTF 2026",
-      "category": "ctf",
-      "description": "EYCC (Egyptian Youth Cybersecurity Challenge) is Egypt's national CTF competition for high school students, now in its second edition. Format: Hybrid — 48h Online Qualifiers → On-site Grand Finals Eligibility: High school students in Egypt only Team Size: 2–5 members Entry: Free Categories: Web, Crypto, Forensics, Reverse Engineering, OSINT, Pwn, Misc Website: https://eycc.stemeghackclub.org/ Discord: https://discord.gg/RZZC8SwHTt",
-      "organizer": "Mont5ab El2hwa",
-      "location": "Online",
-      "url": "https://eycc.stemeghackclub.org/",
-      "starts_at": "2026-07-17T11:00:00.000Z",
-      "ends_at": "2026-07-19T11:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "0d73405ef08877a97394e32379b7fc7f36f2df40"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3104",
-      "title": "OmniCTF 2026 Quals",
-      "category": "ctf",
-      "description": "Discord - https://discord.gg/Tua6ZT7nYW Homepage - https://omnictf.com/ Brought by: OmniCYBR, OctalO and Delta Obscura Partners: Spectrum, Deadoverflow, UNbreakable Romania Platinum Sponsors: CAIDO Gold Sponsors: OtterSec Silver Sponsors: Knight Squad Academy gen.xyz Infra Sponsor: Hetzner Looking for sponsors: sponsors@omnictf.com TEAM SIZE for QUALS is unlimited. TEAM SIZE for FINALS is up to 3 members. We will provide a reduced price for accomodations. TBA These qualifiers will allow top 9 Romania-based teams to qualify for the on-site finals in Constanța, Romania (September - October). NOTE (International teams - 3 slots only): We won't fund flights. We can fund Internal travels to Constanta. Accomodation TBA.",
-      "organizer": "OmniCTF",
-      "location": "Online",
-      "url": "https://omnictf.com/",
-      "starts_at": "2026-07-17T15:00:00.000Z",
-      "ends_at": "2026-07-19T15:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "7c370b6da1d2ac2c8a56d875dcf583caf2e80f5b"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3112",
-      "title": "DownUnderCTF 2026 - CANCELLED",
-      "category": "ctf",
-      "description": "2026 competition is CANCELLED!",
-      "organizer": "DownUnderCTF",
-      "location": "Online",
-      "url": "https://duc.tf/",
-      "starts_at": "2026-07-17T19:30:00.000Z",
-      "ends_at": "2026-07-19T19:30:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "8ee060ae0cc14201c4a6571ea862a5107c3e77cb"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3366",
-      "title": "ATHENA CTF",
-      "category": "ctf",
-      "description": "Athena CTF 2026 is a 24-hour Capture The Flag competition designed to test your cybersecurity skills across real-world challenges. Whether you solve problems manually or leverage AI agents as part of your workflow, success depends on your understanding, strategy, and creativity. Compete across multiple categories, sharpen your technical abilities, and see how you perform under pressure against participants from around the world. Think. Adapt. Capture the Flag.",
-      "organizer": "Athena-CTF",
-      "location": "Online",
-      "url": "https://ctf.athena-ctf.com/",
-      "starts_at": "2026-07-18T05:30:00.000Z",
-      "ends_at": "2026-07-19T05:30:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "7762c5ecdb9716eb2ce192885b34354ed3c1fb16"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3357",
-      "title": "AxiomCTF 2026 Finals",
-      "category": "ctf",
-      "description": "Axiom CTF — ФИНАЛ! Командные соревнования в формате Attack/Defense (A/D). Финальная битва сильнейших. Вам предстоит защищать свои сервисы и одновременно атаковать соперников — искать уязвимости, похищать флаги и оперативно закрывать бреши в своих системах. Динамичная игра, реальный киберполигон и постоянное напряжение. Когда? 18 июля с 10:00 до 18:00 (MSK). Состав команды: 1–5 человек. Сайт: https://ctf.4x10m.ru Telegram: https://t.me/axiomctf Это финал. Ошибок не прощают. Только лучшие останутся на вершине. С любовью, ваша команда 4x10m ❤️ __________________________ Axiom CTF — THE FINAL! Team-based competition in the Attack/Defense (A/D) format. The final showdown of the strongest. Defend your own services while attacking your opponents — find vulnerabilities, steal flags, and quickly patch your systems. Dynamic gameplay, real cyber range, and constant pressure. When?July 18, 9:30 – 18:00 (MSK). Team size: 1–5 players. Website: https://ctf.4x10m.ru Telegram: https://t.me/axiomctf This is the final. No room for mistakes. Only the best will stay on top. With love, your 4x10m team ❤️",
-      "organizer": "4x10m",
-      "location": "Russia, Moscow",
-      "url": "https://ctf.4x10m.ru/",
-      "starts_at": "2026-07-18T07:00:00.000Z",
-      "ends_at": "2026-07-18T15:00:00.000Z",
-      "tags": [
-        "attack-defense"
-      ],
-      "hash": "7c750662131a33516eb55659e29a3070f91b71f7"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3362",
@@ -195,8 +115,24 @@
     },
     {
       "source": "ctftime",
+      "uid": "ctftime-3372",
+      "title": "BushBash CTF",
+      "category": "ctf",
+      "description": "BushBash CTF is a CTF run by the ANU Computer Science Students’ Association which will run for 48 hours with online only participation available and having an on site capability over the 48 hours on campus with an opening and closing event. Categories of OSINT, rev, pwn, web, crypto and misc. Team max of 6 players Anyone can play, its free!",
+      "organizer": "CSSA",
+      "location": "Online",
+      "url": "http://bushbash.cssa.club/",
+      "starts_at": "2026-07-31T07:00:00.000Z",
+      "ends_at": "2026-08-02T07:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "05d4a63aea85b9a65e052501c6c7589435aef4d1"
+    },
+    {
+      "source": "ctftime",
       "uid": "ctftime-3303",
-      "title": "DeadSec CTF 2026",
+      "title": "DeadSec CTF 2026 - POSTPONED",
       "category": "ctf",
       "description": "DeadSec CTF 2026 is an online jeopardy-style CTF organized by DeadSec Team. ## Category There will be challenges with a wide range of difficulty mainly from cryptography, reverse, pwn, web, misc... ## Sponsor TBD",
       "organizer": "DeadSec",
@@ -207,7 +143,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "5e5d3253b399e202c484c92afa64152aaf5ffe42"
+      "hash": "bfe711840d2a99221fccdf29159bd54498a14a4a"
     },
     {
       "source": "ctftime",
@@ -422,7 +358,7 @@
       "uid": "ctftime-3065",
       "title": "BrunnerCTF 2026",
       "category": "ctf",
-      "description": "We are whipping up another round of BrunnerCTF! And we hope to have all the favorites from last year’s event. More information will be available as we get closer to the event. Site: https://ctf.brunnerne.dk/ Discord: https://discord.gg/ZSNXY2sjyJ Proudly sponsored by: - Campfire Security - ICSRange - SagaLabs - Bankdata - CyberSkills - Hetzner (infrastructure): https://link.brunnerne.dk/hetzner-2026",
+      "description": "We are whipping up another round of BrunnerCTF! And we hope to have all the favorites from last year’s event. More information will be available as we get closer to the event. Site: https://ctf.brunnerne.dk/ Discord: https://discord.gg/ZSNXY2sjyJ Proudly sponsored by: - Campfire Security - ICSRange - SagaLabs - The LEGO Group - Bankdata - CyberSkills - Hetzner (infrastructure): https://link.brunnerne.dk/hetzner-2026",
       "organizer": "SDU",
       "location": "Online",
       "url": "https://ctf.brunnerne.dk/",
@@ -431,7 +367,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "fb7108a901ac62983a59f34a81bddc7476c05375"
+      "hash": "9231db6328671799015df40d935217ed91ac8c6f"
     },
     {
       "source": "ctftime",
