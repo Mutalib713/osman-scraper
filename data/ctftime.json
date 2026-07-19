@@ -1,38 +1,6 @@
 {
-  "count": 40,
+  "count": 38,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3362",
-      "title": "HoneyBadger CTF AvitoTech",
-      "category": "ctf",
-      "description": "Jeopardy CTF by AvitoTech with two separate leagues: one for IT engineers, one for security professionals. Challenges cover web and infrastructure security, cryptography, reverse engineering, pwn, networking, forensics, and AI/LLM attacks. 30 hours, no team size limit. Solving tasks with AI agents is prohibited — the event is for humans competing in hacker ingenuity. Using text models as assistants (research, code help) is allowed. Besides cash prizes, top 10 teams in each league get merch and a plush honey badger. The event is run in Russian, and prizes are limited to teams from Russia, but everyone is welcome to play out of competition. Tasks + a translator = still a good time :) Badger League results will be uploaded to CTFtime.",
-      "organizer": "SPbCTF",
-      "location": "Online",
-      "url": "https://avitoctf.ru/",
-      "starts_at": "2026-07-18T09:00:00.000Z",
-      "ends_at": "2026-07-19T15:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "b0dab9f7c89f539596da3c60e2eed32b70306374"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3324",
-      "title": "ENOWARS 10",
-      "category": "ctf",
-      "description": "The 10th installation of the epic ENOWARS trilogy! More details are soon(TM) to come on our landing page.",
-      "organizer": "ENOFLAG",
-      "location": "Online",
-      "url": "https://10.enowars.com/",
-      "starts_at": "2026-07-18T12:00:00.000Z",
-      "ends_at": "2026-07-18T21:00:00.000Z",
-      "tags": [
-        "attack-defense"
-      ],
-      "hash": "70d07261c1d28c4db69cb172f49a40f5bb34aa06"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3349",
