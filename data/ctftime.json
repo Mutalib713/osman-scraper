@@ -134,7 +134,7 @@
       "uid": "ctftime-3311",
       "title": "VuwCTF 2026",
       "category": "ctf",
-      "description": "VuwCTF returns for 2026! For students in the Wellington region, we will be running an in-person event in Cotton Building, Kelburn Campus from 9am to 5pm each day. Registrations are be available on our website (https://vuwctf.com/2026). Thank you to our sponsors who provide the support needed to run the event: IEEE YP Catalyst Cloud Pākiki Security Aura Information Security Carapace",
+      "description": "VuwCTF returns for 2026! For students in the Wellington region, we will be running an in-person event in Cotton Building, Kelburn Campus from 9am to 5pm each day. Registrations are available on our website (https://vuwctf.com/2026). Thank you to our sponsors who provide the support needed to run the event: IEEE YP Catalyst Cloud Pākiki Security Aura Information Security Carapace",
       "organizer": "VuwCTF",
       "location": "Online",
       "url": "https://2026.vuwctf.com/",
@@ -143,7 +143,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "f4b962617090fb17396227630ad097d17dc60ca7"
+      "hash": "693a1f92989d1ad1d8ce1254dcc336ad51647c48"
     },
     {
       "source": "ctftime",
