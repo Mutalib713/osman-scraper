@@ -1,22 +1,6 @@
 {
-  "count": 38,
+  "count": 39,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3349",
-      "title": "BDSec CTF 2026",
-      "category": "ctf",
-      "description": "BDSec CTF 2026 is an international, 24-hour online jeopardy-style Capture The Flag competition organized by Knight Squad, a cybersecurity team from Bangladesh. Held annually, BDSec CTF is designed to push boundaries, encourage learning, and celebrate strategic brilliance in cybersecurity — open to participants around the globe. The event pays tribute to Bangladesh’s history of resistance and courage, drawing inspiration from the 1952 Language Movement and the 1971 Liberation War. In this CTF, your mind is your shield, and your keyboard is your weapon. Whether you're a student just entering the field or a seasoned infosec professional, BDSec CTF 2025 welcomes you to test your skills, think critically, and hack with honor. Thanks to our sponsors [+] Knight Squad Academy [+] Gen.XYZ [+] NS TechValley Community Partner : KS HackZone",
-      "organizer": "Knight Squad",
-      "location": "Online",
-      "url": "https://2026.bdsec-ctf.com/",
-      "starts_at": "2026-07-20T15:00:00.000Z",
-      "ends_at": "2026-07-21T15:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "a5b82226d0883a9007a690a2640f16e7faaa346b"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3292",
@@ -160,6 +144,22 @@
         "jeopardy"
       ],
       "hash": "c9ca5c1775d95316bf98812a62fabc3774d9c47b"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3373",
+      "title": "Lexington Informatics Tournament CTF 2026",
+      "category": "ctf",
+      "description": "Lexington Informatics Tournament CTF 2026 is a Jeopardy-style, beginner-friendly online CTF that's open to everyone. It is hosted by members of the LexMACS club from Lexington High School with the help of some amazing guest writers. You may form teams of up to 3 contestants! Current and Past Sponsors: Infra sponsored by goo.gle/ctfsponsorship Non-Trivial Algoverse SPARC AoPS Texas Instruments RSM OtterSec X-Camp Trail of Bits Wolfram MIT Beaver Works Interview Cake .xyz Zulip For more information, visit our website at https://lit.lhsmathcs.org/ You can also join our Discord server https://discord.gg/k6yzFdZ",
+      "organizer": "LIT CTF",
+      "location": "Online",
+      "url": "https://lit.lhsmathcs.org/",
+      "starts_at": "2026-08-01T15:00:00.000Z",
+      "ends_at": "2026-08-03T15:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "c055c3cc4ed578efd0dc39239c60afd1080ec5aa"
     },
     {
       "source": "ctftime",
@@ -608,6 +608,22 @@
         "jeopardy"
       ],
       "hash": "901f6b88ea0587bbc515472775d9c2ec21bd110b"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3279",
+      "title": "DEADFACE CTF 2026",
+      "category": "ctf",
+      "description": "DEADFACE CTF features jeopardy-style challenges and is hosted by Cyber Hacktics and veterans of the United States Air Force in support of National Cyber Security Awareness Month.",
+      "organizer": "Cyber Hacktics",
+      "location": "Online",
+      "url": "https://ctf.deadface.io/",
+      "starts_at": "2026-10-17T14:00:00.000Z",
+      "ends_at": "2026-10-19T00:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "7b8d6e8f1ed109761d6d609e59e37f10a1e90d5c"
     }
   ]
 }
