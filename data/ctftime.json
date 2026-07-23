@@ -1,22 +1,6 @@
 {
-  "count": 39,
+  "count": 37,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3292",
-      "title": "Codegate CTF 2026 Finals",
-      "category": "ctf",
-      "description": "1. CODEGATE 2026 CTF has two divisions: Junior and General. 2. Conditions of participation for each division: - Junior Division: Individual competition, only for those born in 2008 or later. - General Division: Team competition, for everyone else not in the Junior Division. Participants eligible for the Junior Division may also compete in the General Division, but they cannot participate in both divisions simultaneously. 3. Challenges in the Junior Division may differ from those in the General Division, although there may be some common challenges. 4. General Division team member limits: - Preliminary Round: No limit on the number of team members (10 or less recommended). - Final Round: Maximum of 4 members. The team captain has the authority to decide the team members for the final round. Remote participation is not allowed; all members must be physically present. 5. Official communication channel: Discord (We will communicate any updates during the competition via Discord). 6. Questions about challenges should be asked by opening a ticket on Discord. 7. Actions that may result in disqualification: - Sharing or seeking clues, hints, flags, or answers with participants outside of your team. - Participating in multiple teams. - Interfering with, obstructing, or disrupting other teams, participants, or organizers (including, but not limited to, DoS and DDoS attacks). - Attacking or spying on other teams, participants, or organizers. - Brute-forcing flags on the *.codegate.org flag authentication system. - Intentionally hindering others from submitting or obtaining flags. - Participating in divisions not allowed by the rules (e.g., participating in the Junior Division if born before 2005, or participating in both the Junior and General Divisions simultaneously). - Attacking machines or infrastructure not designated as challenges in the competition. - Failing to provide a reasonable explanation for suspected cheating. 8. Write-up submission: - General Division: Top 25 t",
-      "organizer": "CODEGATE",
-      "location": "Online",
-      "url": "https://codegate.org/",
-      "starts_at": "2026-07-23T01:00:00.000Z",
-      "ends_at": "2026-07-24T01:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "0cc199d443b35188ef378ead9926d45987522e92"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3286",
@@ -294,7 +278,7 @@
       "uid": "ctftime-3318",
       "title": "HackHowl 2026",
       "category": "ctf",
-      "description": "HackHowl 2026 HackHowl is an ethical hacking competition. Starting with a 24-hour CTF where every category is locked until you crack the first challenge, then shifting into a full Bug Bounty phase where you'll hunt real vulnerabilities in a corporate infrastructure. CTF: August 14–15 | Bug Bounty: August 16 (UTC−6) Teams of 3–5 people | Only 40 teams Completely free to enter CTF Categories: Web, Reversing, OSINT, Crypto & Blockchain Bug Bounty Phase: Hunt real vulnerabilities in a corporate infrastructure Prizes: - Top 3 teams: ThunderCipher VAPT Certification Exam Voucher (one per member) - All participants: 40% discount on ThunderCipher VAPT Exam + Certificate of Participation Sponsored by ThunderCipher | https://thundercipher.in Registration: June 25 – July 31 | Only 40 spots available Register at https://hackhowl.com",
+      "description": "HackHowl 2026 HackHowl is an ethical hacking competition. Starting with a 24-hour CTF where every category is locked until you crack the first challenge, then shifting into a full Bug Bounty phase where you'll hunt real vulnerabilities in a corporate infrastructure. CTF: August 14–15 | Bug Bounty: August 16 (UTC−6) Teams of 1–5 people | Only 40 teams Completely free to enter CTF Categories: Web, Reversing, OSINT, Crypto & Blockchain Bug Bounty Phase: Hunt real vulnerabilities in a corporate infrastructure Prizes: - Top 3 teams: ThunderCipher VAPT Certification Exam Voucher (one per member) - All participants: 40% discount on ThunderCipher VAPT Exam + Certificate of Participation Sponsored by ThunderCipher | https://thundercipher.in Registration: June 25 – July 31 | Only 40 spots available Register at https://hackhowl.com",
       "organizer": "Hack Howl",
       "location": "Online",
       "url": "https://hackhowl.com/",
@@ -303,7 +287,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "738a1dcef756e5101a26d29482f15e8bcb9cbd67"
+      "hash": "7e24da05f89f110d0ce336c8c97d4dfe8223a628"
     },
     {
       "source": "ctftime",
@@ -336,22 +320,6 @@
         "jeopardy"
       ],
       "hash": "9231db6328671799015df40d935217ed91ac8c6f"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3340",
-      "title": "HITCON CTF 2026 Quals",
-      "category": "ctf",
-      "description": "",
-      "organizer": "HITCON",
-      "location": "Online",
-      "url": "http://ctf.hitcon.org/",
-      "starts_at": "2026-08-28T14:00:00.000Z",
-      "ends_at": "2026-08-30T14:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "3a6f592cc1d6df0acaff43677e9530217b71c0f9"
     },
     {
       "source": "ctftime",
