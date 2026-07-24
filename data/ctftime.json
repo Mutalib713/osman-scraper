@@ -6,7 +6,7 @@
       "uid": "ctftime-3286",
       "title": "jailCTF 2026",
       "category": "ctf",
-      "description": "This is the third jailCTF event. Unlike traditional CTFs, this event has a large focus on \"jail\" challenges which ask players to escape out of a code sandbox with some set of restrictions applied. Categories here aren't traditional here either, with pyjail, esolang, and other mainstream languages as categories (js, perl, ruby, c, etc). There will also be King-of-the-hill (koth) style challenges! Come and have fun in jailCTF! Discord: https://discord.gg/JxtuFxMaE8 Infra sponsored by https://goo.gle/ctfsponsorship Additional sponsors for this event, if any, are TBA",
+      "description": "This is the third jailCTF event. Unlike traditional CTFs, this event has a large focus on \"jail\" challenges which ask players to escape out of a code sandbox with some set of restrictions applied. Categories here aren't traditional here either, with pyjail, esolang, and other mainstream languages as categories (js, perl, ruby, c, etc). There will also be King-of-the-hill (koth) style challenges! Come and have fun in jailCTF! Discord: https://discord.gg/JxtuFxMaE8 Infra sponsored by https://goo.gle/ctfsponsorship",
       "organizer": "jailctf",
       "location": "Online",
       "url": "https://ctf.pyjail.club/",
@@ -15,7 +15,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "2d7d76b09a230db9506a343de19ad4af61421391"
+      "hash": "c48e94cb8543735d4c5bd882d15bca65b0d2f268"
     },
     {
       "source": "ctftime",
@@ -278,7 +278,7 @@
       "uid": "ctftime-3318",
       "title": "HackHowl 2026",
       "category": "ctf",
-      "description": "HackHowl 2026 HackHowl is an ethical hacking competition. Starting with a 24-hour CTF where every category is locked until you crack the first challenge, then shifting into a full Bug Bounty phase where you'll hunt real vulnerabilities in a corporate infrastructure. CTF: August 14–15 | Bug Bounty: August 16 (UTC−6) Teams of 1–5 people | Only 40 teams Completely free to enter CTF Categories: Web, Reversing, OSINT, Crypto & Blockchain Bug Bounty Phase: Hunt real vulnerabilities in a corporate infrastructure Prizes: - Top 3 teams: ThunderCipher VAPT Certification Exam Voucher (one per member) - All participants: 40% discount on ThunderCipher VAPT Exam + Certificate of Participation Sponsored by ThunderCipher | https://thundercipher.in Registration: June 25 – July 31 | Only 40 spots available Register at https://hackhowl.com",
+      "description": "HackHowl 2026 HackHowl is an ethical hacking competition. Starting with a 24-hour CTF where every category is locked until you crack the first challenge, then shifting into a full Bug Bounty phase where you'll hunt real vulnerabilities in a corporate infrastructure. CTF: August 14–15 | Bug Bounty: August 16 (UTC−6) Teams of 1–5 people | Only 40 teams Completely free to enter CTF Categories: Web, Reversing, OSINT, Crypto, Pwn & Blockchain Bug Bounty Phase: Hunt real vulnerabilities in a corporate infrastructure Prizes: - Top 3 teams: ThunderCipher VAPT Certification Exam Voucher (one per member) - All participants: 40% discount on ThunderCipher VAPT Exam + Certificate of Participation Sponsored by ThunderCipher | https://thundercipher.in Registration: June 25 – July 31 | Only 40 spots available Register at https://hackhowl.com",
       "organizer": "Hack Howl",
       "location": "Online",
       "url": "https://hackhowl.com/",
@@ -287,7 +287,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "7e24da05f89f110d0ce336c8c97d4dfe8223a628"
+      "hash": "6014069db733c0f2859262c742f5d348cc730b66"
     },
     {
       "source": "ctftime",
