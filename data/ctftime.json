@@ -1,38 +1,6 @@
 {
-  "count": 37,
+  "count": 35,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3286",
-      "title": "jailCTF 2026",
-      "category": "ctf",
-      "description": "This is the third jailCTF event. Unlike traditional CTFs, this event has a large focus on \"jail\" challenges which ask players to escape out of a code sandbox with some set of restrictions applied. Categories here aren't traditional here either, with pyjail, esolang, and other mainstream languages as categories (js, perl, ruby, c, etc). There will also be King-of-the-hill (koth) style challenges! Come and have fun in jailCTF! Discord: https://discord.gg/JxtuFxMaE8 Infra sponsored by https://goo.gle/ctfsponsorship",
-      "organizer": "jailctf",
-      "location": "Online",
-      "url": "https://ctf.pyjail.club/",
-      "starts_at": "2026-07-24T20:00:00.000Z",
-      "ends_at": "2026-07-27T20:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "c48e94cb8543735d4c5bd882d15bca65b0d2f268"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3268",
-      "title": "DIVER OSINT CTF 2026",
-      "category": "ctf",
-      "description": "DIVER OSINT CTF is the real-world oriented OSINT CTF. We provide country/region-neutral OSINT challenges. Challenges will be available in English and Japanese. Anyone is welcome to join. Discord: https://discord.diverctf.org/ Twitter: https://x.com/DIVER_OSINT_CTF",
-      "organizer": "diver_osint",
-      "location": "Online",
-      "url": "https://ctfd.diverctf.org/",
-      "starts_at": "2026-07-25T03:10:00.000Z",
-      "ends_at": "2026-07-26T03:10:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "e397914fed16ea4c4e866fa270fc8dbecd0286e5"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3201",
@@ -390,7 +358,7 @@
       "uid": "ctftime-3344",
       "title": "TFC CTF 2026",
       "category": "ctf",
-      "description": "This year, The Few Chosen return with our sixth annual CTF, taking place on September 5-6, 2026. We’re a team of CTF players who set out to build the kind of competition we’d want to play ourselves. Everything has been built from the ground up, with challenges across Pwn, Reverse, Web, Crypto, and Misc. Expect tough challenges, clever ideas, and plenty of opportunities to get stuck on something for far longer than you’d like. See you in September.",
+      "description": "This year, The Few Chosen return with our sixth annual CTF, taking place on September 5-6, 2026. We’re a team of CTF players who set out to build the kind of competition we’d want to play ourselves. Everything has been built from the ground up, with challenges across Pwn, Reverse, Web, Crypto, and Misc. Expect tough challenges, clever ideas, and plenty of opportunities to get stuck on something for far longer than you’d like. See you in September. Infra sponsored by goo.gle/ctfsponsorship",
       "organizer": "The Few Chosen",
       "location": "Online",
       "url": "https://ctf.thefewchosen.com/",
@@ -399,7 +367,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "e98ceefe8b0c31548845a8b446ce24dd70d2f543"
+      "hash": "92bb543e249039555cdcb8a08f3a4025b8cad9a1"
     },
     {
       "source": "ctftime",
