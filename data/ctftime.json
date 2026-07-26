@@ -1,22 +1,6 @@
 {
-  "count": 35,
+  "count": 34,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3201",
-      "title": "D^3CTF 2026",
-      "category": "ctf",
-      "description": "Organized by @Vidar, @CNSS, @L-Team, the 7th D^3CTF is coming! D^3 means \"the cube of Dian\", i.e., the cube of \"electronic\" in Chinese. As the three teams co-hosting this CTF game come from three \"University of Electronic\" in China (UESTC, Xidian, HDU). Have fun! [+] Sponsors: ・Infrastructure: sponsored by goo.gle/ctfsponsorship. For more details, visit https://goo.gle/ctfsponsorship ・Prizes: sponsored by Hex-Rays. For more details, visit https://hex-rays.com [+] Prizes: ・5 x IDA Pro Expert-2 licenses: 3 for 1st place, 1 for 2nd, 1 for 3rd ・5 x Hex-Rays notebooks: 3 for 1st place, 1 for 2nd, 1 for 3rd ・5 x T-shirts: 3 for 1st place, 1 for 2nd, 1 for 3rd",
-      "organizer": "D^3CTF Organizers",
-      "location": "Online",
-      "url": "https://d3c.tf/",
-      "starts_at": "2026-07-25T12:00:00.000Z",
-      "ends_at": "2026-07-26T12:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "cca1f5ec4f7c13f34be0eea6bf10bd79429dbb86"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3372",
