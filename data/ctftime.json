@@ -1,5 +1,5 @@
 {
-  "count": 34,
+  "count": 35,
   "events": [
     {
       "source": "ctftime",
@@ -102,7 +102,7 @@
       "uid": "ctftime-3328",
       "title": "Kali Team - CTF 26",
       "category": "ctf",
-      "description": "Welcome to Kali Team - CTF 26! An elite Jeopardy-style cybersecurity competition organized by Kali Team. The online qualifier is open globally to all cybersecurity students, professionals, and enthusiasts worldwide. Team Size [2-4] The online phase will run for 12 continuous hours, featuring high-quality challenges in: - Web Exploitation - Pwn & Binary Exploitation - Reverse Engineering - Cryptography & Forensics - OSINT Note: The official CTF game platform link is currently under development and will be updated here shortly. Dynamic registration on the platform will open 3 days prior to the event. Official Partners: XYZ DOMAIN, LetsDefend, Hackviser, and Knight Squad Academy. Join us and show the world your skills! https://discord.gg/fEt7tcabgw https://www.instagram.com/kali.tteam/ https://www.linkedin.com/company/kali-team",
+      "description": "Welcome to Kali Team - CTF 26! An elite Jeopardy-style cybersecurity competition organized by Kali Team. The online qualifier is open globally to all cybersecurity students, professionals, and enthusiasts worldwide. Team Size [2-4] The online phase will run for 12 continuous hours, featuring high-quality challenges in: - Web Exploitation - Pwn & Binary Exploitation - Reverse Engineering - Cryptography & Forensics - OSINT Note: The official CTF game platform link is currently under development and will be updated here shortly. Dynamic registration on the platform will open 3 days prior to the event. Official Partners: XYZ DOMAIN, LetsDefend, Hackviser, Knight Squad Academy, CrypteraNet, Altered Security, KOON 7R and HackerDNA.com Join us and show the world your skills! https://discord.gg/fEt7tcabgw https://www.instagram.com/kali.tteam/ https://www.linkedin.com/company/kali-team",
       "organizer": "Kali Team",
       "location": "Online",
       "url": "https://register.kali-team.online/",
@@ -111,7 +111,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "0b19120fc8d19e032003a24363615586b06890fb"
+      "hash": "be8dcc6f87e68fd2ebb9f8e510d7ecc5df73399f"
     },
     {
       "source": "ctftime",
@@ -166,7 +166,7 @@
       "uid": "ctftime-3052",
       "title": "scriptCTF 2026",
       "category": "ctf",
-      "description": "ScriptSorcerers is back with scriptCTF 2026! scriptCTF is a 48-hour jeopardy style CTF for hackers to test their skills against creative and innovative CTF challenges. We have mostly beginner friendly challenges, with a few hard ones. scriptCTF makes CTFs fun and approachable for all skill levels!",
+      "description": "ScriptSorcerers is back with scriptCTF 2026! scriptCTF is a 48-hour jeopardy style CTF for hackers to test their skills against creative and innovative CTF challenges. We have mostly beginner friendly challenges, with a few hard ones. scriptCTF makes CTFs fun and approachable for all skill levels! Discord: https://discord.com/invite/c9xaJFW449",
       "organizer": "ScriptSorcerers",
       "location": "Online",
       "url": "https://ctf.scriptsorcerers.xyz/",
@@ -175,7 +175,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "319f7b13c042438c0e010026d19f4edce9944c2e"
+      "hash": "26aeea69ae09f0c8ce5d73fcd272ff39b4726b0b"
     },
     {
       "source": "ctftime",
@@ -544,6 +544,22 @@
         "jeopardy"
       ],
       "hash": "7b8d6e8f1ed109761d6d609e59e37f10a1e90d5c"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3094",
+      "title": "H7CTF 2026 Finals",
+      "category": "ctf",
+      "description": "H7CTF v3 Finals: An onsite cyber-security challenge hosted at SRMIST, bringing together the top teams from a unified global qualification round. Teams will compete in a real-world attack-defense environment, testing their capabilities across offensive and defensive domains.",
+      "organizer": "H7Tex",
+      "location": "Chennai, Tamil Nadu",
+      "url": "https://2026.h7tex.com/",
+      "starts_at": "2026-10-24T06:30:00.000Z",
+      "ends_at": "2026-10-25T06:30:00.000Z",
+      "tags": [
+        "attack-defense"
+      ],
+      "hash": "2eb85a4a8d314105d63137525c94fe60e0629919"
     }
   ]
 }
