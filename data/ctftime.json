@@ -1,5 +1,5 @@
 {
-  "count": 35,
+  "count": 36,
   "events": [
     {
       "source": "ctftime",
@@ -544,6 +544,22 @@
         "jeopardy"
       ],
       "hash": "7b8d6e8f1ed109761d6d609e59e37f10a1e90d5c"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3207",
+      "title": "Hack.lu CTF 2026",
+      "category": "ctf",
+      "description": "Hack.​lu CTF is organized by FluxFingers, the CTF team of Ruhr-University Bochum (Germany). This will be the 16th edition.",
+      "organizer": "FluxFingers",
+      "location": "Online",
+      "url": "https://flu.xxx/",
+      "starts_at": "2026-10-23T18:00:00.000Z",
+      "ends_at": "2026-10-25T18:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "35e7420b1df053c76842aa110a36c357f5b8ac14"
     },
     {
       "source": "ctftime",
