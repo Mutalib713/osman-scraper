@@ -1,22 +1,6 @@
 {
-  "count": 42,
+  "count": 41,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3372",
-      "title": "BushBash CTF",
-      "category": "ctf",
-      "description": "BushBash CTF is a CTF run by the ANU Computer Science Students’ Association which will run for 48 hours with online only participation available and having an on site capability over the 48 hours on campus with an opening and closing event. Categories of OSINT, rev, pwn, web, crypto and misc. Team max of 6 players Anyone can play, its free!",
-      "organizer": "CSSA",
-      "location": "Online",
-      "url": "http://bushbash.cssa.club/",
-      "starts_at": "2026-07-31T07:00:00.000Z",
-      "ends_at": "2026-08-02T07:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "05d4a63aea85b9a65e052501c6c7589435aef4d1"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3303",
@@ -38,7 +22,7 @@
       "uid": "ctftime-3061",
       "title": "L3akCTF 2026",
       "category": "ctf",
-      "description": "L3akCTF 2026 is the third annual Capture the Flag competition hosted by team L3ak, welcoming participants of all backgrounds and experience levels. We’re bringing 50+ original challenges spanning 8 categories: crypto, web, rev, pwn, misc, forensics, OSINT, and hardware/RF. The difficulty will range from beginner to expert. With great prizes on the line and a strong focus on quality and fun, L3akCTF 2026 is built to deliver an exciting, memorable weekend of hacking. AI assistance will be strictly prohibited in L3akCTF 2026. Any detected AI usage will result in immediate disqualification. Leave your LLMs at home; this competition is for humans only. Discord: https://discord.gg/KfpVAPXYMD Infra sponsored by goo.gle/ctfsponsorship",
+      "description": "L3akCTF 2026 is the third annual Capture the Flag competition hosted by team L3ak, welcoming participants of all backgrounds and experience levels. We’re bringing 50+ original challenges spanning 8 categories: crypto, web, rev, pwn, misc, forensics, OSINT, and hardware/RF. The difficulty will range from beginner to expert. With great prizes on the line and a strong focus on quality and fun, L3akCTF 2026 is built to deliver an exciting, memorable weekend of hacking. AI assistance will be strictly prohibited in L3akCTF 2026. Any detected AI usage will result in immediate disqualification. Leave your LLMs at home; this competition is for humans only. Discord: https://discord.gg/KfpVAPXYMD Infra sponsored by goo.gle/ctfsponsorship We'd like to sincerely thank all our sponsors for their generous support and contribution to the prize pool: OffSec Binary Ninja pwn.college Google Cloud HackSmarter RET2 Systems Amazon Web Services Judgment Labs",
       "organizer": "L3ak",
       "location": "Online",
       "url": "https://ctf.l3ak.team/",
@@ -47,7 +31,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "7beb3a2381015125a37be9dbcebc1159a8d4a6b2"
+      "hash": "f2f58f11732b22e2f164d84be627d8d19f830afe"
     },
     {
       "source": "ctftime",
@@ -278,7 +262,7 @@
       "uid": "ctftime-3065",
       "title": "BrunnerCTF 2026",
       "category": "ctf",
-      "description": "We are whipping up another round of BrunnerCTF! And we hope to have all the favorites from last year’s event. More information will be available as we get closer to the event. Site: https://ctf.brunnerne.dk/ Discord: https://discord.gg/ZSNXY2sjyJ Proudly sponsored by: - Campfire Security - ICSRange - SagaLabs - The LEGO Group - Bankdata - CyberSkills - Hetzner (infrastructure): https://link.brunnerne.dk/hetzner-2026",
+      "description": "Welcome to BrunnerCTF 2026™. As Brunnerne are transitioning towards a better posture on the global CTF market, Brunnerne are going corporate! What started out as a humble start-up, has seen tremendous success during last years BrunnerCTF™. Thus, our stakeholders have decided to heavily invest in Brunnerne, now Brunnerne Inc.™. Brunnerne Inc.™ are whipping up another round of BrunnerCTF! The entire development team from Brunnerne Inc.™ are striving to have all the favorites from last year's event, and hope to supply a wide range of difficulties and categories again this year. The CTF will start on the 21th of august at 14:00 CEST and run until the 23th of august at 14:00 CEST. The CTF is online, and you can participate from anywhere in the world! If the above was all gibberish to you, just know that Brunnerne is not going corporate, yet the theme for this years BrunnerCTF is. But there will be cake! And we hope to have all the favorites from last year’s event. Site: https://ctf.brunnerne.dk/ Discord: https://discord.gg/ZSNXY2sjyJ Proudly sponsored by: - Campfire Security - ICSRange - SagaLabs - The LEGO Group - Bankdata - CyberSkills - Hetzner (infrastructure): https://link.brunnerne.dk/hetzner-2026",
       "organizer": "SDU",
       "location": "Online",
       "url": "https://ctf.brunnerne.dk/",
@@ -287,7 +271,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "9231db6328671799015df40d935217ed91ac8c6f"
+      "hash": "049d792352db694334cc6e196143ae42fd19870a"
     },
     {
       "source": "ctftime",
