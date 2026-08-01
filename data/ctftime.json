@@ -1,70 +1,6 @@
 {
-  "count": 41,
+  "count": 37,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3303",
-      "title": "DeadSec CTF 2026 - POSTPONED",
-      "category": "ctf",
-      "description": "DeadSec CTF 2026 is an online jeopardy-style CTF organized by DeadSec Team. ## Category There will be challenges with a wide range of difficulty mainly from cryptography, reverse, pwn, web, misc... ## Sponsor TBD",
-      "organizer": "DeadSec",
-      "location": "Online",
-      "url": "https://www.deadsec.xyz/",
-      "starts_at": "2026-07-31T12:00:00.000Z",
-      "ends_at": "2026-08-01T12:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "bfe711840d2a99221fccdf29159bd54498a14a4a"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3061",
-      "title": "L3akCTF 2026",
-      "category": "ctf",
-      "description": "L3akCTF 2026 is the third annual Capture the Flag competition hosted by team L3ak, welcoming participants of all backgrounds and experience levels. We’re bringing 50+ original challenges spanning 8 categories: crypto, web, rev, pwn, misc, forensics, OSINT, and hardware/RF. The difficulty will range from beginner to expert. With great prizes on the line and a strong focus on quality and fun, L3akCTF 2026 is built to deliver an exciting, memorable weekend of hacking. AI assistance will be strictly prohibited in L3akCTF 2026. Any detected AI usage will result in immediate disqualification. Leave your LLMs at home; this competition is for humans only. Discord: https://discord.gg/KfpVAPXYMD Infra sponsored by goo.gle/ctfsponsorship We'd like to sincerely thank all our sponsors for their generous support and contribution to the prize pool: OffSec Binary Ninja pwn.college Google Cloud HackSmarter RET2 Systems Amazon Web Services Judgment Labs",
-      "organizer": "L3ak",
-      "location": "Online",
-      "url": "https://ctf.l3ak.team/",
-      "starts_at": "2026-07-31T18:00:00.000Z",
-      "ends_at": "2026-08-02T18:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "f2f58f11732b22e2f164d84be627d8d19f830afe"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3311",
-      "title": "VuwCTF 2026",
-      "category": "ctf",
-      "description": "VuwCTF returns for 2026! For students in the Wellington region, we will be running an in-person event in Cotton Building, Kelburn Campus from 9am to 5pm each day. Registrations are available on our website (https://vuwctf.com/2026). Thank you to our sponsors who provide the support needed to run the event: IEEE YP Catalyst Cloud Pākiki Security Aura Information Security Carapace",
-      "organizer": "VuwCTF",
-      "location": "Online",
-      "url": "https://2026.vuwctf.com/",
-      "starts_at": "2026-07-31T22:00:00.000Z",
-      "ends_at": "2026-08-02T05:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "693a1f92989d1ad1d8ce1254dcc336ad51647c48"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3237",
-      "title": "Universal CTF",
-      "category": "ctf",
-      "description": "U-CTF, short for Universal CTF, is a jeopardy-style competition set across the outer lanes: the transport corridors, relay routes, stations, and inhabited worlds that keep civilization connected. Teams are recruited as operator units to prove that the system is inherently flawed in every part. Their targets are vital pieces of infrastructure that serve, or once served, every citizen, from training stations and relays to maintenance networks and operational grids. Every challenge is a fault line in the machinery that holds the system together. Your task is to find it and break through it.",
-      "organizer": "U-CTF",
-      "location": "Online",
-      "url": "https://ctf.uctf.io/",
-      "starts_at": "2026-08-01T07:00:00.000Z",
-      "ends_at": "2026-08-02T15:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "c9ca5c1775d95316bf98812a62fabc3774d9c47b"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3373",
@@ -102,7 +38,7 @@
       "uid": "ctftime-3328",
       "title": "Kali Team - CTF 26",
       "category": "ctf",
-      "description": "Welcome to Kali Team - CTF 26! An elite Jeopardy-style cybersecurity competition organized by Kali Team. The online qualifier is open globally to all cybersecurity students, professionals, and enthusiasts worldwide. Team Size [2-4] The online phase will run for 12 continuous hours, featuring high-quality challenges in: - Web Exploitation - Pwn & Binary Exploitation - Reverse Engineering - Cryptography & Forensics - OSINT Note: The official CTF game platform link is currently under development and will be updated here shortly. Dynamic registration on the platform will open 3 days prior to the event. Official Partners: XYZ DOMAIN, LetsDefend, Hackviser, Knight Squad Academy, CrypteraNet, Altered Security, KOON 7R and HackerDNA.com Join us and show the world your skills! https://discord.gg/fEt7tcabgw https://www.instagram.com/kali.tteam/ https://www.linkedin.com/company/kali-team",
+      "description": "Welcome to Kali Team - CTF 26! An elite Jeopardy-style cybersecurity competition organized by Kali Team. The online qualifier is open globally to all cybersecurity students, professionals, and enthusiasts worldwide. Team Size [2-4] The online phase will run for 12 continuous hours, featuring high-quality challenges in: - Web Exploitation - Pwn & Binary Exploitation - Reverse Engineering - Cryptography & Forensics - OSINT Note: The official CTF game platform link is currently under development and will be updated here shortly. Dynamic registration on the platform will open 3 days prior to the event. Official Partners: XYZ DOMAIN, LetsDefend, Hackviser, Knight Squad Academy, CrypteraNet, Altered Security, KOON 7R and HackerDNA.com Official Sponsor: The Rezon Join us and show the world your skills! https://discord.gg/fEt7tcabgw https://www.instagram.com/kali.tteam/ https://www.linkedin.com/company/kali-team",
       "organizer": "Kali Team",
       "location": "Online",
       "url": "https://register.kali-team.online/",
@@ -111,7 +47,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "be8dcc6f87e68fd2ebb9f8e510d7ecc5df73399f"
+      "hash": "184ce85145b8e583bc50617f77b94a5b498e1136"
     },
     {
       "source": "ctftime",
