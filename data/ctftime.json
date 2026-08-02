@@ -1,38 +1,6 @@
 {
-  "count": 37,
+  "count": 35,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3373",
-      "title": "Lexington Informatics Tournament CTF 2026",
-      "category": "ctf",
-      "description": "Lexington Informatics Tournament CTF 2026 is a Jeopardy-style, beginner-friendly online CTF that's open to everyone. It is hosted by members of the LexMACS club from Lexington High School with the help of some amazing guest writers. You may form teams of up to 3 contestants! Current and Past Sponsors: Infra sponsored by goo.gle/ctfsponsorship Non-Trivial Algoverse SPARC AoPS Texas Instruments RSM OtterSec X-Camp Trail of Bits Wolfram MIT Beaver Works Interview Cake .xyz Zulip For more information, visit our website at https://lit.lhsmathcs.org/ You can also join our Discord server https://discord.gg/k6yzFdZ",
-      "organizer": "LIT CTF",
-      "location": "Online",
-      "url": "https://lit.lhsmathcs.org/",
-      "starts_at": "2026-08-01T15:00:00.000Z",
-      "ends_at": "2026-08-03T15:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "c055c3cc4ed578efd0dc39239c60afd1080ec5aa"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3383",
-      "title": "SCAN 2026 Online Qualifier",
-      "category": "ctf",
-      "description": "SCAN (Secure Crypto Asset Networks) is an international blockchain investigation and digital asset tracing competition. Teams will solve real-world blockchain intelligence and cryptocurrency investigation challenges to qualify for the offline finals in Seoul. /Registration/ Online registration opens on July 27, 2026, at 12:00 PM (KST) via the CTFd platform. /Schedule/ Online Qualifier: August 2, 2026 (00:00 UTC / 09:00 KST) Duration: 24 hours Offline Finals: September 28, 2026 Seoul, Republic of Korea Conference & Awards Ceremony: October 1, 2026 Walkerhill Seoul, KBW 2026 Venue /Prize Pool/ Total Prize Pool: 2 BTC Champion: 1 BTC /Qualification/ The Top 20 teams from the Online Qualifier will be invited to compete in the Offline Finals in Seoul. /Awards/ All teams competing in the Offline Finals will receive prize money according to their final ranking. Please note: Prize winners must attend the Awards Ceremony in person to receive their prize. Teams that do not attend the ceremony will forfeit their prize.",
-      "organizer": "D Asset Inc.",
-      "location": "Online",
-      "url": "https://scan.sx/",
-      "starts_at": "2026-08-02T00:00:00.000Z",
-      "ends_at": "2026-08-03T00:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "d75564b2a2b87345030326df1e4bfb49465c7ff1"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3328",
