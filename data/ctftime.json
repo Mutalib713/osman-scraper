@@ -6,7 +6,7 @@
       "uid": "ctftime-3328",
       "title": "Kali Team - CTF 26",
       "category": "ctf",
-      "description": "Welcome to Kali Team - CTF 26! An elite Jeopardy-style cybersecurity competition organized by Kali Team. The online qualifier is open globally to all cybersecurity students, professionals, and enthusiasts worldwide. Team Size [2-4] The online phase will run for 12 continuous hours, featuring high-quality challenges in: - Web Exploitation - Pwn & Binary Exploitation - Reverse Engineering - Cryptography & Forensics - OSINT Note: The official CTF game platform link is currently under development and will be updated here shortly. Dynamic registration on the platform will open 3 days prior to the event. Official Partners: XYZ DOMAIN, LetsDefend, Hackviser, Knight Squad Academy, CrypteraNet, Altered Security, KOON 7R and HackerDNA.com Official Sponsor: The Rezon Join us and show the world your skills! https://discord.gg/fEt7tcabgw https://www.instagram.com/kali.tteam/ https://www.linkedin.com/company/kali-team",
+      "description": "Welcome to Kali Team - CTF 26! An elite Jeopardy-style cybersecurity competition organized by Kali Team. The online qualifier is open globally to all cybersecurity students, professionals, and enthusiasts worldwide. Team Size [2-4] The online phase will run for 12 continuous hours, featuring high-quality challenges in: - Web Exploitation - Pwn & Binary Exploitation - Reverse Engineering - Cryptography & Forensics - OSINT Official Partners: XYZ DOMAIN, LetsDefend, Hackviser, Knight Squad Academy, CrypteraNet, Altered Security, KOON 7R and HackerDNA.com Official Sponsor: The Rezon Join us and show the world your skills! https://discord.gg/fEt7tcabgw https://www.instagram.com/kali.tteam/ https://www.linkedin.com/company/kali-team",
       "organizer": "Kali Team",
       "location": "Online",
       "url": "https://register.kali-team.online/",
@@ -15,7 +15,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "184ce85145b8e583bc50617f77b94a5b498e1136"
+      "hash": "c94f1e42aefd9ecfa9c897df7ccac8c0b6722c35"
     },
     {
       "source": "ctftime",
@@ -198,7 +198,7 @@
       "uid": "ctftime-3290",
       "title": "COMPFEST CTF 2026",
       "category": "ctf",
-      "description": "Discord server: TBA Event URL: TBA COMPFEST Website: https://compfest.id A CTF event organized by Computer Science students of Universitas Indonesia. The main event is aimed for Indonesian citizens, but everyone is welcome to participate in the mirror contest. *** Please keep in mind this event is a mirror event form an already held local event. Participants from that event may not join this event. *** Thank you to our sponsors: - Google Cloud Platform (Infra sponsored by goo.gle/ctfsponsorship) - Hex-Rays - Offsec",
+      "description": "Discord server: TBA Event URL: TBA COMPFEST Website: https://compfest.id A CTF event organized by Computer Science students of Universitas Indonesia. The main event is aimed for Indonesian citizens, but everyone is welcome to participate in the mirror contest. *** Please keep in mind this event is a mirror event form an already held local event. Participants from that event may not join this event. *** Thank you to our sponsors: - Google Cloud Platform (Infra sponsored by goo.gle/ctfsponsorship) - Hex-Rays - Offsec - Binary Ninja",
       "organizer": "CSUI",
       "location": "Online",
       "url": "https://compfest.id/",
@@ -207,7 +207,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "0a43d478711adcd82129bf1661943235627484e3"
+      "hash": "d31ed39d5e29425fb80cfb669726c86146b3147c"
     },
     {
       "source": "ctftime",
