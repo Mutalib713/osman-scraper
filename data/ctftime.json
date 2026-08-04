@@ -1,5 +1,5 @@
 {
-  "count": 35,
+  "count": 36,
   "events": [
     {
       "source": "ctftime",
@@ -9,13 +9,13 @@
       "description": "Welcome to Kali Team - CTF 26! An elite Jeopardy-style cybersecurity competition organized by Kali Team. The online qualifier is open globally to all cybersecurity students, professionals, and enthusiasts worldwide. Team Size [2-4] The online phase will run for 12 continuous hours, featuring high-quality challenges in: - Web Exploitation - Pwn & Binary Exploitation - Reverse Engineering - Cryptography & Forensics - OSINT Official Partners: XYZ DOMAIN, LetsDefend, Hackviser, Knight Squad Academy, CrypteraNet, Altered Security, KOON 7R and HackerDNA.com Official Sponsor: The Rezon Join us and show the world your skills! https://discord.gg/fEt7tcabgw https://www.instagram.com/kali.tteam/ https://www.linkedin.com/company/kali-team",
       "organizer": "Kali Team",
       "location": "Online",
-      "url": "https://register.kali-team.online/",
+      "url": "https://kali-team.online/",
       "starts_at": "2026-08-05T07:00:00.000Z",
       "ends_at": "2026-08-05T19:00:00.000Z",
       "tags": [
         "jeopardy"
       ],
-      "hash": "c94f1e42aefd9ecfa9c897df7ccac8c0b6722c35"
+      "hash": "e27ac3abd45ed85bff4d1232f4729e7045eed819"
     },
     {
       "source": "ctftime",
@@ -182,16 +182,16 @@
       "uid": "ctftime-3379",
       "title": "Haruulzangi CTF 2026 Qualifier",
       "category": "ctf",
-      "description": "Haruul Zangi CTF 2026 is organized by MNCERT/CC and the Haruulzangi CTF Team, representing the Mongolian CERT and cybersecurity community. We are proud to announce the 14th edition of Haruul Zangi CTF and welcome participants from around the world. The competition aims to promote practical cybersecurity skills, encourage knowledge sharing, and strengthen collaboration within the global cybersecurity community. Competition Format The competition consists of three rounds: Round 1 – Qualification (Online, Jeopardy) • Date: August 22, 2026 • Start Time: 09:00 (UTC+8) • Duration: 24 hours Round 2 – Semi-Final (Onsite, Jeopardy) • Date: September 5, 2026 • Location: Mongolia Round 3 – Final (Onsite, Attack & Defense) • Date: September 24, 2026 • Location: Mongolia Challenge Categories • Pwn • Web • Forensics • Cryptography • Reverse Engineering • Miscellaneous The challenges range from beginner to advanced difficulty, providing an engaging experience for both new and experienced CTF players. Team Information • Teams may consist of up to 3 players. • International participants are welcome. Qualification The following teams will advance to the onsite Semi-Final: • The top 30 teams from the online Qualification Round. • The top high school team (if not already qualified through the overall ranking). • The top women's team (if not already qualified through the overall ranking). The Semi-Final will be held in Jeopardy format. At the end of the Semi-Final, the top 10 teams will qualify for the onsite Final, which will be played in the Attack & Defense format. Additionally, two international teams will be invited directly to participate in the onsite Final. Support for International Finalists The organizers will provide the following support for the two invited international finalist teams: • Hotel accommodation during the onsite event. • A daily allowance to cover meals and local expenses. Invited international teams are responsible for: • International and domestic transportat",
+      "description": "Haruul Zangi CTF 2026 is organized by MNCERT/CC and the Haruulzangi CTF Team, representing the Mongolian CERT and cybersecurity community. We are proud to announce the 14th edition of Haruul Zangi CTF and welcome participants from around the world. The competition aims to promote practical cybersecurity skills, encourage knowledge sharing, and strengthen collaboration within the global cybersecurity community. Competition Format The competition consists of three rounds: Round 1 – Qualification (Online, Jeopardy) • Date: August 22, 2026 • Start Time: 09:00 (UTC+8) • Duration: 24 hours Round 2 – Semi-Final (Onsite, Jeopardy) • Date: September 5, 2026 • Location: Mongolia Round 3 – Final (Onsite, Attack & Defense) • Date: September 24, 2026 • Location: Mongolia Challenge Categories • Pwn • Web • Forensics • Cryptography • Reverse Engineering • Miscellaneous The challenges range from beginner to advanced difficulty, providing an engaging experience for both new and experienced CTF players. Team Information • Teams may consist of up to 3 players. • International participants are welcome. Qualification The following teams will advance to the onsite Semi-Final: - The top 30 teams from the online Qualification Round. - The top high school team (if not already qualified through the overall ranking). - The top women's team (if not already qualified through the overall ranking). The Semi-Final will be held in Jeopardy format. At the end of the Semi-Final, the top 10 teams will qualify for the onsite Final, which will be played in the Attack & Defense format. Additionally, the top two international teams, based on the results of the online Qualification Round, will be invited directly to participate in the onsite Final. Support for International Finalists The organizers will provide the following support for the two invited international finalist teams: • Hotel accommodation during the onsite event. • A daily allowance to cover meals and local expenses. Invited international te",
       "organizer": "haruulzangi-organizers",
       "location": "Online",
-      "url": "https://haruulzangi.mn/",
+      "url": "https://2026.haruulzangi.mn/",
       "starts_at": "2026-08-22T01:00:00.000Z",
       "ends_at": "2026-08-23T01:00:00.000Z",
       "tags": [
         "jeopardy"
       ],
-      "hash": "d500dd916373d8b7ac532471a92cd1de1d873e31"
+      "hash": "f8e062f09c3da4e0985697784d33f56e7537d5b6"
     },
     {
       "source": "ctftime",
@@ -368,6 +368,22 @@
         "jeopardy"
       ],
       "hash": "70415e57d68efd004acea0a8c1e786fc24aae5b2"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3392",
+      "title": "DefCamp Capture the Flag (D-CTF) 2026 Quals",
+      "category": "ctf",
+      "description": "Mark Your Calendars! The DefCamp Capture the Flag (D-CTF) Qualification Phase is Locked and Loaded for 2026! Get ready to dive into the most electrifying and audacious security CTF competition in Central and Eastern Europe—DefCamp Capture The Flag (D-CTF)! This is where the sharpest hackers and IT masterminds come together to push their skills to the limit, battling it out with top CTF teams from around the globe. The mission? Secure a spot in the elite top 10 and ultimately conquer the D-CTF competition—or go down fighting! Since 2011, DefCamp Capture the Flag has been the ultimate battleground for over 10,000 players. This annual, multi-stage event is open to all, but remember one crucial rule—hack or be hacked! Event Highlights Brace yourselves for an adrenaline-packed adventure with around 10 beginner-friendly challenges and 15 more difficult tasks that will test even the most seasoned players. Format: Jeopardy Play Format: Team-only Genres: Crypto, Pwning, Reversing, Web, Forensics, Miscellaneous… Language: English Access: Open / Free for everyone Difficulty: Entry Level - Easy - Medium - Hard - Insane The Challenge Awaits Tackle a variety of challenges across multiple categories. Exploit system weaknesses, follow cryptic hints, and uncover hidden secrets. Each challenge holds a unique flag in the format CTF{sha256 random message}. Capture it, submit it on our platform, and rack up your points. CTF competitions are a thrilling mix of puzzles and challenges, including reverse-engineering, memory corruption, cryptography, web tech, and more. Solve them, capture the flag, and climb the leaderboard to victory! Organizers & Partners This epic event is brought to you by the Cyber Security Research Center from Romania (Asociatia Centrul de Cercetare in Securitate Informatica din Romania) under the banner of DefCamp, Romania's largest and most vibrant INFOSEC community.",
+      "organizer": "CCSIR.org",
+      "location": "Online",
+      "url": "https://dctf26-quals.cyber-edu.co/",
+      "starts_at": "2026-09-18T10:00:00.000Z",
+      "ends_at": "2026-09-20T10:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "f179f2deb801313119fc71fffdc258a4039b6053"
     },
     {
       "source": "ctftime",
