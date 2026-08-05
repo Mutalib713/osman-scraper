@@ -1,22 +1,6 @@
 {
-  "count": 36,
+  "count": 35,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3328",
-      "title": "Kali Team - CTF 26",
-      "category": "ctf",
-      "description": "Welcome to Kali Team - CTF 26! An elite Jeopardy-style cybersecurity competition organized by Kali Team. The online qualifier is open globally to all cybersecurity students, professionals, and enthusiasts worldwide. Team Size [2-4] The online phase will run for 12 continuous hours, featuring high-quality challenges in: - Web Exploitation - Pwn & Binary Exploitation - Reverse Engineering - Cryptography & Forensics - OSINT Official Partners: XYZ DOMAIN, LetsDefend, Hackviser, Knight Squad Academy, CrypteraNet, Altered Security, KOON 7R and HackerDNA.com Official Sponsor: The Rezon Join us and show the world your skills! https://discord.gg/fEt7tcabgw https://www.instagram.com/kali.tteam/ https://www.linkedin.com/company/kali-team",
-      "organizer": "Kali Team",
-      "location": "Online",
-      "url": "https://kali-team.online/",
-      "starts_at": "2026-08-05T07:00:00.000Z",
-      "ends_at": "2026-08-05T19:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "e27ac3abd45ed85bff4d1232f4729e7045eed819"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3342",
