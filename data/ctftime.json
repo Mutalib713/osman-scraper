@@ -1,5 +1,5 @@
 {
-  "count": 35,
+  "count": 40,
   "events": [
     {
       "source": "ctftime",
@@ -83,6 +83,22 @@
     },
     {
       "source": "ctftime",
+      "uid": "ctftime-3382",
+      "title": "The heart of Sysola",
+      "category": "ctf",
+      "description": "Добро пожаловать в Сыктывкар будущего - город, где передовые технологии встречаются с культурой и традициями Республики Коми. Участников ждут разнообразные задFXB по информационной безопасности, командная работа, нестандартные вызовы и борьба за право выйти в очный финал. Соберите команду, проверьте свои навыки и докажите, что именно вы готовы стать сильнейшими! Даты соревнований: Онлайн-отбор - 8 августа 2026 года Очный финал - 11 сентября 2026 года в Сыктывкаре в рамках межрегионального фестиваля геймеров и IT-технологий \"GAME-IT\" Условия участия: Команды до 5 человек Участие бесплатное Для иногородних финалистов предусмотрены бесплатные проживание и питание Регламент соревнований - https://disk.yandex.ru/i/TTPv2B8IYBApXg Положение фестиваля - https://disk.yandex.ru/i/NX6aWjy0eQ0uVg Переходите по ссылке и регистрируйте команду: https://caplag.ru/competitions/the-heart-of-sysola По всем вопросам: - Чат-бот поддержки платформы - https://telegram.me/caplag_support_bot - Сообщество платформы - https://telegram.me/caplag или https://vk.com/caplag - Сообщество фестиваля Game It - https://vk.com/gameitkomi",
+      "organizer": "Caplag",
+      "location": "Online",
+      "url": "https://caplag.ru/competitions/the-heart-of-sysola",
+      "starts_at": "2026-08-08T13:00:00.000Z",
+      "ends_at": "2026-08-09T01:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "060645160c940deb9b1e72674ad435478fdb0039"
+    },
+    {
+      "source": "ctftime",
       "uid": "ctftime-3330",
       "title": "Thryve CTF 2026",
       "category": "ctf",
@@ -147,6 +163,22 @@
     },
     {
       "source": "ctftime",
+      "uid": "ctftime-3387",
+      "title": "0xV01D CTF 2026 V2",
+      "category": "ctf",
+      "description": "OxV0ID 2026 is an online Jeopardy-style CTF competition organized by the 0xV0ID team. Categories: Web, Pwn, Crypto, Reverse, Misc, Mobile, OSINT Team size: Unlimited Join our Discord: https://discord.gg/sYt8HH9qU",
+      "organizer": "OxV01D",
+      "location": "Online",
+      "url": "https://0xv01d-ctf.xyz/",
+      "starts_at": "2026-08-15T07:30:00.000Z",
+      "ends_at": "2026-08-16T07:30:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "a925c10cc1bb6f28f159a43e16fbc4b5e6091a89"
+    },
+    {
+      "source": "ctftime",
       "uid": "ctftime-3065",
       "title": "BrunnerCTF 2026",
       "category": "ctf",
@@ -160,6 +192,38 @@
         "jeopardy"
       ],
       "hash": "049d792352db694334cc6e196143ae42fd19870a"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3159",
+      "title": "PwnSec CTF 2026",
+      "category": "ctf",
+      "description": "PwnSec is proud to present its 3rd edition CTF. Tune in for top jeopardy madness built by our team featuring web, crypto, reverse engineering, binary exploitation, cloud, forensics, misc, mobile, and more!",
+      "organizer": "PwnSec",
+      "location": "Online",
+      "url": "https://ctf.pwnsec.team/",
+      "starts_at": "2026-08-21T14:00:00.000Z",
+      "ends_at": "2026-08-22T14:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "2823ac8de5c26e41cfcaa36575e899d27654e6f1"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3370",
+      "title": "z0d1ak CTF Qualifiers",
+      "category": "ctf",
+      "description": "Team z0d1ak is thrilled to announce the first edition of z0d1ak CTF. This is the online qualifying round. We have prepared a Jeopardy style (with maybe some surprises) competition designed to test your skills across multiple domains. The top-performing teams from this qualifier will be invited for the Finals, hosted in person. Registration & Platform: TBA Discord: https://discord.gg/ZfjXCXbXkA",
+      "organizer": "z0d1ak",
+      "location": "Online",
+      "url": "http://ctf.z0d1ak.org/",
+      "starts_at": "2026-08-21T16:00:00.000Z",
+      "ends_at": "2026-08-23T04:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "d04fb1ee70312ad1d3ba45019f4d9bcd8e439156"
     },
     {
       "source": "ctftime",
@@ -272,6 +336,22 @@
         "jeopardy"
       ],
       "hash": "92bb543e249039555cdcb8a08f3a4025b8cad9a1"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3389",
+      "title": "SUNCTF 2026",
+      "category": "ctf",
+      "description": "SunCTF is Sunway Cybersecurity Club's flagship jeopardy capture-the-flag competition, now in its third edition. Teams face a board of standalone challenges across Cryptography, Web Exploitation, Binary Exploitation, Reverse Engineering, Forensics, OSINT and Miscellaneous. Scoring is dynamic, so challenge values decay as more teams solve them and the scoreboard shifts in real time. Every challenge is authored in-house by our members and alumni. All challenges are open-sourced after the event, with official writeups published for each. Flag format: sunctf26{...} Format: Jeopardy, on-site Date: 6 September 2026, 08:00-17:00 MYT (UTC+8) Venue: Sir Jeffrey Cheah Hall, Level 4, Sunway University, Bandar Sunway, Subang Jaya, Selangor, Malaysia Teams: 2 to 4 members Eligibility: University students studying in Malaysia Prize pool: RM20,000+ Platinum Sponsors: TBA Organised by the Sunway Cybersecurity Club (CSC), Sunway University. Register: https://forms.gle/bAb1FqHfga7MKH2m9 Website: https://www.sunwaycybersecurityclub.org/sunctf",
+      "organizer": "Sunway Cybersecurity Club",
+      "location": "Malaysia, Subang Jaya",
+      "url": "https://www.sunwaycybersecurityclub.org/sunctf",
+      "starts_at": "2026-09-06T00:00:00.000Z",
+      "ends_at": "2026-09-06T09:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "0792ab1a70ced94aa5d5ca5c826f480c76fcaf8c"
     },
     {
       "source": "ctftime",
