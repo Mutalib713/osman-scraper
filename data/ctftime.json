@@ -1,38 +1,6 @@
 {
-  "count": 40,
+  "count": 38,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3342",
-      "title": "AEROSPACE VILLAGE STARPWN CTF",
-      "category": "ctf",
-      "description": "STARPWN CTF 2026 A cyberpunk CTF brought to you by the AEROSPACE Village at DEFCON 34 Want to try your hand at hacking satellites, spacecraft and ground control systems? Miss out on Hack-A-Sat? Want to explore the final frontier of cybersecurity? STARPWN is the official Aerospace Village space hacking CTF! Back door flight computers, trojan flight software, exploit CVE's, reverse protocols, and more! During your space hacking journey, you’ll learn all about the environmental and operational constraints of space systems, how they affect cybersecurity posture, and impact exploitability. Brought to you by: Aerospace Village Aerospace Corporation Ethos Labs Final Frontier Security Visionspace Sixgen Cal Poly - California Cybersecurity Institute CTFd",
-      "organizer": "Visionspace",
-      "location": "Online",
-      "url": "https://starpwn.ctfd.io/",
-      "starts_at": "2026-08-06T17:00:00.000Z",
-      "ends_at": "2026-08-09T18:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "51ec04bd62b825dc28208a6c4b3c9481941c488e"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3305",
-      "title": "RoboHack AI CTF (Robotic Hacking Community at DEFCON 34)",
-      "category": "ctf",
-      "description": "RoboHack AI CTF is an experimental Capture The Flag event hosted by the Robotic Hacking Community at DEF CON 34. The CTF target will be an AI robot inside a simulated environment. Instead of requiring continuous manual player interaction, the competition may allow participants to submit their own AI models or agents, which will then be used to interact with, exploit, or solve challenges against the robotic target environment. The challenge scope may include both AI model security and robotics system security. In addition to allowing participants to compete using AI models, the target systems and challenges themselves may involve AI models such as VLA, VLM, or LLM components. Potential challenge topics may include adversarial patches, prompt injection, prompt jailbreaks, model poisoning, and other attacks against AI-enabled robotic decision-making systems. The CTF may also include challenges related to the robot’s underlying software stack, communication layers, and robotics protocols, such as ROS 2, DDS, and related robotic middleware or system interfaces. The goal is to explore the intersection of robotics security, AI model behavior, autonomous exploitation, and CTF-style challenge design. Participants may be asked to think beyond traditional web, pwn, reversing, or cloud challenges and consider how autonomous systems perceive, decide, communicate, and act inside a robotic environment. This event is expected to be experimental and community-driven. Details such as rules, scoring, participation format, model submission requirements, challenge categories, target environments, and challenge availability may change as the event develops. Please refer to the official Robotic Hacking Community website for the latest and most accurate event information. Tentative Challenge Areas AI robotic security Autonomous agent / AI model participation VLA, VLM, and LLM security Adversarial patch attacks Prompt injection Prompt jailbreak Model poisoning AI-enabled robotic decision-ma",
-      "organizer": "robotichackingcommunity",
-      "location": "Online",
-      "url": "https://www.robotichackingcommunity.com/",
-      "starts_at": "2026-08-07T00:00:00.000Z",
-      "ends_at": "2026-08-09T00:00:00.000Z",
-      "tags": [
-        "hack quest"
-      ],
-      "hash": "4d844fc0707f90a4f93007f2dce373d1b4aaeb7d"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3322",
