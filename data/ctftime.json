@@ -1,54 +1,6 @@
 {
-  "count": 38,
+  "count": 35,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3322",
-      "title": "DEF CON CTF 2026",
-      "category": "ctf",
-      "description": "",
-      "organizer": "Benevolent Bureau of Birds",
-      "location": "Las Vegas, Nevada, USA",
-      "url": "https://bbbirds.org/",
-      "starts_at": "2026-08-07T16:00:00.000Z",
-      "ends_at": "2026-08-09T19:00:00.000Z",
-      "tags": [
-        "attack-defense"
-      ],
-      "hash": "a3c9b8b33f57074e6c001a9de340277b9e0146b0"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3052",
-      "title": "scriptCTF 2026",
-      "category": "ctf",
-      "description": "ScriptSorcerers is back with scriptCTF 2026! scriptCTF is a 48-hour jeopardy style CTF for hackers to test their skills against creative and innovative CTF challenges. We have mostly beginner friendly challenges, with a few hard ones. scriptCTF makes CTFs fun and approachable for all skill levels! Discord: https://discord.com/invite/c9xaJFW449",
-      "organizer": "ScriptSorcerers",
-      "location": "Online",
-      "url": "https://ctf.scriptsorcerers.xyz/",
-      "starts_at": "2026-08-08T00:00:00.000Z",
-      "ends_at": "2026-08-10T00:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "26aeea69ae09f0c8ce5d73fcd272ff39b4726b0b"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3148",
-      "title": "UIUCTF 2026",
-      "category": "ctf",
-      "description": "UIUCTF is an annual capture-the-flag competition hosted by SIGPwny, the cybersecurity club at the University of Illinois Urbana-Champaign (UIUC).",
-      "organizer": "SIGPwny",
-      "location": "Online",
-      "url": "https://uiuc.tf/",
-      "starts_at": "2026-08-08T00:00:00.000Z",
-      "ends_at": "2026-08-10T00:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "62a929f680111ee70c9c226d2502f1c0fd981367"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3382",
