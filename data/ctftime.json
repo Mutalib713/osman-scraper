@@ -3,22 +3,6 @@
   "events": [
     {
       "source": "ctftime",
-      "uid": "ctftime-3382",
-      "title": "The heart of Sysola",
-      "category": "ctf",
-      "description": "Добро пожаловать в Сыктывкар будущего - город, где передовые технологии встречаются с культурой и традициями Республики Коми. Участников ждут разнообразные задFXB по информационной безопасности, командная работа, нестандартные вызовы и борьба за право выйти в очный финал. Соберите команду, проверьте свои навыки и докажите, что именно вы готовы стать сильнейшими! Даты соревнований: Онлайн-отбор - 8 августа 2026 года Очный финал - 11 сентября 2026 года в Сыктывкаре в рамках межрегионального фестиваля геймеров и IT-технологий \"GAME-IT\" Условия участия: Команды до 5 человек Участие бесплатное Для иногородних финалистов предусмотрены бесплатные проживание и питание Регламент соревнований - https://disk.yandex.ru/i/TTPv2B8IYBApXg Положение фестиваля - https://disk.yandex.ru/i/NX6aWjy0eQ0uVg Переходите по ссылке и регистрируйте команду: https://caplag.ru/competitions/the-heart-of-sysola По всем вопросам: - Чат-бот поддержки платформы - https://telegram.me/caplag_support_bot - Сообщество платформы - https://telegram.me/caplag или https://vk.com/caplag - Сообщество фестиваля Game It - https://vk.com/gameitkomi",
-      "organizer": "Caplag",
-      "location": "Online",
-      "url": "https://caplag.ru/competitions/the-heart-of-sysola",
-      "starts_at": "2026-08-08T13:00:00.000Z",
-      "ends_at": "2026-08-09T01:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "060645160c940deb9b1e72674ad435478fdb0039"
-    },
-    {
-      "source": "ctftime",
       "uid": "ctftime-3330",
       "title": "Thryve CTF 2026",
       "category": "ctf",
@@ -560,6 +544,22 @@
         "attack-defense"
       ],
       "hash": "2eb85a4a8d314105d63137525c94fe60e0629919"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3242",
+      "title": "BlackAlps CTF 2026",
+      "category": "ctf",
+      "description": "The BlackAlps CTF will be held at the end of the BlackAlps conference in Yverdon-les-Bains in Switzerland. It's a CTF for all level including from beginner up to advanced team. The CTF will last 4 hours 15 and be on site for about 250 people. There is no specific categories. Registration is mandatory. Welcome at 18:45. Start at 19:15. End at 23:30. Awards ceremony at 23:45.",
+      "organizer": "BlackAlps",
+      "location": "Switzerland, Yverdon-les-Bains",
+      "url": "https://blackalps.ch/ba/",
+      "starts_at": "2026-11-06T18:15:00.000Z",
+      "ends_at": "2026-11-06T22:30:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "1ad0bd990f625aef65eac8aea22bac555e31d54c"
     }
   ]
 }
