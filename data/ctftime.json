@@ -6,7 +6,7 @@
       "uid": "ctftime-3330",
       "title": "Thryve CTF 2026",
       "category": "ctf",
-      "description": "Thryve CTF 2026 is a competitive jeopardy-style CTF designed to challenge participants across multiple areas of cybersecurity through a diverse set of problems. The competition will be hosted on August 14, 2026, from 11:00 AM to 8:00 PM UTC. The competition will feature: - Digital Forensics, - Web Exploitation, - Reverse Engineering, - Cryptography, - Malware Analysis, - Binary Exploitation, - OSINT, - Miscellaneous. Who can join: - Beginners - Intermediate players - Advanced teams Each category is designed to test real problem-solving skills, technical thinking, and the ability to connect clues under pressure. Join our Discord server : https://discord.gg/efzBFf2Ru",
+      "description": "Thryve CTF 2026 is a global online Capture The Flag competition organized by Thryve Team from Jordan. The qualification round will be open to everyone around the world, including students, cybersecurity learners, CTF players, and professionals. Teams can include up to 4 members. The CTF will include different cybersecurity categories such as Web, Forensics, Crypto, Reverse Engineering, Pwn, OSINT, Misc, Malware, and more. The online qualification round will take place on August 14, 2026. The final stage will take place on August 22, 2026. Only qualified teams will be eligible to advance to the finals. Sponsor details and official announcements will be shared on our website and social media pages. Website: https://ctf.thryvectf.org Instagram: https://www.instagram.com/thryvectf Get ready to test your skills and be part of Thryve CTF 2026.",
       "organizer": "Thryve",
       "location": "Online",
       "url": "https://ctf.thryvectf.org/",
@@ -15,7 +15,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "359943c2d9dae38100e68963062075ae473d7f47"
+      "hash": "d1ef92c606e872b6d5a6ec92f2afd7321f8e6ddb"
     },
     {
       "source": "ctftime",
@@ -86,7 +86,7 @@
       "uid": "ctftime-3065",
       "title": "BrunnerCTF 2026",
       "category": "ctf",
-      "description": "Welcome to BrunnerCTF 2026™. As Brunnerne are transitioning towards a better posture on the global CTF market, Brunnerne are going corporate! What started out as a humble start-up, has seen tremendous success during last years BrunnerCTF™. Thus, our stakeholders have decided to heavily invest in Brunnerne, now Brunnerne Inc.™. Brunnerne Inc.™ are whipping up another round of BrunnerCTF! The entire development team from Brunnerne Inc.™ are striving to have all the favorites from last year's event, and hope to supply a wide range of difficulties and categories again this year. The CTF will start on the 21th of august at 14:00 CEST and run until the 23th of august at 14:00 CEST. The CTF is online, and you can participate from anywhere in the world! If the above was all gibberish to you, just know that Brunnerne is not going corporate, yet the theme for this years BrunnerCTF is. But there will be cake! And we hope to have all the favorites from last year’s event. Site: https://ctf.brunnerne.dk/ Discord: https://discord.gg/ZSNXY2sjyJ Proudly sponsored by: - Campfire Security - ICSRange - SagaLabs - The LEGO Group - Bankdata - CyberSkills - Hetzner (infrastructure): https://link.brunnerne.dk/hetzner-2026",
+      "description": "<b>Welcome to BrunnerCTF 2026.</b> The entire team at Brunnerne have been cooking and baking new exciting challenges for you to try, as we've expanded from a small home-bakery startup into an international unicorn as <b>Brunnerne Inc.™</b>, with this year's theme: <b>\"Brunnerne goes corporate\"</b>. Whether you are a completely new <b>CTF intern</b> or a <b>senior executive vice president of CTF competitions</b>, there will be delicious challenges waiting for you. This includes our beginner-friendly category now rebranded as <b>\"Onboarding\"</b>. The category features plenty of opportunities to learn the basics, and the chance to ask us for hints on Discord if you get stuck. And although Brunnerne Inc.™ is now a global phenomenon, we promise plenty of traces of <b>traditional Danish pastry</b>.<br><br> <b>━━━━━━━━━━━━━━━━ EVENT INFO ━━━━━━━━━━━━━━━━</b><br> ❯ <b>Start:</b> 2026-08-21 14:00 CEST ❯ <b>End:</b> 2026-08-23 14:00 CEST ❯ <b>Website:</b> <a href=\"https://ctf.brunnerne.dk/\">ctf.brunnerne.dk</a> ❯ <b>Discord:</b> <a href=\"https://discord.gg/wPaa2kdM97\">discord.gg/wPaa2kdM97</a><br><br> <b>━━━━━━━━━━━━━━━━ SPONSORS ━━━━━━━━━━━━━━━━</b><br> Proudly sponsored by: ❯ <b>Campfire Security</b> ❯ <b>ICSRange</b> ❯ <b>SagaLabs</b> ❯ <b>The LEGO Group</b> ❯ <b>Bankdata</b> ❯ <b>CyberSkills</b> ❯ <b>Hetzner</b> - infrastructure",
       "organizer": "SDU",
       "location": "Online",
       "url": "https://ctf.brunnerne.dk/",
@@ -95,7 +95,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "049d792352db694334cc6e196143ae42fd19870a"
+      "hash": "e47ba31e2cbbda72c4e3b0cb74065472ba210125"
     },
     {
       "source": "ctftime",
