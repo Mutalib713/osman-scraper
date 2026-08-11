@@ -1,5 +1,5 @@
 {
-  "count": 35,
+  "count": 36,
   "events": [
     {
       "source": "ctftime",
@@ -544,6 +544,22 @@
         "attack-defense"
       ],
       "hash": "2eb85a4a8d314105d63137525c94fe60e0629919"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3333",
+      "title": "CSCTF 2026",
+      "category": "ctf",
+      "description": "\"CSCTF 2026: Total Warfare\" is an international, online, free jeopardy-style CTF focused on realistic cybersecurity scenarios inspired by critical infrastructure, defense, and modern adversary tactics. Challenges cover web, pwn, crypto, reverse engineering, forensics, misc, Linux, Windows, and operational security, with scenarios connected to energy, telecom, healthcare, finance, and defense environments. The competition is somewhat beginner-friendly but realism-driven.",
+      "organizer": "Mirachron",
+      "location": "Online",
+      "url": "https://2026.chronos-security.ro/",
+      "starts_at": "2026-11-06T13:00:00.000Z",
+      "ends_at": "2026-11-08T13:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "c60da174fe0eadf64833bc3a53c47323c65ab55c"
     },
     {
       "source": "ctftime",
