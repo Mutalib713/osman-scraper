@@ -1,5 +1,5 @@
 {
-  "count": 36,
+  "count": 38,
   "events": [
     {
       "source": "ctftime",
@@ -80,6 +80,22 @@
         "jeopardy"
       ],
       "hash": "a925c10cc1bb6f28f159a43e16fbc4b5e6091a89"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3402",
+      "title": "CTFZone 2026",
+      "category": "ctf",
+      "description": "We are happy to announce CTFZONE 2026. Three lucky winners will receive 300 000 rub, 150 000 rub and 50 000 rub respectively. Follow the CTF on Twitter (twitter.com/ctfzone) and the conference channel in Telegram (t.me/offzone_moscow)",
+      "organizer": "BIZone",
+      "location": "Russia, Moscow",
+      "url": "https://board.ctfz.zone/",
+      "starts_at": "2026-08-19T08:00:00.000Z",
+      "ends_at": "2026-08-19T16:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "5a72cf53c7485613f12e3d48d7f8ed2669ec11e8"
     },
     {
       "source": "ctftime",
@@ -544,6 +560,22 @@
         "attack-defense"
       ],
       "hash": "2eb85a4a8d314105d63137525c94fe60e0629919"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3331",
+      "title": "PINK+ CTF 2026",
+      "category": "ctf",
+      "description": "The first iteration of PINK+ CTF. Explore a variety of hand crafted challenges with a focus on steganography! Discord: https://discord.gg/VuPqnhFxH4",
+      "organizer": "PINK+",
+      "location": "Online",
+      "url": "https://ctf.pink.bayern/",
+      "starts_at": "2026-11-06T12:00:00.000Z",
+      "ends_at": "2026-11-09T12:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "dbcd5a7c8ac4b35349e18b357199d6d9784aee1d"
     },
     {
       "source": "ctftime",
