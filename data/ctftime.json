@@ -1,5 +1,5 @@
 {
-  "count": 38,
+  "count": 47,
   "events": [
     {
       "source": "ctftime",
@@ -64,6 +64,22 @@
         "jeopardy"
       ],
       "hash": "600cb73d012a917144cee0e4fa1e30eb76f75f8a"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3391",
+      "title": "Trace Athena OSINT CTF",
+      "category": "ctf",
+      "description": "OSINT CTF. A 15 Hour open-source intelligence CTF. Nothing you need is hidden;it is simply scattered. Fifteen challenges, fifteen hours, and one rule that matters: everything stays passive.",
+      "organizer": "Athena-CTF",
+      "location": "Online",
+      "url": "https://trace.athena-ctf.com/",
+      "starts_at": "2026-08-15T03:30:00.000Z",
+      "ends_at": "2026-08-15T18:30:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "17aa4aa88cb4ff2012cb745064a467eb7edddc62"
     },
     {
       "source": "ctftime",
@@ -134,16 +150,16 @@
       "uid": "ctftime-3370",
       "title": "z0d1ak CTF Qualifiers",
       "category": "ctf",
-      "description": "Team z0d1ak is thrilled to announce the first edition of z0d1ak CTF. This is the online qualifying round. We have prepared a Jeopardy style (with maybe some surprises) competition designed to test your skills across multiple domains. The top-performing teams from this qualifier will be invited for the Finals, hosted in person. Registration & Platform: TBA Discord: https://discord.gg/ZfjXCXbXkA",
+      "description": "Team z0d1ak is thrilled to announce the first edition of z0d1ak CTF. This is the online qualifying round. We have prepared a Jeopardy style (with maybe some surprises) competition designed to test your skills across multiple domains. The top-performing teams from this qualifier will be invited for the Finals, hosted in person. Registration & Platform: ctf.z0d1ak.org Discord: https://discord.gg/ZfjXCXbXkA",
       "organizer": "z0d1ak",
       "location": "Online",
-      "url": "http://ctf.z0d1ak.org/",
+      "url": "https://ctf.z0d1ak.org/",
       "starts_at": "2026-08-21T16:00:00.000Z",
       "ends_at": "2026-08-23T04:00:00.000Z",
       "tags": [
         "jeopardy"
       ],
-      "hash": "d04fb1ee70312ad1d3ba45019f4d9bcd8e439156"
+      "hash": "06703446d1c39e9d221fdc76382b45d3ac9cb44b"
     },
     {
       "source": "ctftime",
@@ -160,6 +176,38 @@
         "jeopardy"
       ],
       "hash": "f8e062f09c3da4e0985697784d33f56e7537d5b6"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3400",
+      "title": "E0F CTF",
+      "category": "ctf",
+      "description": "E0F CTF is a jeopardy-style CTF built entirely around reverse engineering — no web, pwn, or crypto. Just binaries, obfuscation, and crackmes across a full difficulty curve, from first-timers to seasoned reversers. Bring your favorite disassembler and see how deep you can go. Flag format: e0f{...} Discord: https://discord.gg/QfBEHK67RY Also known as **EOF CTF**",
+      "organizer": "Group 0x1A",
+      "location": "Online",
+      "url": "https://ctf.e0f.team/",
+      "starts_at": "2026-08-22T07:00:00.000Z",
+      "ends_at": "2026-08-23T07:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "0ad33e2043cbbb047703e7d34cbe778194246a81"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3394",
+      "title": "TallDwarf Hosting: Hosting Takeover",
+      "category": "ctf",
+      "description": "Hostile Takeover is a jeopardy style CTF built for players of all levels. Expect challenges across Web, Infrastructure, OSINT, Mixes of Forensics, Crypto and Minecraft. From beginner friendly puzzles to attack chains and infrastructure exploitation, with some challenges containing isolated per-team instances so nobody's fighting over shared boxes.",
+      "organizer": "TallDwarf Hosting",
+      "location": "Online",
+      "url": "https://ctf.talldwarfhosting.com/",
+      "starts_at": "2026-08-22T08:00:00.000Z",
+      "ends_at": "2026-08-23T20:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "031318e4e6f3396f88ecdf3005902b8f025e53a2"
     },
     {
       "source": "ctftime",
@@ -403,6 +451,22 @@
     },
     {
       "source": "ctftime",
+      "uid": "ctftime-3401",
+      "title": "OmniCTF 2026 Finals",
+      "category": "ctf",
+      "description": "OmniCTF 2026 Finals is the on-site final stage of OmniCTF 2026, organized by ASOCIAȚIA OMNICYBR. Qualified teams from the online qualification round will meet in Constanța, Romania, for a 9-hour cybersecurity competition featuring practical challenges across multiple areas of information security. The finals will include both Jeopardy and KOTH categories. Participation is invite-only and limited to teams that qualified through the OmniCTF 2026 online qualifiers. Date: 19 September 2026 Format: On-site Location: Constanța, Romania Team size: Up to 3 players Organized by ASOCIAȚIA OMNICYBR.",
+      "organizer": "OmniCTF",
+      "location": "Romania, Constanța",
+      "url": "https://omnictf.com/",
+      "starts_at": "2026-09-19T06:00:00.000Z",
+      "ends_at": "2026-09-19T16:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "5a9c65b55ecfb1e7187c729359ad10d1f2e35fc4"
+    },
+    {
+      "source": "ctftime",
       "uid": "ctftime-3365",
       "title": "07CTF 2026",
       "category": "ctf",
@@ -448,6 +512,38 @@
         "attack-defense"
       ],
       "hash": "cd44cbbfd8c4352cacf3ced8b13e42031baaf132"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3399",
+      "title": "SunshineCTF 2026",
+      "category": "ctf",
+      "description": "Welcome to the eleventh (!) year of SunshineCTF, hosted by Hack@UCF in affiliation with BSides Orlando 2026. See our website for the most accurate and up to date information! Infra sponsored by goo.gle/ctfsponsorship",
+      "organizer": "Knightsec",
+      "location": "Online",
+      "url": "https://sunshinectf.org/",
+      "starts_at": "2026-09-26T14:00:00.000Z",
+      "ends_at": "2026-09-28T14:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "0a13f7e065257ea7928851162f6efb915c17cdf1"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3380",
+      "title": "Hacker's Gambit 2026 (Round 1 – Online Qualifier)",
+      "category": "ctf",
+      "description": "Round 1 – Online Qualifier (48 Hours) The Online Qualifier is the first stage of Hackers Gambit 2026, designed to identify the most skilled cybersecurity teams from around the world. This 48-hour Jeopardy-style Capture The Flag (CTF) competition will challenge participants with a diverse set of real-world cybersecurity problems across multiple domains. Participants will solve challenges in areas including Web Security, Cryptography, Reverse Engineering, Digital Forensics, Binary Exploitation (Pwn), Open Source Intelligence (OSINT), Steganography, and Miscellaneous. Each challenge carries a predefined score based on its difficulty level, and teams earn points by successfully capturing and submitting valid flags. The competition will run continuously for 48 hours, allowing teams to strategize, collaborate, and solve challenges at their own pace within the competition window. A live leaderboard will be available throughout the event (subject to organizer discretion). At the conclusion of the qualifier, participating teams may be required to submit technical write-ups explaining their solutions to selected challenges. These submissions will be reviewed by the organizing committee to verify the authenticity of solutions and ensure fair play. Based on the final scores, write-up evaluation (if applicable), and adherence to the competition rules, the Top 15 teams will qualify for the 24-hour Offline Grand Finale at Jaihind College of Engineering, Kuran, where they will compete for the championship title, prizes, and recognition. Key Highlights Mode: Online Duration: 48 Hours Format: Jeopardy-style Capture The Flag (CTF) Challenge Categories: Web Security, Cryptography, Reverse Engineering, Digital Forensics, Binary Exploitation, OSINT, Steganography, and Miscellaneous Qualification: Top 15 teams advance to the Offline Grand Finale Time: 2 October 2026 (12:00 PM IST) – 4 October 2026 (12:00 PM IST)",
+      "organizer": "JCOE Cyber Sentinels",
+      "location": "Online",
+      "url": "https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293",
+      "starts_at": "2026-10-02T06:30:00.000Z",
+      "ends_at": "2026-10-04T06:30:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "efbfc630f8b27dc8521200b58312e209528f9a1d"
     },
     {
       "source": "ctftime",
@@ -531,6 +627,22 @@
     },
     {
       "source": "ctftime",
+      "uid": "ctftime-3340",
+      "title": "HITCON CTF 2026",
+      "category": "ctf",
+      "description": "",
+      "organizer": "HITCON",
+      "location": "Online",
+      "url": "http://ctf.hitcon.org/",
+      "starts_at": "2026-10-23T14:00:00.000Z",
+      "ends_at": "2026-10-25T14:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "0cfbe1fb4852c63aff20eb123d37a3abdc6b421d"
+    },
+    {
+      "source": "ctftime",
       "uid": "ctftime-3207",
       "title": "Hack.lu CTF 2026",
       "category": "ctf",
@@ -560,6 +672,38 @@
         "attack-defense"
       ],
       "hash": "2eb85a4a8d314105d63137525c94fe60e0629919"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3404",
+      "title": "Sudocrypt v16.0",
+      "category": "ctf",
+      "description": "The technology club of DPS RK Puram, Exun Clan is returning with its eagerly anticipated annual International Cryptic Hunt x Capture the Flag (CTF) event. Sudocrypt v16.0 is an event where individual cryptic enthusiasts come together to take on the ultimate challenge, showcasing their skills and passion for cyber and cryptic challenges. It's an event that promises excitement, learning, and the chance to test your abilities against participants from around the globe. While solving code breaking, cryptography and CTF challenges, Sudocrypt v16.0 has a rebuilt and reinvented framework, along with thrilling cash rewards and goodies. It shall have a 36-hour format, and will be held from 09:00 IST, October 27th to 21:00 IST, October 28th {19:30 PST, October 26th to 07:30 PST, October 28th} For registration and more details: https://sudocrypt.com/ Exun Clan: https://exunclan.com/",
+      "organizer": "exunclan",
+      "location": "Online",
+      "url": "https://sudocrypt.com/",
+      "starts_at": "2026-10-27T03:30:00.000Z",
+      "ends_at": "2026-10-28T15:30:00.000Z",
+      "tags": [
+        "hack quest"
+      ],
+      "hash": "200b352f3171fddc89c22e63e4536e799308cdd2"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3381",
+      "title": "Hacker's Gambit 2026 (Round 2 – Grand Finale)",
+      "category": "ctf",
+      "description": "The Grand Finale is the final stage of Hackers Gambit 2026, where the Top 15 teams selected from the Online Qualifier will compete for the championship title. This 24-hour, on-site Capture The Flag (CTF) competition is designed to simulate real-world cybersecurity scenarios and evaluate participants' ability to solve complex security challenges under pressure. Hosted at Jaihind College of Engineering, Kuran, the Grand Finale brings together the highest-performing teams for an intensive competition featuring advanced challenges across multiple cybersecurity domains. Participants will demonstrate their technical expertise, analytical thinking, teamwork, strategic decision-making, and adaptability while competing against some of the best cybersecurity talent. Challenges may cover domains including: Web Security Cryptography Reverse Engineering Digital Forensics Binary Exploitation (Pwn) Open Source Intelligence (OSINT) Steganography Network Security Miscellaneous Challenges Throughout the competition, teams will work continuously for 24 hours, solving progressively challenging problems to accumulate points on the official scoreboard. The competition will conclude with score verification by the organizing committee, followed by the official announcement of winners during the Awards & Closing Ceremony. The Grand Finale provides participants with an opportunity to showcase their cybersecurity skills in a highly competitive environment while networking with industry professionals, sponsors, security researchers, and fellow cybersecurity enthusiasts. Key Highlights Mode: Offline Venue: Jaihind College of Engineering, Kuran, Maharashtra, India Duration: 24 Hours Format: Advanced Jeopardy-style Capture The Flag (CTF) Eligibility: Top 15 teams qualified from the Online Qualifier Challenge Categories: Web Security, Cryptography, Reverse Engineering, Digital Forensics, Binary Exploitation (Pwn), OSINT, Steganography, Network Security, and Miscellaneous Scoring: Points awarded ba",
+      "organizer": "JCOE Cyber Sentinels",
+      "location": "Jaihind College of Engineering,At Post Kuran, Taluka Junnar, Pune - 410511, Maharashtra, India (19°09'47.2\"N 73°54'52.2\"E)",
+      "url": "https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293",
+      "starts_at": "2026-10-30T06:30:00.000Z",
+      "ends_at": "2026-10-31T06:30:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "590d8b236a877323a225236a3d93dff506fed250"
     },
     {
       "source": "ctftime",
