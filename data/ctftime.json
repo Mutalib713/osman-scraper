@@ -1,5 +1,5 @@
 {
-  "count": 47,
+  "count": 48,
   "events": [
     {
       "source": "ctftime",
@@ -480,6 +480,22 @@
         "jeopardy"
       ],
       "hash": "1f4c6058e4a674adaa2e114e699cfe5019722e70"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3374",
+      "title": "BCS CTF 2026",
+      "category": "ctf",
+      "description": "An international-standard cybersecurity competition designed for ethical hackers, students, professionals, researchers, and technology communities worldwide. Event hosted by: Bangladesh Computer Society (BCS) N.B. BCS CTF is one of the part of BCS ICT Fest 2026",
+      "organizer": "bdhxgrp",
+      "location": "Online",
+      "url": "https://ctf.bcsictfest.com/",
+      "starts_at": "2026-09-25T14:00:00.000Z",
+      "ends_at": "2026-09-27T14:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "aab611afc041c1a3b05e3cc51c1f406c4cc58220"
     },
     {
       "source": "ctftime",
