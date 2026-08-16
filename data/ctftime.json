@@ -70,7 +70,7 @@
       "uid": "ctftime-3379",
       "title": "Haruulzangi CTF 2026 Qualifier",
       "category": "ctf",
-      "description": "Haruul Zangi CTF 2026 is organized by MNCERT/CC and the Haruulzangi CTF Team, representing the Mongolian CERT and cybersecurity community. We are proud to announce the 14th edition of Haruul Zangi CTF and welcome participants from around the world. The competition aims to promote practical cybersecurity skills, encourage knowledge sharing, and strengthen collaboration within the global cybersecurity community. Competition Format The competition consists of three rounds: Round 1 – Qualification (Online, Jeopardy) • Date: August 22, 2026 • Start Time: 09:00 (UTC+8) • Duration: 24 hours Round 2 – Semi-Final (Onsite, Jeopardy) • Date: September 5, 2026 • Location: Mongolia Round 3 – Final (Onsite, Attack & Defense) • Date: September 24, 2026 • Location: Mongolia Challenge Categories • Pwn • Web • Forensics • Cryptography • Reverse Engineering • Miscellaneous The challenges range from beginner to advanced difficulty, providing an engaging experience for both new and experienced CTF players. Team Information • Teams may consist of up to 3 players. • International participants are welcome. Qualification The following teams will advance to the onsite Semi-Final: - The top 30 teams from the online Qualification Round. - The top high school team (if not already qualified through the overall ranking). - The top women's team (if not already qualified through the overall ranking). The Semi-Final will be held in Jeopardy format. At the end of the Semi-Final, the top 10 teams will qualify for the onsite Final, which will be played in the Attack & Defense format. Additionally, the top two international teams, based on the results of the online Qualification Round, will be invited directly to participate in the onsite Final. Support for International Finalists The organizers will provide the following support for the two invited international finalist teams: • Hotel accommodation during the onsite event. • A daily allowance to cover meals and local expenses. Invited international te",
+      "description": "Haruul Zangi CTF 2026 is organized by MNCERT/CC and the Haruulzangi CTF Team, representing the Mongolian CERT and cybersecurity community. We are proud to announce the 14th edition of Haruul Zangi CTF and welcome participants from around the world. The competition aims to promote practical cybersecurity skills, encourage knowledge sharing, and strengthen collaboration within the global cybersecurity community. Competition Format The competition consists of three rounds: Round 1 – Qualification (Online, Jeopardy) • Date: August 22, 2026 • Start Time: 09:00 (UTC+8) • Duration: 24 hours Round 2 – Semi-Final (Onsite, Jeopardy) • Date: September 5, 2026 • Location: Mongolia Round 3 – Final (Onsite, Attack & Defense) • Date: September 24, 2026 • Location: Mongolia Challenge Categories • Pwn • Web • Forensics • Cryptography • Reverse Engineering • Miscellaneous The challenges range from beginner to advanced difficulty, providing an engaging experience for both new and experienced CTF players. Team Information • Teams may consist of up to 3 players. • International participants are welcome. Qualification The following teams will advance to the onsite Semi-Final: The top 30 teams from the online Qualification Round, regardless of nationality. The highest-ranked Mongolian high school team, if not already qualified through the top 30 overall ranking. The highest-ranked Mongolian women’s team, if not already qualified through the top 30 overall ranking. Among the international teams that qualify for the Semi-Final, the two highest-ranked teams, based on the online Qualification Round results, will be invited directly to the onsite Final. If two international teams are invited to the Final, the top eight Mongolian teams from the Semi-Final will advance to the Final. The Final will consist of 10 teams in total and will be played in the Attack & Defense format. Support for International Finalists The organizers will provide the following support for the two invited international f",
       "organizer": "haruulzangi-organizers",
       "location": "Online",
       "url": "https://2026.haruulzangi.mn/",
@@ -79,7 +79,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "f8e062f09c3da4e0985697784d33f56e7537d5b6"
+      "hash": "1644ada3d6f93b0b648da7dbca3eb764e7c6b059"
     },
     {
       "source": "ctftime",
@@ -182,7 +182,7 @@
       "uid": "ctftime-3097",
       "title": "NNS CTF 2026",
       "category": "ctf",
-      "description": "Join us for a jeopardy-style CTF organized by the Norske Nøkkelsnikere CTF team! Expect quality challenges in categories such as web, misc, crypto, blockchain, devsecoops, rev, pwn, and more! We welcome beginners and advanced players. Sponsor inquiries: sponsors at nnsc[.]tf Discord: https://discord.gg/9AZr3WKrjG",
+      "description": "Join us for a jeopardy-style CTF organized by the Norske Nøkkelsnikere CTF team! Expect quality challenges in categories such as web, misc, crypto, blockchain, devsecoops, rev, pwn, and more! We welcome beginners and advanced players. Sponsors: OtterSec, Zellic, EPT Discord: https://discord.gg/9AZr3WKrjG",
       "organizer": "Norske Nøkkelsnikere",
       "location": "Online",
       "url": "https://nnsc.tf/",
@@ -191,7 +191,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "0fa2d213acece8e7125ca9c18186aa625e8c0c7a"
+      "hash": "6ab04667829d8eee3b2ae2ac0cbabcdca0966e39"
     },
     {
       "source": "ctftime",
