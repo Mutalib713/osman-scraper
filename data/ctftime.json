@@ -54,7 +54,7 @@
       "uid": "ctftime-3370",
       "title": "z0d1ak CTF Qualifiers",
       "category": "ctf",
-      "description": "Team z0d1ak is thrilled to announce the first edition of z0d1ak CTF. This is the online qualifying round. We have prepared a Jeopardy style (with maybe some surprises) competition designed to test your skills across multiple domains. The top-performing teams from this qualifier will be invited for the Finals, hosted in person. Registration & Platform: ctf.z0d1ak.org Discord: https://discord.gg/ZfjXCXbXkA",
+      "description": "Team z0d1ak is thrilled to announce the first edition of z0d1ak CTF. This is the online qualifying round. We have prepared a Jeopardy style (with maybe some surprises) competition designed to test your skills across multiple domains. The top-performing teams from this qualifier will be invited for the Finals, hosted in person. Registration & Platform: ctf.z0d1ak.org Discord: https://discord.gg/ZfjXCXbXkA Prize Sponsor: Dataflow Security In-Kind Sponsors: Hackviser HackerDNA.com Knightsquad Academy GenXYZ HackingHub CyberWarfare Labs",
       "organizer": "z0d1ak",
       "location": "Online",
       "url": "https://ctf.z0d1ak.org/",
@@ -63,7 +63,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "06703446d1c39e9d221fdc76382b45d3ac9cb44b"
+      "hash": "190977d408ed77eff7e59f071f1414d0cc04442f"
     },
     {
       "source": "ctftime",
