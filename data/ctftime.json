@@ -1,5 +1,5 @@
 {
-  "count": 42,
+  "count": 43,
   "events": [
     {
       "source": "ctftime",
@@ -36,7 +36,7 @@
     {
       "source": "ctftime",
       "uid": "ctftime-3159",
-      "title": "PwnSec CTF 2026",
+      "title": "PwnSec CTF 2026 [postponed]",
       "category": "ctf",
       "description": "PwnSec is proud to present its 3rd edition CTF. Tune in for top jeopardy madness built by our team featuring web, crypto, reverse engineering, binary exploitation, cloud, forensics, misc, mobile, and more!",
       "organizer": "PwnSec",
@@ -47,7 +47,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "2823ac8de5c26e41cfcaa36575e899d27654e6f1"
+      "hash": "24d138971da6a880944b0d993547382fbcaef68b"
     },
     {
       "source": "ctftime",
@@ -672,6 +672,22 @@
         "jeopardy"
       ],
       "hash": "1ad0bd990f625aef65eac8aea22bac555e31d54c"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3049",
+      "title": "WolvCTF 2026",
+      "category": "ctf",
+      "description": "Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint, misc.). There are two divisions, Open and University of Michigan students. No team limit sizes. Sponsors to be announced! **Note: This event has been postponed to November 2026**",
+      "organizer": "w01verines",
+      "location": "Online",
+      "url": "https://wolvctf.io/",
+      "starts_at": "2026-11-13T23:00:00.000Z",
+      "ends_at": "2026-11-15T23:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "9fbef480af6a60365a1f940bd1c41d6e9c4c33ac"
     }
   ]
 }
