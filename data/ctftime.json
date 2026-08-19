@@ -1,5 +1,5 @@
 {
-  "count": 43,
+  "count": 48,
   "events": [
     {
       "source": "ctftime",
@@ -54,7 +54,7 @@
       "uid": "ctftime-3370",
       "title": "z0d1ak CTF Qualifiers",
       "category": "ctf",
-      "description": "Team z0d1ak is thrilled to announce the first edition of z0d1ak CTF. This is the online qualifying round. We have prepared a Jeopardy style (with maybe some surprises) competition designed to test your skills across multiple domains. The top-performing teams from this qualifier will be invited for the Finals, hosted in person. Registration & Platform: ctf.z0d1ak.org Discord: https://discord.gg/ZfjXCXbXkA Prize Sponsor: Dataflow Security In-Kind Sponsors: Hackviser HackerDNA.com Knightsquad Academy GenXYZ HackingHub CyberWarfare Labs",
+      "description": "Team z0d1ak is thrilled to announce the first edition of z0d1ak CTF. This is the online qualifying round. We have prepared a Jeopardy style (with maybe some surprises) competition designed to test your skills across multiple domains. The top-performing teams from this qualifier will be invited for the Finals, hosted in person. Registration & Platform: ctf.z0d1ak.org Discord: https://discord.gg/ZfjXCXbXkA Prize Sponsor: Dataflow Security Sponsors: Hackviser HackerDNA.com Knightsquad Academy GenXYZ HackingHub CyberWarfare Labs",
       "organizer": "z0d1ak",
       "location": "Online",
       "url": "https://ctf.z0d1ak.org/",
@@ -63,7 +63,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "190977d408ed77eff7e59f071f1414d0cc04442f"
+      "hash": "90f9d00d40682a24a05d9b736d423ec9b7ee2853"
     },
     {
       "source": "ctftime",
@@ -80,6 +80,22 @@
         "jeopardy"
       ],
       "hash": "1644ada3d6f93b0b648da7dbca3eb764e7c6b059"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3397",
+      "title": "$N1PH€RS 3.0 CTF",
+      "category": "ctf",
+      "description": "$N1PH€RS 3.0 is a beginner-friendly to intermediate-level, jeopardy-style Capture The Flag (CTF) competition organized by Team Ex0rcists from St. Joseph's Group of Institutions in collaboration with TamilCTF (Flagsomnia). Event Details: Format: Jeopardy-style CTF Team size: 2 per team Event date: 22 August 2026 Time: 08:45 IST to 16:45 IST Organized by: Ex0rcists × TamilCTF (Flagsomnia) Mode: Online + Offline Prize pool: 10 lakh+ (including vouchers) Online: registration open soon Onsite: register: https://unstop.com/hackathons/sn1phers-30-capture-the-flagctf-stjosephs-institute-of-technology-stjit-chennai-1732038 Venue: Periwinkle hall. Place: St. Joseph's College Of Engineering, OMR, Chennai, Tamil Nadu, India Sponsors: Women in CyberSecurity (WiCyS) St. Joseph's Group of Institutions, K7 Academy, XYZ, SecLance, Auriseg, TryHackMe, HackTheBox Chennai, Knight Squad Academy, CyberWareFare Labs, CyberDefenders and HackerRank. Categories: Reverse Engineering, Pwn, Boot2root, Web Security, Cryptography, Forensics, OSINT, Mobile Security and many more. For any queries, join our discord server: https://discord.gg/u75yAgAuy Follow: http://linkedin.com/company/ex0rcists/",
+      "organizer": "Ex0rcists",
+      "location": "Online",
+      "url": "https://ctf.ex0rcists.in/",
+      "starts_at": "2026-08-22T03:15:00.000Z",
+      "ends_at": "2026-08-22T11:15:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "d2e36e3fa7335212f0f21725173497c3966c6a5f"
     },
     {
       "source": "ctftime",
@@ -112,6 +128,22 @@
         "jeopardy"
       ],
       "hash": "031318e4e6f3396f88ecdf3005902b8f025e53a2"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3411",
+      "title": "PECAN+ CTF 2026",
+      "category": "ctf",
+      "description": "PECAN+ is an Australian Capture The Flag (CTF) style cyber security competition for high school-aged competitors (yr 10-12). PECAN+ CTF is led by Edith Cowan University's School of Science as a collaborative initiative that brings together higher education institutions, cyber security industry, government, teachers and students around the aim of raising cyber security awareness, skills and aspirations. Thank you to our sponsors for their generous support of the 2026 competition: https://pecanplus.org/sponsors.html",
+      "organizer": "PECAN+",
+      "location": "Australia",
+      "url": "https://pecanplus.org/",
+      "starts_at": "2026-08-23T01:00:00.000Z",
+      "ends_at": "2026-08-23T05:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "3ff7a1a11ac8196e34242a4a43cf24245f85bc84"
     },
     {
       "source": "ctftime",
@@ -176,6 +208,22 @@
         "jeopardy"
       ],
       "hash": "0e6a9e652f7909db5e4dd083632e03330959326e"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3413",
+      "title": "Iran Tech Olympics CTF 2026",
+      "category": "ctf",
+      "description": "This year, ASIS CTF Quals 2026 and Iran Olympics CTF 2026 have joined forces and will be held as a single, merged event! Secure your spot in the top 3 global teams or the top 7 Iranian teams to win a fully-funded invitation to the highly anticipated onsite finals in Tehran this October: • Olympic Hardware CTF • Olympic Pwny Racing CTF All travel and accommodation costs are fully covered. Register now: https://ctf.olympics.tech",
+      "organizer": "ASIS",
+      "location": "Online",
+      "url": "https://ctf.olympics.tech/",
+      "starts_at": "2026-08-29T14:00:00.000Z",
+      "ends_at": "2026-08-30T14:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "c22c85ab2416071568481f87c1ae2abb191904e5"
     },
     {
       "source": "ctftime",
@@ -547,6 +595,22 @@
     },
     {
       "source": "ctftime",
+      "uid": "ctftime-3409",
+      "title": "SAS CTF 2026 Finals",
+      "category": "ctf",
+      "description": "SAS CTF is an international competition for cybersecurity experts, held as a part of the Security Analyst Summit conference. The competition consists of an online Jeopardy qualification stage and on-site Attack-Defense finals. We are inviting Top 8 teams that completed the SAS CTF qualification round and 5 regional winners of Kaspersky{CTF} 2026 (https://lp.kaspersky.com/ctf/) to compete for a share of the $18.000 prize pot at SAS 2026 in Bali, Indonesia on October 19-22.",
+      "organizer": "SAS CREW",
+      "location": "Indonesia, Bali",
+      "url": "https://ctf.thesascon.com/",
+      "starts_at": "2026-10-20T03:00:00.000Z",
+      "ends_at": "2026-10-20T14:00:00.000Z",
+      "tags": [
+        "attack-defense"
+      ],
+      "hash": "fea6a3fa993a815b39a34b3e322f7b85908daaff"
+    },
+    {
+      "source": "ctftime",
       "uid": "ctftime-3340",
       "title": "HITCON CTF 2026",
       "category": "ctf",
@@ -672,6 +736,22 @@
         "jeopardy"
       ],
       "hash": "1ad0bd990f625aef65eac8aea22bac555e31d54c"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3410",
+      "title": "CSAW CTF Final Round 2026",
+      "category": "ctf",
+      "description": "CSAW CTF is one of the oldest and biggest CTFs. Designed as an entry-level, jeopardy-style CTF, this competition is for students who are trying to break into the field of security, as well as for advanced students and industry professionals who want to practice their skills.",
+      "organizer": "NYUSEC",
+      "location": "Online",
+      "url": "https://ctf.csaw.io/",
+      "starts_at": "2026-11-12T17:00:00.000Z",
+      "ends_at": "2026-11-14T05:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "101211d0e24919d434a415e1f8316cde1ff227fa"
     },
     {
       "source": "ctftime",
