@@ -1,22 +1,6 @@
 {
-  "count": 48,
+  "count": 47,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3402",
-      "title": "CTFZone 2026",
-      "category": "ctf",
-      "description": "We are happy to announce CTFZONE 2026. Three lucky winners will receive 300 000 rub, 150 000 rub and 50 000 rub respectively. Follow the CTF on Twitter (twitter.com/ctfzone) and the conference channel in Telegram (t.me/offzone_moscow)",
-      "organizer": "BIZone",
-      "location": "Russia, Moscow",
-      "url": "https://board.ctfz.zone/",
-      "starts_at": "2026-08-19T08:00:00.000Z",
-      "ends_at": "2026-08-19T16:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "5a72cf53c7485613f12e3d48d7f8ed2669ec11e8"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3065",
@@ -150,7 +134,7 @@
       "uid": "ctftime-3290",
       "title": "COMPFEST CTF 2026",
       "category": "ctf",
-      "description": "Discord server: TBA Event URL: TBA COMPFEST Website: https://compfest.id A CTF event organized by Computer Science students of Universitas Indonesia. The main event is aimed for Indonesian citizens, but everyone is welcome to participate in the mirror contest. *** Please keep in mind this event is a mirror event form an already held local event. Participants from that event may not join this event. *** Thank you to our sponsors: - Google Cloud Platform (Infra sponsored by goo.gle/ctfsponsorship) - Hex-Rays - Offsec - Binary Ninja",
+      "description": "Discord server: https://discord.gg/g7UDHdCA6v Event URL: TBA COMPFEST Website: https://compfest.id A CTF event organized by Computer Science students of Universitas Indonesia. The main event is aimed for Indonesian citizens, but everyone is welcome to participate in the mirror contest. *** Please keep in mind this event is a mirror event form an already held local event. Participants from that event may not join this event. *** Thank you to our sponsors: - Google Cloud Platform (Infra sponsored by goo.gle/ctfsponsorship) - Hex-Rays - Offsec - Binary Ninja",
       "organizer": "CSUI",
       "location": "Online",
       "url": "https://compfest.id/",
@@ -159,7 +143,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "d31ed39d5e29425fb80cfb669726c86146b3147c"
+      "hash": "2968d49a89f3426874ddeb9578cb16cfb2a61360"
     },
     {
       "source": "ctftime",
