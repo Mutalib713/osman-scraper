@@ -1,102 +1,6 @@
 {
-  "count": 47,
+  "count": 41,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3065",
-      "title": "BrunnerCTF 2026",
-      "category": "ctf",
-      "description": "<b>Welcome to BrunnerCTF 2026.</b> The entire team at Brunnerne have been cooking and baking new exciting challenges for you to try, as we've expanded from a small home-bakery startup into an international unicorn as <b>Brunnerne Inc.™</b>, with this year's theme: <b>\"Brunnerne goes corporate\"</b>. Whether you are a completely new <b>CTF intern</b> or a <b>senior executive vice president of CTF competitions</b>, there will be delicious challenges waiting for you. This includes our beginner-friendly category now rebranded as <b>\"Onboarding\"</b>. The category features plenty of opportunities to learn the basics, and the chance to ask us for hints on Discord if you get stuck. And although Brunnerne Inc.™ is now a global phenomenon, we promise plenty of traces of <b>traditional Danish pastry</b>.<br><br> <b>━━━━━━━━━━━━━━━━ EVENT INFO ━━━━━━━━━━━━━━━━</b><br> ❯ <b>Start:</b> 2026-08-21 14:00 CEST ❯ <b>End:</b> 2026-08-23 14:00 CEST ❯ <b>Website:</b> <a href=\"https://ctf.brunnerne.dk/\">ctf.brunnerne.dk</a> ❯ <b>Discord:</b> <a href=\"https://discord.gg/wPaa2kdM97\">discord.gg/wPaa2kdM97</a><br><br> <b>━━━━━━━━━━━━━━━━ SPONSORS ━━━━━━━━━━━━━━━━</b><br> Proudly sponsored by: ❯ <b>Campfire Security</b> ❯ <b>ICSRange</b> ❯ <b>SagaLabs</b> ❯ <b>The LEGO Group</b> ❯ <b>Bankdata</b> ❯ <b>CyberSkills</b> ❯ <b>Hetzner</b> - infrastructure",
-      "organizer": "SDU",
-      "location": "Online",
-      "url": "https://ctf.brunnerne.dk/",
-      "starts_at": "2026-08-21T12:00:00.000Z",
-      "ends_at": "2026-08-23T12:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "e47ba31e2cbbda72c4e3b0cb74065472ba210125"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3159",
-      "title": "PwnSec CTF 2026 [postponed]",
-      "category": "ctf",
-      "description": "PwnSec is proud to present its 3rd edition CTF. Tune in for top jeopardy madness built by our team featuring web, crypto, reverse engineering, binary exploitation, cloud, forensics, misc, mobile, and more!",
-      "organizer": "PwnSec",
-      "location": "Online",
-      "url": "https://ctf.pwnsec.team/",
-      "starts_at": "2026-08-21T14:00:00.000Z",
-      "ends_at": "2026-08-22T14:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "24d138971da6a880944b0d993547382fbcaef68b"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3370",
-      "title": "z0d1ak CTF Qualifiers",
-      "category": "ctf",
-      "description": "Team z0d1ak is thrilled to announce the first edition of z0d1ak CTF. This is the online qualifying round. We have prepared a Jeopardy style (with maybe some surprises) competition designed to test your skills across multiple domains. The top-performing teams from this qualifier will be invited for the Finals, hosted in person. Registration & Platform: ctf.z0d1ak.org Discord: https://discord.gg/ZfjXCXbXkA Prize Sponsor: Dataflow Security Sponsors: Hackviser HackerDNA.com Knightsquad Academy GenXYZ HackingHub CyberWarfare Labs",
-      "organizer": "z0d1ak",
-      "location": "Online",
-      "url": "https://ctf.z0d1ak.org/",
-      "starts_at": "2026-08-21T16:00:00.000Z",
-      "ends_at": "2026-08-23T04:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "90f9d00d40682a24a05d9b736d423ec9b7ee2853"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3379",
-      "title": "Haruulzangi CTF 2026 Qualifier",
-      "category": "ctf",
-      "description": "Haruul Zangi CTF 2026 is organized by MNCERT/CC and the Haruulzangi CTF Team, representing the Mongolian CERT and cybersecurity community. We are proud to announce the 14th edition of Haruul Zangi CTF and welcome participants from around the world. The competition aims to promote practical cybersecurity skills, encourage knowledge sharing, and strengthen collaboration within the global cybersecurity community. Competition Format The competition consists of three rounds: Round 1 – Qualification (Online, Jeopardy) • Date: August 22, 2026 • Start Time: 09:00 (UTC+8) • Duration: 24 hours Round 2 – Semi-Final (Onsite, Jeopardy) • Date: September 5, 2026 • Location: Mongolia Round 3 – Final (Onsite, Attack & Defense) • Date: September 24, 2026 • Location: Mongolia Challenge Categories • Pwn • Web • Forensics • Cryptography • Reverse Engineering • Miscellaneous The challenges range from beginner to advanced difficulty, providing an engaging experience for both new and experienced CTF players. Team Information • Teams may consist of up to 3 players. • International participants are welcome. Qualification The following teams will advance to the onsite Semi-Final: The top 30 teams from the online Qualification Round, regardless of nationality. The highest-ranked Mongolian high school team, if not already qualified through the top 30 overall ranking. The highest-ranked Mongolian women’s team, if not already qualified through the top 30 overall ranking. Among the international teams that qualify for the Semi-Final, the two highest-ranked teams, based on the online Qualification Round results, will be invited directly to the onsite Final. If two international teams are invited to the Final, the top eight Mongolian teams from the Semi-Final will advance to the Final. The Final will consist of 10 teams in total and will be played in the Attack & Defense format. Support for International Finalists The organizers will provide the following support for the two invited international f",
-      "organizer": "haruulzangi-organizers",
-      "location": "Online",
-      "url": "https://2026.haruulzangi.mn/",
-      "starts_at": "2026-08-22T01:00:00.000Z",
-      "ends_at": "2026-08-23T01:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "1644ada3d6f93b0b648da7dbca3eb764e7c6b059"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3397",
-      "title": "$N1PH€RS 3.0 CTF",
-      "category": "ctf",
-      "description": "$N1PH€RS 3.0 is a beginner-friendly to intermediate-level, jeopardy-style Capture The Flag (CTF) competition organized by Team Ex0rcists from St. Joseph's Group of Institutions in collaboration with TamilCTF (Flagsomnia). Event Details: Format: Jeopardy-style CTF Team size: 2 per team Event date: 22 August 2026 Time: 08:45 IST to 16:45 IST Organized by: Ex0rcists × TamilCTF (Flagsomnia) Mode: Online + Offline Prize pool: 10 lakh+ (including vouchers) Online: registration open soon Onsite: register: https://unstop.com/hackathons/sn1phers-30-capture-the-flagctf-stjosephs-institute-of-technology-stjit-chennai-1732038 Venue: Periwinkle hall. Place: St. Joseph's College Of Engineering, OMR, Chennai, Tamil Nadu, India Sponsors: Women in CyberSecurity (WiCyS) St. Joseph's Group of Institutions, K7 Academy, XYZ, SecLance, Auriseg, TryHackMe, HackTheBox Chennai, Knight Squad Academy, CyberWareFare Labs, CyberDefenders and HackerRank. Categories: Reverse Engineering, Pwn, Boot2root, Web Security, Cryptography, Forensics, OSINT, Mobile Security and many more. For any queries, join our discord server: https://discord.gg/u75yAgAuy Follow: http://linkedin.com/company/ex0rcists/",
-      "organizer": "Ex0rcists",
-      "location": "Online",
-      "url": "https://ctf.ex0rcists.in/",
-      "starts_at": "2026-08-22T03:15:00.000Z",
-      "ends_at": "2026-08-22T11:15:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "d2e36e3fa7335212f0f21725173497c3966c6a5f"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3400",
-      "title": "E0F CTF",
-      "category": "ctf",
-      "description": "E0F CTF is a jeopardy-style CTF built entirely around reverse engineering — no web, pwn, or crypto. Just binaries, obfuscation, and crackmes across a full difficulty curve, from first-timers to seasoned reversers. Bring your favorite disassembler and see how deep you can go. Flag format: e0f{...} Discord: https://discord.gg/QfBEHK67RY Also known as **EOF CTF**",
-      "organizer": "Group 0x1A",
-      "location": "Online",
-      "url": "https://ctf.e0f.team/",
-      "starts_at": "2026-08-22T07:00:00.000Z",
-      "ends_at": "2026-08-23T07:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "0ad33e2043cbbb047703e7d34cbe778194246a81"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3394",
@@ -134,7 +38,7 @@
       "uid": "ctftime-3290",
       "title": "COMPFEST CTF 2026",
       "category": "ctf",
-      "description": "Discord server: https://discord.gg/g7UDHdCA6v Event URL: TBA COMPFEST Website: https://compfest.id A CTF event organized by Computer Science students of Universitas Indonesia. The main event is aimed for Indonesian citizens, but everyone is welcome to participate in the mirror contest. *** Please keep in mind this event is a mirror event form an already held local event. Participants from that event may not join this event. *** Thank you to our sponsors: - Google Cloud Platform (Infra sponsored by goo.gle/ctfsponsorship) - Hex-Rays - Offsec - Binary Ninja",
+      "description": "Discord server: https://discord.gg/g7UDHdCA6v Event URL: https://mirror-ctf.compfest.id/ COMPFEST Website: https://compfest.id A CTF event organized by Computer Science students of Universitas Indonesia. The main event is aimed for Indonesian citizens, but everyone is welcome to participate in the mirror contest. *** Please keep in mind this event is a mirror event form an already held local event. Participants from that event may not join this event. *** Thank you to our sponsors: - Google Cloud Platform (Infra sponsored by goo.gle/ctfsponsorship) - Hex-Rays - Offsec - Binary Ninja",
       "organizer": "CSUI",
       "location": "Online",
       "url": "https://compfest.id/",
@@ -143,7 +47,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "2968d49a89f3426874ddeb9578cb16cfb2a61360"
+      "hash": "d6309fdcac833e83bcdd983ee016189ecee3cb01"
     },
     {
       "source": "ctftime",
