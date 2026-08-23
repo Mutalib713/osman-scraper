@@ -1,53 +1,21 @@
 {
-  "count": 41,
+  "count": 39,
   "events": [
     {
       "source": "ctftime",
-      "uid": "ctftime-3394",
-      "title": "TallDwarf Hosting: Hosting Takeover",
-      "category": "ctf",
-      "description": "Hostile Takeover is a jeopardy style CTF built for players of all levels. Expect challenges across Web, Infrastructure, OSINT, Mixes of Forensics, Crypto and Minecraft. From beginner friendly puzzles to attack chains and infrastructure exploitation, with some challenges containing isolated per-team instances so nobody's fighting over shared boxes.",
-      "organizer": "TallDwarf Hosting",
-      "location": "Online",
-      "url": "https://ctf.talldwarfhosting.com/",
-      "starts_at": "2026-08-22T08:00:00.000Z",
-      "ends_at": "2026-08-23T20:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "031318e4e6f3396f88ecdf3005902b8f025e53a2"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3411",
-      "title": "PECAN+ CTF 2026",
-      "category": "ctf",
-      "description": "PECAN+ is an Australian Capture The Flag (CTF) style cyber security competition for high school-aged competitors (yr 10-12). PECAN+ CTF is led by Edith Cowan University's School of Science as a collaborative initiative that brings together higher education institutions, cyber security industry, government, teachers and students around the aim of raising cyber security awareness, skills and aspirations. Thank you to our sponsors for their generous support of the 2026 competition: https://pecanplus.org/sponsors.html",
-      "organizer": "PECAN+",
-      "location": "Australia",
-      "url": "https://pecanplus.org/",
-      "starts_at": "2026-08-23T01:00:00.000Z",
-      "ends_at": "2026-08-23T05:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "3ff7a1a11ac8196e34242a4a43cf24245f85bc84"
-    },
-    {
-      "source": "ctftime",
       "uid": "ctftime-3290",
-      "title": "COMPFEST CTF 2026",
+      "title": "COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION)",
       "category": "ctf",
-      "description": "Discord server: https://discord.gg/g7UDHdCA6v Event URL: https://mirror-ctf.compfest.id/ COMPFEST Website: https://compfest.id A CTF event organized by Computer Science students of Universitas Indonesia. The main event is aimed for Indonesian citizens, but everyone is welcome to participate in the mirror contest. *** Please keep in mind this event is a mirror event form an already held local event. Participants from that event may not join this event. *** Thank you to our sponsors: - Google Cloud Platform (Infra sponsored by goo.gle/ctfsponsorship) - Hex-Rays - Offsec - Binary Ninja",
+      "description": "Since it seems that our event unfortunately collided with ASIS CTF and Blackhat MEA Qualifiers, we'll be extending the event duration from 24 hours to 48 hours so that those who compete on those events could still compete here after they're done :) Discord server: https://discord.gg/g7UDHdCA6v Event URL: https://mirror-ctf.compfest.id/ COMPFEST Website: https://compfest.id A CTF event organized by Computer Science students of Universitas Indonesia. The main event is aimed for Indonesian citizens, but everyone is welcome to participate in the mirror contest. *** Please keep in mind this event is a mirror event form an already held local event. Participants from that event may not join this event. *** Thank you to our sponsors: - Google Cloud Platform (Infra sponsored by goo.gle/ctfsponsorship) - Hex-Rays - Offsec - Binary Ninja",
       "organizer": "CSUI",
       "location": "Online",
-      "url": "https://compfest.id/",
+      "url": "https://mirror-ctf.compfest.id/",
       "starts_at": "2026-08-29T00:00:00.000Z",
       "ends_at": "2026-08-30T00:00:00.000Z",
       "tags": [
         "jeopardy"
       ],
-      "hash": "d6309fdcac833e83bcdd983ee016189ecee3cb01"
+      "hash": "c84d41eb310860f9991d7df5c6558c6598e83058"
     },
     {
       "source": "ctftime",
