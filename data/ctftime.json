@@ -1,5 +1,5 @@
 {
-  "count": 39,
+  "count": 43,
   "events": [
     {
       "source": "ctftime",
@@ -80,6 +80,22 @@
         "jeopardy"
       ],
       "hash": "c22c85ab2416071568481f87c1ae2abb191904e5"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3416",
+      "title": "DiceCTF 2026 Finals",
+      "category": "ctf",
+      "description": "The top 8 teams + 4 US / Canada teams from DiceCTF Quals will compete in-person at DiceCTF Finals in New York City, in a range of CTF formats.",
+      "organizer": "DiceGang",
+      "location": "New York City, USA",
+      "url": "https://ctf.dicega.ng/",
+      "starts_at": "2026-08-29T16:00:00.000Z",
+      "ends_at": "2026-08-30T22:00:00.000Z",
+      "tags": [
+        "hack quest"
+      ],
+      "hash": "ede9127cfc7439bc2d32982d33cc7e2eed403695"
     },
     {
       "source": "ctftime",
@@ -355,6 +371,22 @@
     },
     {
       "source": "ctftime",
+      "uid": "ctftime-3417",
+      "title": "SCAN 2026 Final",
+      "category": "ctf",
+      "description": "SCAN 2026 Finals brings together the Top 20 teams from the Online Qualifier for an in-person CTF in Seoul, Korea. Finalists will compete in digital asset tracing, blockchain investigation, and security challenges for a total prize pool of 2 BTC.",
+      "organizer": "D Asset Inc.",
+      "location": "Seoul, Korea",
+      "url": "https://scan.sx/",
+      "starts_at": "2026-09-28T01:00:00.000Z",
+      "ends_at": "2026-09-28T08:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "a82449b57d61d9699990b8c18e8f3785cf829b12"
+    },
+    {
+      "source": "ctftime",
       "uid": "ctftime-3380",
       "title": "Hacker's Gambit 2026 (Round 1 – Online Qualifier)",
       "category": "ctf",
@@ -624,6 +656,38 @@
         "jeopardy"
       ],
       "hash": "9fbef480af6a60365a1f940bd1c41d6e9c4c33ac"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3337",
+      "title": "GlacierCTF 2026",
+      "category": "ctf",
+      "description": "We're excited to announce GlacierCTF 2026 for its fifth edition, a 24-hour jeopardy CTF organized by LosFuzzys. Join our discord at: https://discord.gg/DFYnRAME23 Infra sponsored by goo.gle/ctfsponsorship",
+      "organizer": "LosFuzzys",
+      "location": "Online",
+      "url": "https://glacierctf.com/",
+      "starts_at": "2026-11-20T18:00:00.000Z",
+      "ends_at": "2026-11-21T18:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "d418482af408bbc6f9e460c8e76b140b8d310888"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3408",
+      "title": "Seize da Flaq",
+      "category": "ctf",
+      "description": "Seize Da Flaq is the flagship national-level Capture The Flag (CTF) competition organized by Cyberonites Club, GLA University. The event is designed to challenge and showcase cybersecurity talent through real-world, hands-on security challenges across domains such as Web Security, Cryptography, Reverse Engineering, Binary Exploitation, Digital Forensics, OSINT, and Miscellaneous.",
+      "organizer": "Seize da Flaq",
+      "location": "Mathura, Uttar Pradesh, India",
+      "url": "https://seizedaflaq.cyberonites.com/",
+      "starts_at": "2026-11-21T06:30:00.000Z",
+      "ends_at": "2026-11-22T02:30:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "67b034acf9dc4b387a6e705bbcf42935ce5ccf5c"
     }
   ]
 }
