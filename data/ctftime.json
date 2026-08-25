@@ -1,5 +1,5 @@
 {
-  "count": 43,
+  "count": 46,
   "events": [
     {
       "source": "ctftime",
@@ -579,6 +579,22 @@
     },
     {
       "source": "ctftime",
+      "uid": "ctftime-3418",
+      "title": "HKCERT CTF 2026 (Qualifying Round)",
+      "category": "ctf",
+      "description": "HKCERT Capture The Flag 2026,” organised by the Hong Kong Computer Emergency Response Team Coordination Centre (HKCERT), the Hong Kong Productivity Council (HKPC) and the Digital Policy Office of HKSAR, is now in its sixth edition. It is one of the largest cybersecurity competitions in Hong Kong, featuring four categories: Secondary School, Tertiary, Open, and International. This year there will be an online Jeopardy CTF (qualifying round) and a physical CTF with offensive and defensive challenges (Final round). Please register at below HKCERT CTF website (Must register via the website) https://ctf.hkcert.org (Registration deadline: 20 Oct 2026)",
+      "organizer": "HKCERT",
+      "location": "Online",
+      "url": "https://ctf.hkcert.org/",
+      "starts_at": "2026-11-06T10:00:00.000Z",
+      "ends_at": "2026-11-07T10:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "3658c896913ade9aeed6f4605e2adca53931444f"
+    },
+    {
+      "source": "ctftime",
       "uid": "ctftime-3331",
       "title": "PINK+ CTF 2026",
       "category": "ctf",
@@ -675,6 +691,22 @@
     },
     {
       "source": "ctftime",
+      "uid": "ctftime-3118",
+      "title": "SwampCTF 2026",
+      "category": "ctf",
+      "description": "SwampCTF is a student-run competition and hosted by the University of Florida Student InfoSec Team (UFSIT). Join us online for jeopardy-style fun with challenges in Pwn, Reverse, Forensics, Crypto, and Misc. categories.",
+      "organizer": "Kernel Sanders",
+      "location": "Online",
+      "url": "https://ctf.swampctf.com/",
+      "starts_at": "2026-11-20T21:00:00.000Z",
+      "ends_at": "2026-11-22T21:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "e8a004eb510fd979481063137e734e7740df751b"
+    },
+    {
+      "source": "ctftime",
       "uid": "ctftime-3408",
       "title": "Seize da Flaq",
       "category": "ctf",
@@ -688,6 +720,22 @@
         "jeopardy"
       ],
       "hash": "67b034acf9dc4b387a6e705bbcf42935ce5ccf5c"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3336",
+      "title": "Crate-CTF 2026",
+      "category": "ctf",
+      "description": "Crate-CTF is an annual Capture The Flag (CTF) competition organised by the Swedish Defence Research Agency in collaboration with the Swedish Armed Forces, designed to introduce high school and university students to the field of cybersecurity. This year we return for our seventh CTF, with challenges for all skill levels from beginners to seasoned CTF players. The challenges are categorised into web exploitation, reverse engineering, binary exploitation, cryptography, forensics, OSINT, networking and the all-encompassing \"other\". While the event will be conducted in Swedish, international participants are also welcome to join (using translation tools as needed). Communication with challenge authors and administrators can be conducted in English.",
+      "organizer": "Crate-CTF",
+      "location": "Online",
+      "url": "https://foi.se/cratectf",
+      "starts_at": "2026-11-21T13:00:00.000Z",
+      "ends_at": "2026-11-21T21:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "0d082e049670f7c5e22d1f84789e6410bd969da5"
     }
   ]
 }
