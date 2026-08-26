@@ -198,7 +198,7 @@
       "uid": "ctftime-3265",
       "title": "VolgaCTF 2026 Final",
       "category": "ctf",
-      "description": "VolgaCTF is an international inter-university cybersecurity competition organised by a group of IT enthusiasts based in Samara, Russia. The final round is held onsite in Samara (venue TBA).",
+      "description": "VolgaCTF is an international inter-university cybersecurity competition organised by a group of IT enthusiasts based in Samara, Russia. The final round is held from 16 to 18 September at HolidayHall Samara.",
       "organizer": "VolgaCTF.org",
       "location": "Russia, Samara",
       "url": "https://volgactf.ru/en/volgactf-2026/final/",
@@ -207,7 +207,7 @@
       "tags": [
         "attack-defense"
       ],
-      "hash": "8825f913a867b0ab250e013fbae15b1d224c5619"
+      "hash": "b43fa02e1205a6f50b930c29cf7d83ab6d2491ec"
     },
     {
       "source": "ctftime",
