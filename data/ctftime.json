@@ -1,5 +1,5 @@
 {
-  "count": 46,
+  "count": 47,
   "events": [
     {
       "source": "ctftime",
@@ -278,7 +278,7 @@
       "uid": "ctftime-3401",
       "title": "OmniCTF 2026 Finals",
       "category": "ctf",
-      "description": "OmniCTF 2026 Finals is the on-site final stage of OmniCTF 2026, organized by ASOCIAȚIA OMNICYBR. Qualified teams from the online qualification round will meet in Constanța, Romania, for a 9-hour cybersecurity competition featuring practical challenges across multiple areas of information security. The finals will include both Jeopardy and KOTH categories. Participation is invite-only and limited to teams that qualified through the OmniCTF 2026 online qualifiers. Date: 19 September 2026 Format: On-site Location: Constanța, Romania Team size: Up to 3 players Organized by ASOCIAȚIA OMNICYBR.",
+      "description": "OmniCTF 2026 Finals is the on-site final stage of OmniCTF 2026, organized by ASOCIAȚIA OMNICYBR. Our Partners: UNbreakable Romania, Delta Obscura, Spectrum Our Sponsors: OtterSec, Marina Hub SRL., CAIDO, HyperLine Robotics, Knight Squad Academy, Hetzner Qualified teams from the online qualification round will meet in Constanța, Romania, for a 9-hour cybersecurity competition featuring practical challenges across multiple areas of information security. The finals will include both Jeopardy and KOTH categories. Participation is invite-only and limited to teams that qualified through the OmniCTF 2026 online qualifiers. Date: 19 September 2026 Format: On-site Location: Constanța, Romania Team size: Up to 3 players Organized by ASOCIAȚIA OMNICYBR.",
       "organizer": "OmniCTF",
       "location": "Romania, Constanța",
       "url": "https://omnictf.com/",
@@ -287,7 +287,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "5a9c65b55ecfb1e7187c729359ad10d1f2e35fc4"
+      "hash": "5f52ade15be56b785fd88c7c193ff41e265c6b47"
     },
     {
       "source": "ctftime",
@@ -409,13 +409,13 @@
       "description": "Securinets CTF Quals 2026 is an online jeopardy style CTF organized by Securinets INSAT. The CTF will feature these categories: Web, Reverse Engineering, Pwn, Crypto, Forensics, OSINT, Misc ... Only 10 teams will qualify to the final CTF + top 5 from north africa . Registration will be open soon. Join our discord server: https://discord.gg/X5nSDvjSyc",
       "organizer": "Securinets",
       "location": "Online",
-      "url": "https://quals.securinets.tn/",
+      "url": "https://ctf.securinets.tn/",
       "starts_at": "2026-10-03T09:00:00.000Z",
       "ends_at": "2026-10-04T21:00:00.000Z",
       "tags": [
         "jeopardy"
       ],
-      "hash": "1038f99e1d37b6d84da99a2a2076795256c84603"
+      "hash": "71ad437471047f643e9a1c15f27971eff2336852"
     },
     {
       "source": "ctftime",
@@ -672,6 +672,22 @@
         "jeopardy"
       ],
       "hash": "9fbef480af6a60365a1f940bd1c41d6e9c4c33ac"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3419",
+      "title": "EyesOpenCTF 7th edition",
+      "category": "ctf",
+      "description": "EyesOpenCTF 2026 is a FREE CTF competition organized as part of the 7th edition of EOCON. This year, the competition goes far beyond a traditional CTF. You are not simply joining to solve isolated challenges. You are entering The Convergence, a live 48-hour cyber adventure in which reality itself is beginning to fracture. Across more than 40 challenges and 8 disciplines, teams will investigate corrupted systems, recover hidden Reality Fragments, unlock classified dossiers, expose compromised actors, and gradually reconstruct the truth behind a phenomenon threatening the entire world. Every flag matters. Each solved challenge can reveal new intelligence, unlock characters and locations, alter the mission briefing, and move the story forward in real time. The competition platform becomes a living investigation that evolves with the progress of the Operators. Expect : - web exploitation, - digital forensics, - reverse engineering, - binary exploitation, - cryptography, - OSINT, - AI security, and more—woven into a single coherent mission unlike any previous EyesOpenCTF. Built for teams from around the world and open to different experience levels, EyesOpenCTF is both a proving ground and an immersive narrative experience where competitors can learn, compete, get noticed, and join a fast-growing international cybersecurity community. As part of EOCON, the competition also connects participants with experts, researchers, recruiters, entrepreneurs, and emerging talent from Africa and beyond. It is a place where technical ability meets storytelling, where discoveries change the mission, and where tomorrow’s collaborations, careers, and opportunities begin. Form your team. Enter the Protocol. Recover the Fragments. Register: https://eyesopensecurity.com/ctf-briefing.html Direct Form: https://eyesopensecurity.com/?modal=ctf SPONSORS : - CyberDefenders (https://cyberdefenders.org) - JetBrains (https://jetbrains.com) - Netticket (https://netticket.net) - ExamBoot (https://exam",
+      "organizer": "EyesOpen_Security",
+      "location": "Online",
+      "url": "https://eyesopensecurity.com/ctf-briefing.html",
+      "starts_at": "2026-11-20T10:00:00.000Z",
+      "ends_at": "2026-11-22T10:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "0ddae71fdeb77ca92fc875f03d74d22d5cd36f4d"
     },
     {
       "source": "ctftime",
