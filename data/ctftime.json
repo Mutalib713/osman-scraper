@@ -1,5 +1,5 @@
 {
-  "count": 47,
+  "count": 46,
   "events": [
     {
       "source": "ctftime",
@@ -150,7 +150,7 @@
       "uid": "ctftime-3145",
       "title": "K17 CTF 2026",
       "category": "ctf",
-      "description": "K17 CTF is a 48-hour online Jeopardy CTF with a mix of beginner-friendly and hard challenges, hosted by UNSW's Security Society. Registration: https://k17ctf.secso.cc/ Sponsors: TBD Join our discord for rules and announcements related to the CTF: https://discord.gg/QeCGUhbjXx",
+      "description": "K17 CTF is an online Jeopardy CTF with a mix of beginner-friendly and hard challenges, hosted by UNSW's Security Society. NOTE: We have decided to shorten the competition from 48h to 24h in order to provide better support for challenges and infrastructure (without getting too sleep-deprived). The new end time is September 12, 10:00 UTC. This is exactly 24 hours prior to the end time listed here. The start time is unchanged. Registration: https://k17ctf.secso.cc/ Sponsors: Hex-Rays Join our discord for rules and announcements related to the CTF: https://discord.gg/QeCGUhbjXx",
       "organizer": "K17",
       "location": "Online",
       "url": "https://k17ctf.secso.cc/",
@@ -159,7 +159,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "de52ba7b139a0d86081da45469513ef2bfe8eb8a"
+      "hash": "8466df53f2765b144a80017c7a47245c8008e564"
     },
     {
       "source": "ctftime",
@@ -176,22 +176,6 @@
         "jeopardy"
       ],
       "hash": "21b5cded9be569c0fe7b5b926ca6441959e47db0"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3348",
-      "title": "PatriotCTF 2026",
-      "category": "ctf",
-      "description": "PatriotCTF is a beginner-friendly capture-the-flag cybersecurity competition hosted by GMU's cybersecurity club, MasonCC. It's open to students and professionals alike, with challenges ranging from easy to expert across categories like reverse engineering, web, crypto, forensics, and more.",
-      "organizer": "Competitive Cyber at Mason",
-      "location": "Online",
-      "url": "https://pctf.competitivecyber.club/",
-      "starts_at": "2026-09-11T22:00:00.000Z",
-      "ends_at": "2026-09-13T22:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "f3fd0597a075fbfca5a55f42b97e3c81c9f8d3e3"
     },
     {
       "source": "ctftime",
