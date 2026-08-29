@@ -1,38 +1,6 @@
 {
-  "count": 46,
+  "count": 44,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3290",
-      "title": "COMPFEST CTF 2026 (EXTENDED CHECK DESCRIPTION)",
-      "category": "ctf",
-      "description": "Since it seems that our event unfortunately collided with ASIS CTF and Blackhat MEA Qualifiers, we'll be extending the event duration from 24 hours to 48 hours so that those who compete on those events could still compete here after they're done :) Discord server: https://discord.gg/g7UDHdCA6v Event URL: https://mirror-ctf.compfest.id/ COMPFEST Website: https://compfest.id A CTF event organized by Computer Science students of Universitas Indonesia. The main event is aimed for Indonesian citizens, but everyone is welcome to participate in the mirror contest. *** Please keep in mind this event is a mirror event form an already held local event. Participants from that event may not join this event. *** Thank you to our sponsors: - Google Cloud Platform (Infra sponsored by goo.gle/ctfsponsorship) - Hex-Rays - Offsec - Binary Ninja",
-      "organizer": "CSUI",
-      "location": "Online",
-      "url": "https://mirror-ctf.compfest.id/",
-      "starts_at": "2026-08-29T00:00:00.000Z",
-      "ends_at": "2026-08-30T00:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "c84d41eb310860f9991d7df5c6558c6598e83058"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3385",
-      "title": "BlackHat MEA CTF Qualification 2026",
-      "category": "ctf",
-      "description": "Black Hat MEA Capture The Flag (CTF) 2026 ? The Black Hat MEA Capture The Flag (CTF) is the largest cybersecurity competition in the region and officially the largest Capture The Flag competition in the world, recognized with a Guinness World Record. Organized by the Saudi Federation for Cybersecurity, Programming and Drones (SAFCSP) in collaboration with Black Hat MEA, the competition brings together thousands of cybersecurity professionals, researchers, students, and enthusiasts from around the globe. Powered by the FlagYard platform, the competition follows a Jeopardy-style format, where teams of 3–5 players compete across a range of cybersecurity challenges, including Web Exploitation, PWN, Digital Forensics, Reverse Engineering, Cryptography, and AI Hacking. Competition Timeline Registration: June 3 – August 29, 2026 Online Qualifiers: August 29, 2026 | 10:00 AM KSA (GMT+3) | Online Thousands of participants will compete globally in teams of 3–5 members, with the top 150 teams qualifying for the final stage. On-site Finals The top 150 teams will be invited to Riyadh, Saudi Arabia for a 3-day final competition during Black Hat MEA, taking place from December 1–3, 2026. Register Now: https://flagyard.com/events/3468f495-a92c-498b-90c2-994dfb99ea0b Support: blackhatctf@safcsp.org.sa",
-      "organizer": "SAFCSP",
-      "location": "Online",
-      "url": "https://blackhatmea.com/capture-the-flag",
-      "starts_at": "2026-08-29T07:00:00.000Z",
-      "ends_at": "2026-08-30T07:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "f91d67a5d9171182fff72791fa6eccf2d7ada110"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3033",
