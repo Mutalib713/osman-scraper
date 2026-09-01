@@ -1,5 +1,5 @@
 {
-  "count": 40,
+  "count": 41,
   "events": [
     {
       "source": "ctftime",
@@ -80,6 +80,22 @@
         "jeopardy"
       ],
       "hash": "21b5cded9be569c0fe7b5b926ca6441959e47db0"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3159",
+      "title": "PwnSec CTF 2026",
+      "category": "ctf",
+      "description": "PwnSec is proud to present its 3rd edition CTF. Tune in for top jeopardy madness built by our team featuring web, crypto, reverse engineering, binary exploitation, cloud, forensics, misc, mobile, and more!",
+      "organizer": "PwnSec",
+      "location": "Online",
+      "url": "https://ctf.pwnsec.team/",
+      "starts_at": "2026-09-12T14:00:00.000Z",
+      "ends_at": "2026-09-13T14:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "70fd0a4756708f8f9db97f8da79e0072025f1d69"
     },
     {
       "source": "ctftime",
@@ -294,7 +310,7 @@
       "uid": "ctftime-3364",
       "title": "Securinets CTF Quals 2026",
       "category": "ctf",
-      "description": "Securinets CTF Quals 2026 is an online jeopardy style CTF organized by Securinets INSAT. The CTF will feature these categories: Web, Reverse Engineering, Pwn, Crypto, Forensics, OSINT, Misc ... Only 10 teams will qualify to the final CTF + top 5 from north africa . Registration will be open soon. Join our discord server: https://discord.gg/X5nSDvjSyc",
+      "description": "Securinets CTF Quals 2026 is an online jeopardy style CTF organized by Securinets INSAT. The CTF will feature these categories: Web, Reverse Engineering, Pwn, Crypto, Forensics, OSINT, Misc ... Only 10 teams will qualify to the final CTF + top 5 from north africa . Registration will be open soon. Join our discord server: https://discord.gg/X5nSDvjSyc Infra sponsored by goo.gle/ctfsponsorship",
       "organizer": "Securinets",
       "location": "Online",
       "url": "https://ctf.securinets.tn/",
@@ -303,7 +319,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "71ad437471047f643e9a1c15f27971eff2336852"
+      "hash": "8fc25097f4619c77ee4ab490848de80d8725e728"
     },
     {
       "source": "ctftime",
@@ -393,13 +409,13 @@
       "description": "",
       "organizer": "HITCON",
       "location": "Online",
-      "url": "http://ctf.hitcon.org/",
+      "url": "https://ctf2026.hitcon.org/",
       "starts_at": "2026-10-23T14:00:00.000Z",
       "ends_at": "2026-10-25T14:00:00.000Z",
       "tags": [
         "jeopardy"
       ],
-      "hash": "0cfbe1fb4852c63aff20eb123d37a3abdc6b421d"
+      "hash": "1ade125fe060ae2ef1528b0dbc84327e6d70df17"
     },
     {
       "source": "ctftime",
@@ -471,7 +487,7 @@
       "title": "HKCERT CTF 2026 (Qualifying Round)",
       "category": "ctf",
       "description": "HKCERT Capture The Flag 2026,” organised by the Hong Kong Computer Emergency Response Team Coordination Centre (HKCERT), the Hong Kong Productivity Council (HKPC) and the Digital Policy Office of HKSAR, is now in its sixth edition. It is one of the largest cybersecurity competitions in Hong Kong, featuring four categories: Secondary School, Tertiary, Open, and International. This year there will be an online Jeopardy CTF (qualifying round) and a physical CTF with offensive and defensive challenges (Final round). Please register at below HKCERT CTF website (Must register via the website) https://ctf.hkcert.org (Registration deadline: 20 Oct 2026)",
-      "organizer": "HKCERT",
+      "organizer": "Black Bauhinia",
       "location": "Online",
       "url": "https://ctf.hkcert.org/",
       "starts_at": "2026-11-06T10:00:00.000Z",
@@ -479,7 +495,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "3658c896913ade9aeed6f4605e2adca53931444f"
+      "hash": "352106ee9440239df21fad313c75c05d5708ce08"
     },
     {
       "source": "ctftime",
