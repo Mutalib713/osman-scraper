@@ -342,16 +342,16 @@
       "uid": "ctftime-3293",
       "title": "CDCTF 2026",
       "category": "ctf",
-      "description": "Crimson Defense CTF 2026 will be held on Saturday, October 3rd from 10am to 10pm CDT! CDCTF is a virtual 12-hour Jeopardy-style Capture-the-Flag competition designed for collegiate-level players. All ability levels are welcome. This competition will not only provide satisfying challenges for seasoned players, but be a good introduction to CTFs for new ones! CDCTF is a team competition, you may have up to four participants per team. Universities may have multiple teams representing their school. There will be challenges of all difficulties representing the following categories: Reverse Engineering, Log & Network Traffic Analysis, Forensics, Password Cracking, Cryptography, Open Source Intelligence, Social Engineering, and AI! Registration will open in August. CDCTF is hosted and created by Crimson Defense Cyber Security Club at the University of Alabama.",
+      "description": "Crimson Defense CTF 2026 will be held on Saturday, October 3rd from 10am to 10pm CDT! CDCTF is a virtual 12-hour Jeopardy-style Capture-the-Flag competition designed for collegiate-level players. All ability levels are welcome. This competition will not only provide satisfying challenges for seasoned players, but be a good introduction to CTFs for new ones! CDCTF is a team competition, you may have up to four participants per team. Universities may have multiple teams representing their school. There will be challenges of all difficulties representing the following categories: Reverse Engineering, Log & Network Traffic Analysis, Forensics, Password Cracking, Cryptography, Open Source Intelligence, Social Engineering, and AI! Registration is OPEN through September 30th CDCTF is hosted and created by Crimson Defense Cyber Security Club at the University of Alabama.",
       "organizer": "Crimson Defense",
       "location": "Online",
-      "url": "https://uacrimsondefense.github.io/cdctf.html",
+      "url": "https://crimsondefense.org/cdctf/",
       "starts_at": "2026-10-03T15:00:00.000Z",
       "ends_at": "2026-10-04T03:00:00.000Z",
       "tags": [
         "jeopardy"
       ],
-      "hash": "30764c4a02cb3b2687fd79d915347f30a2b88cd6"
+      "hash": "12d60c813b274e516e60f60424d98aa0259f199e"
     },
     {
       "source": "ctftime",
