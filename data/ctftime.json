@@ -89,13 +89,13 @@
       "description": "PwnSec is proud to present its 3rd edition CTF. Tune in for top jeopardy madness built by our team featuring web, crypto, reverse engineering, binary exploitation, cloud, forensics, misc, mobile, and more!",
       "organizer": "PwnSec",
       "location": "Online",
-      "url": "https://ctf.pwnsec.team/",
+      "url": "https://pwnsec.ctf.ae/",
       "starts_at": "2026-09-12T14:00:00.000Z",
       "ends_at": "2026-09-13T14:00:00.000Z",
       "tags": [
         "jeopardy"
       ],
-      "hash": "70fd0a4756708f8f9db97f8da79e0072025f1d69"
+      "hash": "2297291b9ca284cb8cc644b229802c62a41da352"
     },
     {
       "source": "ctftime",
