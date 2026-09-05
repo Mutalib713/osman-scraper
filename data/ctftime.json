@@ -1,38 +1,6 @@
 {
-  "count": 41,
+  "count": 46,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3097",
-      "title": "NNS CTF 2026",
-      "category": "ctf",
-      "description": "Join us for a jeopardy-style CTF organized by the Norske Nøkkelsnikere CTF team! Expect quality challenges in categories such as web, misc, crypto, blockchain, devsecoops, rev, pwn, and more! We welcome beginners and advanced players. Sponsors: OtterSec, Zellic, EPT Discord: https://discord.gg/9AZr3WKrjG",
-      "organizer": "Norske Nøkkelsnikere",
-      "location": "Online",
-      "url": "https://nnsc.tf/",
-      "starts_at": "2026-09-04T16:00:00.000Z",
-      "ends_at": "2026-09-06T16:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "6ab04667829d8eee3b2ae2ac0cbabcdca0966e39"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3344",
-      "title": "TFC CTF 2026",
-      "category": "ctf",
-      "description": "This year, The Few Chosen return with our sixth annual CTF, taking place on September 5-6, 2026. We’re a team of CTF players who set out to build the kind of competition we’d want to play ourselves. Everything has been built from the ground up, with challenges across Pwn, Reverse, Web, Crypto, and Misc. Expect tough challenges, clever ideas, and plenty of opportunities to get stuck on something for far longer than you’d like. See you in September. Infra sponsored by goo.gle/ctfsponsorship",
-      "organizer": "The Few Chosen",
-      "location": "Online",
-      "url": "https://ctf.thefewchosen.com/",
-      "starts_at": "2026-09-05T10:00:00.000Z",
-      "ends_at": "2026-09-06T10:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "92bb543e249039555cdcb8a08f3a4025b8cad9a1"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3389",
@@ -163,6 +131,38 @@
     },
     {
       "source": "ctftime",
+      "uid": "ctftime-3412",
+      "title": "Cyber League 2026 - Major",
+      "category": "ctf",
+      "description": "Cyber League Season #03. This season features one qualifying Major, followed by Playoff and Grand Finals. The top 10 teams from the qualifying Major are selected to compete in the playoffs. The two highest-performing teams from the Playoff will advance to the Grand Finals, where they will face off to determine the ultimate champion of Season #02. Challenge Categories: - Web - Pwn - Misc - Forensics - Reverse Engineering - Cryptography Our Sponsors: - Division Zero (Div0) International participants are welcome to join! Event URL: https://cyberleague.co Registration URL: https://ctf.cyberleague.co",
+      "organizer": "DIV0-N0H4TS",
+      "location": "Online",
+      "url": "https://cyberleague.co/",
+      "starts_at": "2026-09-19T02:00:00.000Z",
+      "ends_at": "2026-09-20T02:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "f4d5959d955e4a960fd64f66c11065c4225a9300"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3431",
+      "title": "Haruulzangi CTF 2026 Semi-Final",
+      "category": "ctf",
+      "description": "Haruul Zangi CTF 2026 is organized by MNCERT/CC and the Haruulzangi CTF Team, representing the Mongolian CERT and cybersecurity community. We are proud to announce the 14th edition of Haruul Zangi CTF and welcome participants from around the world. The competition aims to promote practical cybersecurity skills, encourage knowledge sharing, and strengthen collaboration within the global cybersecurity community. Competition Format The competition consists of three rounds: Round 1 – Qualification (Online, Jeopardy) • Date: August 22, 2026 • Start Time: 09:00 (UTC+8) • Duration: 24 hours Round 2 – Semi-Final (Onsite, Jeopardy) • Date: September 19, 2026 • Location: Ulaanbaatar, Mongolia Round 3 – Final (Onsite, Attack & Defense) • Date: September 24, 2026 • Location: Ulaanbaatar, Mongolia Challenge Categories • Pwn • Web • Forensics • Cryptography • Reverse Engineering • Miscellaneous The challenges range from beginner to advanced difficulty, providing an engaging experience for both new and experienced CTF players. Team Information • Teams may consist of up to 3 players. • International participants are welcome. Qualification The following teams will advance to the onsite Semi-Final: The top 30 teams from the online Qualification Round, regardless of nationality. The highest-ranked Mongolian high school team, if not already qualified through the top 30 overall ranking. The highest-ranked Mongolian women’s team, if not already qualified through the top 30 overall ranking. Among the international teams that qualify for the Semi-Final, the two highest-ranked teams, based on the online Qualification Round results, will be invited directly to the onsite Final. If two international teams are invited to the Final, the top eight Mongolian teams from the Semi-Final will advance to the Final. The Final will consist of 10 teams in total and will be played in the Attack & Defense format. Support for International Finalists The organizers will provide the following support for the ",
+      "organizer": "haruulzangi-organizers",
+      "location": "Mongolia, Ulaanbaatar",
+      "url": "https://2026.haruulzangi.mn/",
+      "starts_at": "2026-09-19T02:00:00.000Z",
+      "ends_at": "2026-09-19T08:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "d14e912834e0b1b84fd65e32a47571148c42902e"
+    },
+    {
+      "source": "ctftime",
       "uid": "ctftime-3326",
       "title": "WATCHLIST",
       "category": "ctf",
@@ -176,6 +176,22 @@
         "jeopardy"
       ],
       "hash": "25524cee5ff40caeb7b03fd22bb020cd1283a285"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3428",
+      "title": "z0d1ak CTF Finals",
+      "category": "ctf",
+      "description": "Team z0d1ak is thrilled to announce the first edition of z0d1ak CTF. This is the finals for z0d1ak CTF 2026 where 25 qualifying teams compete in person at VIT Vellore, India Discord: https://discord.gg/ZfjXCXbXkA Prize Sponsor: Dataflow Security Sponsors: Hackviser HackerDNA.com GenXYZ HackingHub CyberWarfare Labs",
+      "organizer": "z0d1ak",
+      "location": "VIT Vellore, India",
+      "url": "https://ctf.z0d1ak.org/",
+      "starts_at": "2026-09-19T03:30:00.000Z",
+      "ends_at": "2026-09-19T12:30:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "6b1eb7b66ab4bef402e7e0335d58512df705aefa"
     },
     {
       "source": "ctftime",
@@ -208,6 +224,38 @@
         "jeopardy"
       ],
       "hash": "1f4c6058e4a674adaa2e114e699cfe5019722e70"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3435",
+      "title": "LUN4R CTF Quals",
+      "category": "ctf",
+      "description": "LUN4R CTF 2026 is a National Level Capture The Flag competition organized by ROOT RIET, the cybersecurity community of Rajadhani Institute of Engineering and Technology (RIET), Thiruvananthapuram. THE NIGHT HIDES THE FLAG. ROUND 1 — ONLINE QUALIFIERS 20 September 2026 | 10:00 AM – 10:00 PM IST A 12-hour online CTF featuring 24 challenges across Web, Crypto, Pwn, Forensics, Misc, Reverse Engineering, and OSINT. The top 30 teams will qualify for the offline finals. ROUND 2 — OFFLINE FINALS 4 October 2026 | RIET, Thiruvananthapuram, Kerala PRIZES 1st — ₹50,000 2nd — ₹30,000 3rd — ₹20,000 Plus additional vouchers and rewards. LUN4R CTF 2026 is supported by our sponsors and partners, whose contributions help us build a stronger cybersecurity community and competitive platform. Contact: +91 73068 30924 | +91 90374 52006",
+      "organizer": "Root Riet",
+      "location": "Online",
+      "url": "https://lunar.rootriet.in/",
+      "starts_at": "2026-09-20T04:30:00.000Z",
+      "ends_at": "2026-09-20T16:30:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "b00df79856e2c5f25e0dfbca155a543655caaf18"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3422",
+      "title": "FlightPath2026",
+      "category": "ctf",
+      "description": "A summer cybersecurity challenge inspiring high school students nationwide to explore computer science, develop technical skills, and rise to the challenge. See: https://www.codermerlin.academy/narp/flight-path/#home Sponsored by the Air & Space Forces Association Sam Johnson Chapter | Dallas Texas",
+      "organizer": "ĀYŌDÈ",
+      "location": "Online",
+      "url": "http://setyourvector.org/",
+      "starts_at": "2026-09-25T13:30:00.000Z",
+      "ends_at": "2026-09-27T21:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "74a8d0c3359a9dd6244a51ea95886067489115ac"
     },
     {
       "source": "ctftime",
@@ -352,6 +400,22 @@
         "jeopardy"
       ],
       "hash": "12d60c813b274e516e60f60424d98aa0259f199e"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3432",
+      "title": "AltayCTF 2026",
+      "category": "ctf",
+      "description": "",
+      "organizer": "SharLike",
+      "location": "Russia, Barnaul",
+      "url": "https://university.altayctf.ru/2026",
+      "starts_at": "2026-10-04T03:00:00.000Z",
+      "ends_at": "2026-10-04T12:00:00.000Z",
+      "tags": [
+        "attack-defense"
+      ],
+      "hash": "ec7946f4bfdb16eb0eea55d35c96439036e4fd7d"
     },
     {
       "source": "ctftime",
@@ -656,6 +720,22 @@
         "jeopardy"
       ],
       "hash": "0d082e049670f7c5e22d1f84789e6410bd969da5"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3386",
+      "title": "BlackHat MEA CTF Final 2026",
+      "category": "ctf",
+      "description": "Black Hat MEA Capture The Flag (CTF) 2026 ? The Black Hat MEA Capture The Flag (CTF) is the largest cybersecurity competition in the region and officially the largest Capture The Flag competition in the world, recognized with a Guinness World Record. Organized by the Saudi Federation for Cybersecurity, Programming and Drones (SAFCSP) in collaboration with Black Hat MEA, the competition brings together thousands of cybersecurity professionals, researchers, students, and enthusiasts from around the globe. Powered by the FlagYard platform, the competition follows a Jeopardy-style format, where teams of 3–5 players compete across a range of cybersecurity challenges, including Web Exploitation, PWN, Digital Forensics, Reverse Engineering, Cryptography, and AI Hacking. Competition Timeline Registration: June 3 – August 29, 2026 Online Qualifiers: August 29, 2026 | 10:00 AM KSA (GMT+3) | Online Thousands of participants will compete globally in teams of 3–5 members, with the top 150 teams qualifying for the final stage. On-site Finals The top 150 teams will be invited to Riyadh, Saudi Arabia for a 3-day final competition during Black Hat MEA, taking place from December 1–3, 2026. Register Now: https://flagyard.com/events/3468f495-a92c-498b-90c2-994dfb99ea0b Support: blackhatctf@safcsp.org.sa",
+      "organizer": "SAFCSP",
+      "location": "Riyadh, Saudi Arabia",
+      "url": "https://blackhatmea.com/capture-the-flag",
+      "starts_at": "2026-12-01T15:14:59.000Z",
+      "ends_at": "2026-12-03T15:14:59.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "549df344d4bf9ca4d19cf79f300d1b27a66ad415"
     }
   ]
 }
