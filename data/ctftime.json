@@ -1,22 +1,6 @@
 {
-  "count": 46,
+  "count": 45,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3389",
-      "title": "SUNCTF 2026",
-      "category": "ctf",
-      "description": "SunCTF is Sunway Cybersecurity Club's flagship jeopardy capture-the-flag competition, now in its third edition. Teams face a board of standalone challenges across Cryptography, Web Exploitation, Binary Exploitation, Reverse Engineering, Forensics, OSINT and Miscellaneous. Scoring is dynamic, so challenge values decay as more teams solve them and the scoreboard shifts in real time. Every challenge is authored in-house by our members and alumni. All challenges are open-sourced after the event, with official writeups published for each. Flag format: sunctf26{...} Format: Jeopardy, on-site Date: 6 September 2026, 08:00-17:00 MYT (UTC+8) Venue: Sir Jeffrey Cheah Hall, Level 4, Sunway University, Bandar Sunway, Subang Jaya, Selangor, Malaysia Teams: 2 to 4 members Eligibility: University students studying in Malaysia Prize pool: RM20,000+ Platinum Sponsors: TBA Organised by the Sunway Cybersecurity Club (CSC), Sunway University. Register: https://forms.gle/bAb1FqHfga7MKH2m9 Website: https://www.sunwaycybersecurityclub.org/sunctf",
-      "organizer": "Sunway Cybersecurity Club",
-      "location": "Malaysia, Subang Jaya",
-      "url": "https://www.sunwaycybersecurityclub.org/sunctf",
-      "starts_at": "2026-09-06T00:00:00.000Z",
-      "ends_at": "2026-09-06T09:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "0792ab1a70ced94aa5d5ca5c826f480c76fcaf8c"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3145",
@@ -54,7 +38,7 @@
       "uid": "ctftime-3159",
       "title": "PwnSec CTF 2026",
       "category": "ctf",
-      "description": "PwnSec is proud to present its 3rd edition CTF. Tune in for top jeopardy madness built by our team featuring web, crypto, reverse engineering, binary exploitation, cloud, forensics, misc, mobile, and more!",
+      "description": "PwnSec is proud to present its 3rd edition CTF. Tune in for top jeopardy madness built by our team featuring web, crypto, reverse engineering, binary exploitation, cloud, forensics, misc, mobile, and more! Discord: https://discord.gg/t758vQSDJ",
       "organizer": "PwnSec",
       "location": "Online",
       "url": "https://pwnsec.ctf.ae/",
@@ -63,7 +47,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "2297291b9ca284cb8cc644b229802c62a41da352"
+      "hash": "c0db809758cbb10b1e78972ed5f28ef7aad3a87e"
     },
     {
       "source": "ctftime",
