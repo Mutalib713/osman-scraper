@@ -1,5 +1,5 @@
 {
-  "count": 45,
+  "count": 46,
   "events": [
     {
       "source": "ctftime",
@@ -304,6 +304,22 @@
         "jeopardy"
       ],
       "hash": "0a13f7e065257ea7928851162f6efb915c17cdf1"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3020",
+      "title": "Pointer Overflow CTF - 2026",
+      "category": "ctf",
+      "description": "POCTF is designed for learners, newcomers, and anyone exploring the world of cybersecurity and CTFs. Whether this will be your first competition or your next milestone, this contest is built to be accessible, educational, and community-driven. The Pointer Overflow CTF is organized in honor of the students and alumni of the CIS: Cybersecurity program at the University of Wisconsin–Stevens Point. The contest continues to support our mission of expanding hands-on cybersecurity education through the Center for Cybersecurity Studies and Advanced Research.",
+      "organizer": "UWSP Pointers",
+      "location": "Online",
+      "url": "https://pointeroverflowctf.com/",
+      "starts_at": "2026-09-27T14:00:00.000Z",
+      "ends_at": "2026-12-06T14:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "6bce37be6870ca37be73218aabd62d39427a3f52"
     },
     {
       "source": "ctftime",
