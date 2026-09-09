@@ -550,7 +550,7 @@
       "uid": "ctftime-3418",
       "title": "HKCERT CTF 2026 (Qualifying Round)",
       "category": "ctf",
-      "description": "HKCERT Capture The Flag 2026,” organised by the Hong Kong Computer Emergency Response Team Coordination Centre (HKCERT), the Hong Kong Productivity Council (HKPC) and the Digital Policy Office of HKSAR, is now in its sixth edition. It is one of the largest cybersecurity competitions in Hong Kong, featuring four categories: Secondary School, Tertiary, Open, and International. This year there will be an online Jeopardy CTF (qualifying round) and a physical CTF with offensive and defensive challenges (Final round). Please register at below HKCERT CTF website (Must register via the website) https://ctf.hkcert.org (Registration deadline: 20 Oct 2026)",
+      "description": "HKCERT Capture The Flag 2026,” organised by the Hong Kong Computer Emergency Response Team Coordination Centre (HKCERT), the Hong Kong Productivity Council (HKPC) and the Digital Policy Office of HKSAR, is now in its sixth edition. It is one of the largest cybersecurity competitions in Hong Kong, featuring four categories: Secondary School, Tertiary, Open, and International. This year there will be an online Jeopardy CTF (qualifying round) and a physical CTF with offensive and defensive challenges (Final round). Please register at below HKCERT CTF website (Must register via the website) https://ctf.hkcert.org (Registration deadline: 20 Oct 2026) Discord: https://discord.gg/XEPyRr4Qp",
       "organizer": "Black Bauhinia",
       "location": "Online",
       "url": "https://ctf.hkcert.org/",
@@ -559,7 +559,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "352106ee9440239df21fad313c75c05d5708ce08"
+      "hash": "fc23d1a2be4cc6c924b87acc079bb6ffa49472fe"
     },
     {
       "source": "ctftime",
