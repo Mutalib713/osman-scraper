@@ -22,7 +22,7 @@
       "uid": "ctftime-3360",
       "title": "CAT CTF 26",
       "category": "ctf",
-      "description": "Welcome to CAT CTF 26 — the third edition of CAT CTF! This beginner-friendly Capture the Flag competition is organized by the CAT Reloaded Student Activity Club at Mansoura University. Our main goal is to help Egyptian university students strengthen their cybersecurity skills, but the event is open to participants from all around the world. Everyone is welcome to join, learn, and compete! Event organizer is https://ctftime.org/team/372136 and this CTF isn't affiliated with 0xL4ugh CTF team",
+      "description": "Welcome to CAT CTF 26 — the third edition of CAT CTF! This beginner-friendly Capture the Flag competition is organized by the CAT Reloaded Student Activity Club at Mansoura University. Our main goal is to help Egyptian university students strengthen their cybersecurity skills, but the event is open to participants from all around the world. Everyone is welcome to join, learn, and compete! discord server: https://discord.gg/49PHDvKdq Event organizer is https://ctftime.org/team/372136 and this CTF isn't affiliated with 0xL4ugh CTF team",
       "organizer": "0xL4ugh",
       "location": "Online",
       "url": "https://ctf.catreloaded.org/",
@@ -31,7 +31,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "21b5cded9be569c0fe7b5b926ca6441959e47db0"
+      "hash": "675e35046f0ff1cb744a7e984708e12b3651535e"
     },
     {
       "source": "ctftime",
