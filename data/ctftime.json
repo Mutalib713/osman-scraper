@@ -3,38 +3,6 @@
   "events": [
     {
       "source": "ctftime",
-      "uid": "ctftime-3145",
-      "title": "K17 CTF 2026",
-      "category": "ctf",
-      "description": "K17 CTF is an online Jeopardy CTF with a mix of beginner-friendly and hard challenges, hosted by UNSW's Security Society. NOTE: We have decided to shorten the competition from 48h to 24h in order to provide better support for challenges and infrastructure (without getting too sleep-deprived). The new end time is September 12, 10:00 UTC. This is exactly 24 hours prior to the end time listed here. The start time is unchanged. Registration: https://k17ctf.secso.cc/ Sponsors: Hex-Rays Join our discord for rules and announcements related to the CTF: https://discord.gg/QeCGUhbjXx",
-      "organizer": "K17",
-      "location": "Online",
-      "url": "https://k17ctf.secso.cc/",
-      "starts_at": "2026-09-11T10:00:00.000Z",
-      "ends_at": "2026-09-13T10:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "8466df53f2765b144a80017c7a47245c8008e564"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3360",
-      "title": "CAT CTF 26",
-      "category": "ctf",
-      "description": "Welcome to CAT CTF 26 — the third edition of CAT CTF! This beginner-friendly Capture the Flag competition is organized by the CAT Reloaded Student Activity Club at Mansoura University. Our main goal is to help Egyptian university students strengthen their cybersecurity skills, but the event is open to participants from all around the world. Everyone is welcome to join, learn, and compete! discord server: https://discord.gg/49PHDvKdq Event organizer is https://ctftime.org/team/372136 and this CTF isn't affiliated with 0xL4ugh CTF team",
-      "organizer": "0xL4ugh",
-      "location": "Online",
-      "url": "https://ctf.catreloaded.org/",
-      "starts_at": "2026-09-11T12:00:00.000Z",
-      "ends_at": "2026-09-12T12:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "675e35046f0ff1cb744a7e984708e12b3651535e"
-    },
-    {
-      "source": "ctftime",
       "uid": "ctftime-3159",
       "title": "PwnSec CTF 2026",
       "category": "ctf",
@@ -419,6 +387,22 @@
     },
     {
       "source": "ctftime",
+      "uid": "ctftime-3437",
+      "title": "Narxoz CTF",
+      "category": "ctf",
+      "description": "Narxoz CTF 2026 is an international, on-site, scenario-based Cyber Range CTF organized by NarXploit in cooperation with Narxoz University. Participants will operate in a realistic cyber range environment where they will analyze infrastructure, identify vulnerabilities, exploit weaknesses, develop attack chains, and capture flags while progressing through a scenario-driven challenge. Event details Date: 10 October 2026 Location: Narxoz University, 55 Zhandosov Street, Almaty, Kazakhstan Format: Scenario-based Cyber Range CTF Mode: Offline Team size: Up to 5 participants Registration deadline: 30 September 2026, 23:59 (UTC+5) The competition is open to international CTF teams, cybersecurity students, enthusiasts, and professionals. Prize Pool: ₸1,700,000 1st place — ₸1,000,000 2nd place — ₸500,000 3rd place — ₸200,000 Organizers: NarXploit & Narxoz University Registration: https://narxploit.narxoz.kz/register.html Follow NarXploit: Telegram: https://t.me/narxploit Instagram: https://www.instagram.com/narxploit/ LinkedIn: https://www.linkedin.com/company/narxploit/",
+      "organizer": "NarXploit",
+      "location": "Almaty, Kazakhstan",
+      "url": "https://narxploit.narxoz.kz/register.html",
+      "starts_at": "2026-10-10T10:00:00.000Z",
+      "ends_at": "2026-10-10T18:00:00.000Z",
+      "tags": [
+        "hack quest"
+      ],
+      "hash": "f0cb575a659a28400a284df3cd65de208bc624a0"
+    },
+    {
+      "source": "ctftime",
       "uid": "ctftime-3354",
       "title": "GaianSpace CTF 2026",
       "category": "ctf",
@@ -720,6 +704,22 @@
         "jeopardy"
       ],
       "hash": "0d082e049670f7c5e22d1f84789e6410bd969da5"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3436",
+      "title": "CyberSci Regional Qualifiers 2026-27",
+      "category": "ctf",
+      "description": "CyberSci is Canada's national Cyber Security Challenge for university and college students. - Think you've got an elite team of students? Come and prove it. Our winners will go on to compete against the best in the world. - Just starting out? This is the best way to learn and rise to the top. - Annual in-person events since 2016. (Online during Covid.) Over 500 students so far. Format: - Modified jeopardy style. Realistic IT environment. - Regional qualifiers are held in Nov-Dec each year. - National finals are the following July. - Winning teams represent Canada at international events in the Fall. For Regionals (qualifiers): We do hacking in the morning, interviews in the afternoon, and job offers by supper (for intern/summer/coop jobs). - Full-time job offers take a few more days. - Students register their team through their school instructor or computer club. Max 2 teams per school. For nationals: Participants will be the winning team from each regional/qualifier - PLUS one all-juniors (19 and under) - AND one all-women team (chosen from participants at the Regionals). Two-day event.",
+      "organizer": "CyberSciOrganizers",
+      "location": "Onsite at 6 locations in Canada",
+      "url": "https://cybersecuritychallenge.ca/",
+      "starts_at": "2026-11-21T15:00:00.000Z",
+      "ends_at": "2026-11-21T22:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "c94c731c531e72c593db870e304d408c67e4ddd3"
     },
     {
       "source": "ctftime",
