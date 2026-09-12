@@ -6,7 +6,7 @@
       "uid": "ctftime-3159",
       "title": "PwnSec CTF 2026",
       "category": "ctf",
-      "description": "PwnSec is proud to present its 3rd edition CTF. Tune in for top jeopardy madness built by our team featuring web, crypto, reverse engineering, binary exploitation, cloud, forensics, misc, mobile, and more! Discord: https://discord.gg/t758vQSDJ",
+      "description": "The line between human and machine got blurry. Some people think augmentation costs you something; that there's a part of solving a challenge by hand, at 3am, half-guessing, that a script can't replicate. Others think that's romantic nonsense, the flag doesn't care how you got there. This year you pick a side before the board opens. Humans solve clean, no AI, just you and the challenge. Cyborgs bring whatever tools they want to the fight. Two leaderboards, one CTF, no one's wrong. Join PwnSec CTF on its 3rd edition. Tune in for top jeopardy madness built by our team featuring web, crypto, reverse engineering, binary exploitation, cloud, forensics, misc, and more! Discord: https://discord.gg/t758vQSDJ",
       "organizer": "PwnSec",
       "location": "Online",
       "url": "https://pwnsec.ctf.ae/",
@@ -15,7 +15,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "c0db809758cbb10b1e78972ed5f28ef7aad3a87e"
+      "hash": "4dab4d0e5685076dc74e909225531a745149556a"
     },
     {
       "source": "ctftime",
