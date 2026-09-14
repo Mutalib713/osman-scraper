@@ -1,5 +1,5 @@
 {
-  "count": 44,
+  "count": 45,
   "events": [
     {
       "source": "ctftime",
@@ -54,7 +54,7 @@
       "uid": "ctftime-3355",
       "title": "CSAW CTF Qualification Round 2026",
       "category": "ctf",
-      "description": "CSAW CTF is a entry-level CTF, designed for undergraduate students who are trying to break into security. Challenges are specifically designed to point students in directions that will help them understand fundamental concepts and develop practical skills. Our sponsors are big players in the security field, who are serious about hiring the right people with the right skills. Our judges are world-renowned experts in the security field, who are dedicated to making sure that our challenges are designed to test these skills.",
+      "description": "CSAW CTF is a entry-level CTF, designed for undergraduate students who are trying to break into security. Challenges are specifically designed to point students in directions that will help them understand fundamental concepts and develop practical skills. Our sponsors are big players in the security field, who are serious about hiring the right people with the right skills. Our judges are world-renowned experts in the security field, who are dedicated to making sure that our challenges are designed to test these skills. Registration on the website is opening soon. Join the discord until then for updates! Discord Invite Link: https://discord.com/invite/aWVweH3m6z",
       "organizer": "NYUSEC",
       "location": "Online",
       "url": "https://ctf.csaw.io/",
@@ -63,7 +63,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "521883ca2aab3c41c923cd49cc97dc578a701504"
+      "hash": "68eecb7b082cd0377b41b032568da65550c86244"
     },
     {
       "source": "ctftime",
@@ -704,6 +704,22 @@
         "jeopardy"
       ],
       "hash": "549df344d4bf9ca4d19cf79f300d1b27a66ad415"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3367",
+      "title": "niteCTF 2026",
+      "category": "ctf",
+      "description": "niteCTF, hosted by Cryptonite, is designed to help students explore new & diverse areas of cybersecurity while providing a platform for experienced players to sharpen their skills. The CTF features a wide range of challenges spanning multiple domains including Hardware Security, Cryptography, Web Exploitation, Digital Forensics, Binary Exploitation, Reverse Engineering, and more! ~ hosted by <a href=\"https://cryptonitemit.in\" target=\"_blank\">Cryptonite</a> Industry Sponsor: <a href=\"https://hex-rays.com/\">Hex-Rays</a> Infra sponsored by <a href=\"https://goo.gle/ctfsponsorship\" target=\"_blank\">goo.gle/ctfsponsorship</a>",
+      "organizer": "Cryptonite",
+      "location": "Online",
+      "url": "https://nitectf.cryptonitemit.in/",
+      "starts_at": "2026-12-11T12:00:00.000Z",
+      "ends_at": "2026-12-13T12:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "27be115b72e0953c73ecec9602e33fd898f19534"
     }
   ]
 }
