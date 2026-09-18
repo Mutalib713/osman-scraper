@@ -1,38 +1,6 @@
 {
-  "count": 44,
+  "count": 51,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3346",
-      "title": "NullOrigin CTF Qualifiers",
-      "category": "ctf",
-      "description": "NullOrigin CTF 2026 Qualifiers is the official qualification round for NullOrigin CTF 2026, an international online Capture The Flag (CTF) competition organized by Cyber HX. The qualifier is a 12-hour Jeopardy-style CTF where teams of 1–4 members will solve real-world cybersecurity challenges across Web Security, Cryptography, Reverse Engineering, Digital Forensics, OSINT, Binary Exploitation, and Miscellaneous categories. The competition is open to students, professionals, and cybersecurity enthusiasts from around the world. Whether you are just starting your cybersecurity journey or already have CTF experience, NullOrigin offers challenges for every skill level. Top-performing teams will qualify for the NullOrigin CTF 2026 Finals. Rewards include qualification to the Finals, a CPPT (Certified Practical Penetration Tester) Certificate by Cyber HX (Worth $99), Exclusive MITRE ATT&CK Lab Access by Cyber HX, internship opportunities, digital certificates, and sponsor rewards. Mode: Online Duration: 12 Hours Team Size: 1–4 Members Website: https://nullorigin.cyberhx.com Contact: [nullorigin@cyberhx.com](mailto:nullorigin@cyberhx.com)",
-      "organizer": "CyberXoX",
-      "location": "Online",
-      "url": "https://nullorigin.cyberhx.com/",
-      "starts_at": "2026-09-18T04:30:00.000Z",
-      "ends_at": "2026-09-18T16:30:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "70415e57d68efd004acea0a8c1e786fc24aae5b2"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3392",
-      "title": "DefCamp Capture the Flag (D-CTF) 2026 Quals",
-      "category": "ctf",
-      "description": "Mark Your Calendars! The DefCamp Capture the Flag (D-CTF) Qualification Phase is Locked and Loaded for 2026! Get ready to dive into the most electrifying and audacious security CTF competition in Central and Eastern Europe—DefCamp Capture The Flag (D-CTF)! This is where the sharpest hackers and IT masterminds come together to push their skills to the limit, battling it out with top CTF teams from around the globe. The mission? Secure a spot in the elite top 10 and ultimately conquer the D-CTF competition—or go down fighting! Since 2011, DefCamp Capture the Flag has been the ultimate battleground for over 10,000 players. This annual, multi-stage event is open to all, but remember one crucial rule—hack or be hacked! Event Highlights Brace yourselves for an adrenaline-packed adventure with around 10 beginner-friendly challenges and 15 more difficult tasks that will test even the most seasoned players. Format: Jeopardy Play Format: Team-only Genres: Crypto, Pwning, Reversing, Web, Forensics, Miscellaneous… Language: English Access: Open / Free for everyone Difficulty: Entry Level - Easy - Medium - Hard - Insane The Challenge Awaits Tackle a variety of challenges across multiple categories. Exploit system weaknesses, follow cryptic hints, and uncover hidden secrets. Each challenge holds a unique flag in the format CTF{sha256 random message}. Capture it, submit it on our platform, and rack up your points. CTF competitions are a thrilling mix of puzzles and challenges, including reverse-engineering, memory corruption, cryptography, web tech, and more. Solve them, capture the flag, and climb the leaderboard to victory! Organizers & Partners This epic event is brought to you by the Cyber Security Research Center from Romania (Asociatia Centrul de Cercetare in Securitate Informatica din Romania) under the banner of DefCamp, Romania's largest and most vibrant INFOSEC community.",
-      "organizer": "CCSIR.org",
-      "location": "Online",
-      "url": "https://dctf26-quals.cyber-edu.co/",
-      "starts_at": "2026-09-18T10:00:00.000Z",
-      "ends_at": "2026-09-20T10:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "f179f2deb801313119fc71fffdc258a4039b6053"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3355",
@@ -275,6 +243,22 @@
     },
     {
       "source": "ctftime",
+      "uid": "ctftime-3434",
+      "title": "CSS CTF 2026: Return of Nexus",
+      "category": "ctf",
+      "description": "CSS CTF 2026: Return of Nexus is a 40-hour online Capture The Flag competition organized and hosted by the USYD Cybersecurity Society. A year after the network went dark, the Quantum Nexus Network is back online. Join us for a 40-hour sprint featuring challenges spanning Web Exploitation, PWN, Reverse Engineering, Cryptography, Forensics, OSINT, and AI/Prompt Injection across skill levels. Organizer: USYD Cybersecurity Society Format: Jeopardy-style (Team & Solo) Start: Wednesday, 30 September 2026 @ 4:00 PM AEST End: Friday, 2 October 2026 @ 10:00 AM AEST Duration: 40 Hours continuous Categories: Web, Pwn, Rev, Crypto, Forensics, OSINT, AI, etc Discord / Updates: https://discord.gg/gUGqmt4Gqf Platform: CTFd",
+      "organizer": "suɐǝpodᴉʇuɐ",
+      "location": "Online",
+      "url": "https://ctf.cybersecurity.sydney/",
+      "starts_at": "2026-09-30T06:00:00.000Z",
+      "ends_at": "2026-10-01T22:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "e7e1dfcf7b9e8a8c419e7b82b33ab021383bd050"
+    },
+    {
+      "source": "ctftime",
       "uid": "ctftime-3380",
       "title": "Hacker's Gambit 2026 (Round 1 – Online Qualifier)",
       "category": "ctf",
@@ -352,6 +336,38 @@
         "attack-defense"
       ],
       "hash": "ec7946f4bfdb16eb0eea55d35c96439036e4fd7d"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3440",
+      "title": "FortID CTF 2026",
+      "category": "ctf",
+      "description": "This is the fourth global CTF organized by employees of Blockhouse Technology Zagreb (tbtl.com). It is also the second incarnation under our brand name - Fort ID (https://fortid.com/) - a privacy-first, secure, and eIDAS 2.0 compliant digital identity solution. The contest will be in the Jeopardy format, featuring all of the standard categories (web, crypto, rev, pwn, misc, OSINT). We will have a wide range of challenges, from beginner-friendly ones, all the way to some spicy ones which should hopefully be interesting to seasoned players as well. For more details and rules, please visit https://ctf.fortid.com/",
+      "organizer": "TBTL",
+      "location": "Online",
+      "url": "https://ctf.fortid.com/",
+      "starts_at": "2026-10-09T18:00:00.000Z",
+      "ends_at": "2026-10-11T18:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "62551fa98b2f3812e5c36c435fe8555580d598c7"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3446",
+      "title": "KubSTU CTF",
+      "category": "ctf",
+      "description": "English and Indian languages are present. KubSTU-2026-Autumn-Edition - an international 30-hour jeopardy CTF from Kuban State Technological University and the Capybaras team. 50+ challenges in Web, Crypto, Forensics, Stegano, OSINT and Misc. Last edition brought together 1,280 teams from 51 countries. Free to enter, open to all skill levels. Details: kubstu-ctf.ru | t.me/kubCTF",
+      "organizer": "Capybaras",
+      "location": "Online",
+      "url": "https://kubstu-ctf.ru/",
+      "starts_at": "2026-10-10T07:00:00.000Z",
+      "ends_at": "2026-10-11T13:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "0a3abd78adaf0587e68e73f616a90c22aed16a48"
     },
     {
       "source": "ctftime",
@@ -435,6 +451,22 @@
     },
     {
       "source": "ctftime",
+      "uid": "ctftime-3377",
+      "title": "RSTCON 2026 CTF",
+      "category": "ctf",
+      "description": "Online/Hybrid RSTCON CTF will available online, but there will be some challenges on available on-site at the conference. RSTCON CTF is an on-site/online competition for RSTCON, which is an annual technical security and hacking conference hosted in Charlotte, NC. RSTCON focuses on cutting-edge research, exploitation, and tradecraft in the logistics, energy, and manufacturing industries, as well as the sensors, systems, and architectures they rely on. RSTCON is home to the curious and those passionate about software and hardware security. (https://rstcon.org/)",
+      "organizer": "RSTCON",
+      "location": "Online",
+      "url": "https://ctf.rstcon.org/",
+      "starts_at": "2026-10-23T17:00:00.000Z",
+      "ends_at": "2026-10-25T17:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "0c886fe9e364ce2df58846f238d4441c3024bccd"
+    },
+    {
+      "source": "ctftime",
       "uid": "ctftime-3207",
       "title": "Hack.lu CTF 2026",
       "category": "ctf",
@@ -464,6 +496,38 @@
         "attack-defense"
       ],
       "hash": "2eb85a4a8d314105d63137525c94fe60e0629919"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3443",
+      "title": "Sudocrypt v16.0",
+      "category": "ctf",
+      "description": "The technology club of DPS RK Puram, Exun Clan is returning with its eagerly anticipated annual International Capture the Flag (CTF) x Cryptic Hunt event. Sudocrypt v16.0 is an event where individual cryptic enthusiasts come together to take on the ultimate challenge, showcasing their skills and passion for cyber and cryptic challenges. It's an event that promises excitement, learning, and the chance to test your abilities against participants from around the globe.",
+      "organizer": "exunclan",
+      "location": "Online",
+      "url": "https://sudocrypt.com/",
+      "starts_at": "2026-10-27T03:30:00.000Z",
+      "ends_at": "2026-10-28T15:30:00.000Z",
+      "tags": [
+        "hack quest"
+      ],
+      "hash": "bfee04895d2e7793c4eea860f06dcab0a5ab236d"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3444",
+      "title": "Srdnlen CTF 2026 Finals (Sardinia Cyber Camp)",
+      "category": "ctf",
+      "description": "The Sardinia Cyber Camp 2026 will bring the top 10 teams from the qualification round to compete live in Sardinia. Alongside the onsite CTF, the event will also host a cybersecurity fair and conference.",
+      "organizer": "Srdnlen",
+      "location": "Italy, Cagliari",
+      "url": "https://ctf.srdnlen.it/",
+      "starts_at": "2026-10-29T09:00:00.000Z",
+      "ends_at": "2026-10-29T17:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "41ae0b4b0041f9a56bc147600d98539cd428af5d"
     },
     {
       "source": "ctftime",
@@ -531,6 +595,22 @@
     },
     {
       "source": "ctftime",
+      "uid": "ctftime-3339",
+      "title": "SpookyCTF 2026",
+      "category": "ctf",
+      "description": "REGISTRATION IS NOW AVAILABLE! BOO!! Welcome to SpookyCTF 2026! Organized by the New Jersey Institute of Technology's Cyber Security Network (formerly known as NICC), this is our annual Halloween CTF event, open to all! We've made this CTF beginner-friendly, with a mix of harder challenges. Our mission is to help beginners develop professionally in cybersecurity while still keeping things fun! You'll be pushed to stay curious and strengthen your reasoning skills across challenges of varying difficulty. Our challenge categories include Binary Exploitation/Reverse Engineering, Cryptography, Forensics, OSINT, Web, and Misc. Expect weird but fun challenges developed by our team at CSN. SpookyCTF is hybrid — in person at NJIT and open to virtual attendees! Join our Discord to tap in: https://discord.gg/NeHyp5fFHW AI assistance is allowed but discouraged. Learning is part of the challenge — use your brain! Automated AI agents for solving challenges are strictly forbidden. Any detected automated AI usage will result in disqualification.",
+      "organizer": "NICC",
+      "location": "Online",
+      "url": "https://spooky.ctfd.io/",
+      "starts_at": "2026-11-06T17:00:00.000Z",
+      "ends_at": "2026-11-07T17:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "ab3b81c4e72db26d1c7907019101994fc2b395c5"
+    },
+    {
+      "source": "ctftime",
       "uid": "ctftime-3242",
       "title": "BlackAlps CTF 2026",
       "category": "ctf",
@@ -579,6 +659,22 @@
     },
     {
       "source": "ctftime",
+      "uid": "ctftime-3390",
+      "title": "International Battle of Hackers 2026",
+      "category": "ctf",
+      "description": "IBOH 2026 is a hybrid event which features a Local (Malaysian) category and an International Category held at Asia Pacific University of Technology & Innovation (APU), Kuala Lumpur, Malaysia. It is a Jeopardy-style Capture The Flag (CTF) competition that aims to bring together university level students to solve real-world cybersecurity challenges involving web exploitation, digital forensics, cryptography, reverse engineering, OSINT, and network security while promoting teamwork, ethical hacking, and hands-on technical learning.",
+      "organizer": "FSEC-SS",
+      "location": "Online",
+      "url": "https://battleofhackers.com/",
+      "starts_at": "2026-11-14T00:30:00.000Z",
+      "ends_at": "2026-11-14T10:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "3a91ecc6a4d6176dd3201373ab772decaf7a5701"
+    },
+    {
+      "source": "ctftime",
       "uid": "ctftime-3419",
       "title": "EyesOpenCTF 7th edition",
       "category": "ctf",
@@ -624,6 +720,22 @@
         "jeopardy"
       ],
       "hash": "e8a004eb510fd979481063137e734e7740df751b"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3425",
+      "title": "Outback Overflow",
+      "category": "ctf",
+      "description": "Outback Overflow is a free online jeopardy-style CTF built for high schoolers across Australia. Run by the High School Cybersecurity Community, it's designed to be a stepping stone for students getting into cyber security, whether you've never touched a terminal or you're already popping shells. Challenges span web exploitation, cryptography, forensics, OSINT, reverse engineering, and misc, with a heavy focus on beginner and intermediate difficulty so new players don't bounce in the first hour. There's still plenty to chew on for experienced players. Our goal is simple: grow the number of young people in cyber security and give Australian high schoolers a CTF they can call their own. Sponsors TBD",
+      "organizer": "HSCC",
+      "location": "Online",
+      "url": "http://hscyber.org/",
+      "starts_at": "2026-11-20T23:00:00.000Z",
+      "ends_at": "2026-11-21T23:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "10f9338c1c55f58714ffdfef1d10672a8b7eb708"
     },
     {
       "source": "ctftime",
