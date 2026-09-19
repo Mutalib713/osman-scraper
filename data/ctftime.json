@@ -1,102 +1,6 @@
 {
-  "count": 51,
+  "count": 45,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3355",
-      "title": "CSAW CTF Qualification Round 2026",
-      "category": "ctf",
-      "description": "CSAW CTF is a entry-level CTF, designed for undergraduate students who are trying to break into security. Challenges are specifically designed to point students in directions that will help them understand fundamental concepts and develop practical skills. Our sponsors are big players in the security field, who are serious about hiring the right people with the right skills. Our judges are world-renowned experts in the security field, who are dedicated to making sure that our challenges are designed to test these skills. Registration on the website is opening soon. Join the discord until then for updates! Discord Invite Link: https://discord.com/invite/aWVweH3m6z",
-      "organizer": "NYUSEC",
-      "location": "Online",
-      "url": "https://ctf.csaw.io/",
-      "starts_at": "2026-09-18T16:00:00.000Z",
-      "ends_at": "2026-09-20T16:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "68eecb7b082cd0377b41b032568da65550c86244"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3412",
-      "title": "Cyber League 2026 - Major",
-      "category": "ctf",
-      "description": "Cyber League Season #03. This season features one qualifying Major, followed by Playoff and Grand Finals. The top 10 teams from the qualifying Major are selected to compete in the playoffs. The two highest-performing teams from the Playoff will advance to the Grand Finals, where they will face off to determine the ultimate champion of Season #02. Challenge Categories: - Web - Pwn - Misc - Forensics - Reverse Engineering - Cryptography Our Sponsors: - Division Zero (Div0) International participants are welcome to join! Event URL: https://cyberleague.co Registration URL: https://ctf.cyberleague.co",
-      "organizer": "DIV0-N0H4TS",
-      "location": "Online",
-      "url": "https://cyberleague.co/",
-      "starts_at": "2026-09-19T02:00:00.000Z",
-      "ends_at": "2026-09-20T02:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "f4d5959d955e4a960fd64f66c11065c4225a9300"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3431",
-      "title": "Haruulzangi CTF 2026 Semi-Final",
-      "category": "ctf",
-      "description": "Haruul Zangi CTF 2026 is organized by MNCERT/CC and the Haruulzangi CTF Team, representing the Mongolian CERT and cybersecurity community. We are proud to announce the 14th edition of Haruul Zangi CTF and welcome participants from around the world. The competition aims to promote practical cybersecurity skills, encourage knowledge sharing, and strengthen collaboration within the global cybersecurity community. Competition Format The competition consists of three rounds: Round 1 – Qualification (Online, Jeopardy) • Date: August 22, 2026 • Start Time: 09:00 (UTC+8) • Duration: 24 hours Round 2 – Semi-Final (Onsite, Jeopardy) • Date: September 19, 2026 • Location: Ulaanbaatar, Mongolia Round 3 – Final (Onsite, Attack & Defense) • Date: September 24, 2026 • Location: Ulaanbaatar, Mongolia Challenge Categories • Pwn • Web • Forensics • Cryptography • Reverse Engineering • Miscellaneous The challenges range from beginner to advanced difficulty, providing an engaging experience for both new and experienced CTF players. Team Information • Teams may consist of up to 3 players. • International participants are welcome. Qualification The following teams will advance to the onsite Semi-Final: The top 30 teams from the online Qualification Round, regardless of nationality. The highest-ranked Mongolian high school team, if not already qualified through the top 30 overall ranking. The highest-ranked Mongolian women’s team, if not already qualified through the top 30 overall ranking. Among the international teams that qualify for the Semi-Final, the two highest-ranked teams, based on the online Qualification Round results, will be invited directly to the onsite Final. If two international teams are invited to the Final, the top eight Mongolian teams from the Semi-Final will advance to the Final. The Final will consist of 10 teams in total and will be played in the Attack & Defense format. Support for International Finalists The organizers will provide the following support for the ",
-      "organizer": "haruulzangi-organizers",
-      "location": "Mongolia, Ulaanbaatar",
-      "url": "https://2026.haruulzangi.mn/",
-      "starts_at": "2026-09-19T02:00:00.000Z",
-      "ends_at": "2026-09-19T08:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "d14e912834e0b1b84fd65e32a47571148c42902e"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3326",
-      "title": "WATCHLIST",
-      "category": "ctf",
-      "description": "WATCHLIST is a 24-hour online Jeopardy CTF about digital investigation: forensics, OSINT, recon, and the hands-on work investigators actually do. It's a love letter to Person of Interest, narrated by The Machine. There are 24 challenges across 6 categories: Forensics, Lab, OSINT, Recon, Trivia, and a Person of Interest story track that unlocks as you play. It's made for beginners through intermediate players, so there's an easy way in and the difficulty climbs from there. Every challenge teaches a real, usable skill with tools people actually use, and the hints are written to teach you something, not just hand over the answer. A few quick things: Any tools are fine, including AI. They're helpers, not shortcuts, and they won't finish a challenge for you. Teams of 1 to 6, and solo players are very welcome. Free to play. Prizes: $750 / $500 / $250 for the top three. When: 19 September 2026, 03:30 UTC. Runs for 24 hours. Briefing: https://xposedornot.com/ctf Platform: https://ctf.xposedornot.com Discord: https://discord.com/invite/X5DtMQgbdP Updates: https://x.com/@watchlistctf on X",
-      "organizer": "WatchList CTF",
-      "location": "Online",
-      "url": "https://ctf.xposedornot.com/",
-      "starts_at": "2026-09-19T03:30:00.000Z",
-      "ends_at": "2026-09-20T03:30:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "25524cee5ff40caeb7b03fd22bb020cd1283a285"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3428",
-      "title": "z0d1ak CTF Finals",
-      "category": "ctf",
-      "description": "Team z0d1ak is thrilled to announce the first edition of z0d1ak CTF. This is the finals for z0d1ak CTF 2026 where 25 qualifying teams compete in person at VIT Vellore, India Discord: https://discord.gg/ZfjXCXbXkA Prize Sponsor: Dataflow Security Sponsors: Hackviser HackerDNA.com GenXYZ HackingHub CyberWarfare Labs",
-      "organizer": "z0d1ak",
-      "location": "VIT Vellore, India",
-      "url": "https://ctf.z0d1ak.org/",
-      "starts_at": "2026-09-19T03:30:00.000Z",
-      "ends_at": "2026-09-19T12:30:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "6b1eb7b66ab4bef402e7e0335d58512df705aefa"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3401",
-      "title": "OmniCTF 2026 Finals",
-      "category": "ctf",
-      "description": "OmniCTF 2026 Finals is the on-site final stage of OmniCTF 2026, organized by ASOCIAȚIA OMNICYBR. Our Partners: UNbreakable Romania, Delta Obscura, Spectrum Our Sponsors: OtterSec, Marina Hub SRL., CAIDO, HyperLine Robotics, Knight Squad Academy, Hetzner Qualified teams from the online qualification round will meet in Constanța, Romania, for a 9-hour cybersecurity competition featuring practical challenges across multiple areas of information security. The finals will include both Jeopardy and KOTH categories. Participation is invite-only and limited to teams that qualified through the OmniCTF 2026 online qualifiers. Date: 19 September 2026 Format: On-site Location: Constanța, Romania Team size: Up to 3 players Organized by ASOCIAȚIA OMNICYBR.",
-      "organizer": "OmniCTF",
-      "location": "Romania, Constanța",
-      "url": "https://omnictf.com/",
-      "starts_at": "2026-09-19T06:00:00.000Z",
-      "ends_at": "2026-09-19T16:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "5f52ade15be56b785fd88c7c193ff41e265c6b47"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3365",
@@ -150,7 +54,7 @@
       "uid": "ctftime-3374",
       "title": "BCS CTF 2026",
       "category": "ctf",
-      "description": "An international-standard cybersecurity competition designed for ethical hackers, students, professionals, researchers, and technology communities worldwide. Event hosted by: Bangladesh Computer Society (BCS) N.B. BCS CTF is one of the part of BCS ICT Fest 2026",
+      "description": "BCS CTF will be organized as an online cyber competition under BCS ICT Fest 2026. It is designed to encourage ethical hacking, cybersecurity learning, teamwork and practical problem-solving. Event hosted by: Bangladesh Computer Society (BCS) discord: https://discord.gg/4TVDe6S7VW",
       "organizer": "bdhxgrp",
       "location": "Online",
       "url": "https://ctf.bcsictfest.com/",
@@ -159,7 +63,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "aab611afc041c1a3b05e3cc51c1f406c4cc58220"
+      "hash": "3ea25fefab8afb91a6aa2ab71e92a8dc7369a6ef"
     },
     {
       "source": "ctftime",
@@ -726,7 +630,7 @@
       "uid": "ctftime-3425",
       "title": "Outback Overflow",
       "category": "ctf",
-      "description": "Outback Overflow is a free online jeopardy-style CTF built for high schoolers across Australia. Run by the High School Cybersecurity Community, it's designed to be a stepping stone for students getting into cyber security, whether you've never touched a terminal or you're already popping shells. Challenges span web exploitation, cryptography, forensics, OSINT, reverse engineering, and misc, with a heavy focus on beginner and intermediate difficulty so new players don't bounce in the first hour. There's still plenty to chew on for experienced players. Our goal is simple: grow the number of young people in cyber security and give Australian high schoolers a CTF they can call their own. Sponsors TBD",
+      "description": "Outback Overflow is a free online jeopardy-style CTF built for high schoolers across Australia. Run by the High School Cybersecurity Community, it's designed to be a stepping stone for students getting into cyber security, whether you've never touched a terminal or you're already popping shells. Our goal is simple: grow the number of young people in cyber security and give Australian high schoolers a CTF they can call their own. Sponsors: TBD (if you would like to sponsor please reach out to contact@hscyber.org or join our discord!) Join our discord to talk to other players! https://discord.gg/xWPndqMCfA",
       "organizer": "HSCC",
       "location": "Online",
       "url": "http://hscyber.org/",
@@ -735,7 +639,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "10f9338c1c55f58714ffdfef1d10672a8b7eb708"
+      "hash": "ced0c8818c31796fcf0703c9ee3b8a5990d99901"
     },
     {
       "source": "ctftime",
