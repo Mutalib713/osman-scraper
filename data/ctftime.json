@@ -278,7 +278,7 @@
       "uid": "ctftime-3446",
       "title": "KubSTU CTF",
       "category": "ctf",
-      "description": "English and Indian languages are present. KubSTU-2026-Autumn-Edition - an international 30-hour jeopardy CTF from Kuban State Technological University and the Capybaras team. 50+ challenges in Web, Crypto, Forensics, Stegano, OSINT and Misc. Last edition brought together 1,280 teams from 51 countries. Free to enter, open to all skill levels. Details: kubstu-ctf.ru | t.me/kubCTF",
+      "description": "English and Indian languages are present. For help — https://t.me/c/3892440940/5995 KubSTU-2026-Autumn-Edition - an international 30-hour jeopardy CTF from Kuban State Technological University and the Capybaras team. 50+ challenges in Web, Crypto, Forensics, Stegano, OSINT and Misc. Last edition brought together 1,280 teams from 51 countries. Free to enter, open to all skill levels. Details: kubstu-ctf.ru | t.me/kubCTF",
       "organizer": "Capybaras",
       "location": "Online",
       "url": "https://kubstu-ctf.ru/",
@@ -287,7 +287,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "0a3abd78adaf0587e68e73f616a90c22aed16a48"
+      "hash": "2e175993248b54cca5bd857e3590014e9601498d"
     },
     {
       "source": "ctftime",
@@ -563,6 +563,22 @@
     },
     {
       "source": "ctftime",
+      "uid": "ctftime-3082",
+      "title": "Platypwn 2026",
+      "category": "ctf",
+      "description": "The Platypwn 2026 is an online Jeopardy CTF which offers easy challenges for beginners, but also medium and difficult challenges for advanced players. See https://platypwnies.de/events/platypwn for further details.",
+      "organizer": "Platypwnies",
+      "location": "Online",
+      "url": "https://platypwnies.de/events/platypwn/",
+      "starts_at": "2026-11-13T17:00:00.000Z",
+      "ends_at": "2026-11-14T11:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "e76d641b2afcbfd1da461cf848d3d846f7ba550f"
+    },
+    {
+      "source": "ctftime",
       "uid": "ctftime-3049",
       "title": "WolvCTF 2026",
       "category": "ctf",
@@ -624,22 +640,6 @@
         "jeopardy"
       ],
       "hash": "d418482af408bbc6f9e460c8e76b140b8d310888"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3118",
-      "title": "SwampCTF 2026",
-      "category": "ctf",
-      "description": "SwampCTF is a student-run competition and hosted by the University of Florida Student InfoSec Team (UFSIT). Join us online for jeopardy-style fun with challenges in Pwn, Reverse, Forensics, Crypto, and Misc. categories.",
-      "organizer": "Kernel Sanders",
-      "location": "Online",
-      "url": "https://ctf.swampctf.com/",
-      "starts_at": "2026-11-20T21:00:00.000Z",
-      "ends_at": "2026-11-22T21:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "e8a004eb510fd979481063137e734e7740df751b"
     },
     {
       "source": "ctftime",
