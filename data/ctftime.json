@@ -70,7 +70,7 @@
       "uid": "ctftime-3374",
       "title": "BCS CTF 2026",
       "category": "ctf",
-      "description": "BCS CTF will be organized as an online cyber competition under BCS ICT Fest 2026. It is designed to encourage ethical hacking, cybersecurity learning, teamwork and practical problem-solving. Event hosted by: Bangladesh Computer Society (BCS) discord: https://discord.gg/qhaYDaJE26",
+      "description": "BCS CTF will be organized as an online cyber competition under BCS ICT Fest 2026. It is designed to encourage ethical hacking, cybersecurity learning, teamwork and practical problem-solving. Event hosted by: Bangladesh Computer Society (BCS) discord: https://discord.gg/qhaYDaJE26 Sponsors and Partners: https://ctiacademy.io (Learning Partner) https://blueteambd.com (Training Partner) https://web.unifiedit.xyz (Cloud Partner)",
       "organizer": "bdhxgrp",
       "location": "Online",
       "url": "https://ctf.bcsictfest.com/",
@@ -79,7 +79,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "c5bf91793f65ae67603abb5115579864d452febf"
+      "hash": "27b2b89995bd88cd6b08c2d87daf79deb015c0b3"
     },
     {
       "source": "ctftime",
