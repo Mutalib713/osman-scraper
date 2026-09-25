@@ -1,54 +1,6 @@
 {
-  "count": 46,
+  "count": 43,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3451",
-      "title": "BreachPoint 2026",
-      "category": "ctf",
-      "description": "Breach Point is a cybersecurity Capture the Flag (CTF) event designed to challenge participants through two intense rounds of problem-solving and hands-on security. Round 1 follows a Jeopardy-style format, where participants tackle a range of cybersecurity challenges across different categories, uncovering flags and progressing through a narrative-driven storyline. The top-performing teams from Round 1 advance to Round 2: Attack & Defense, where they must put their skills to the test by exploiting vulnerabilities in opponents’ systems while simultaneously defending their own. Combining technical expertise, strategic thinking, and real-world cybersecurity concepts, Breach Point challenges participants to think like both an attacker and a defender as they fight their way toward the final flag.",
-      "organizer": "pulse_0x1337",
-      "location": "PSG College of Technology, Coimbatore, Tamil Nadu",
-      "url": "https://breachpoint.axios.live/",
-      "starts_at": "2026-09-25T04:00:00.000Z",
-      "ends_at": "2026-09-26T08:30:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "2f26f6152a8cac492d18389bc17184a4240a3328"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3454",
-      "title": "Null Origin CTF 2026: Grand finale",
-      "category": "ctf",
-      "description": "Null Origin CTF 2026 — Grand Finale Null Origin is an international online Capture The Flag competition organised by Team CyberXoX and powered by CyberHX. The Grand Finale is the second round of Null Origin CTF 2026, bringing together the top-performing teams from the 12-hour Qualifier for a fresh 12-hour Jeopardy-style CTF. EVENT FORMAT • Grand Finale: 25–26 September 2026 • Duration: 12 Hours • Mode: Online • Format: Jeopardy • Team Size: 1–4 Members • Qualification: Qualifier finalists only • Total Competition: 24 hours across two separate 12-hour rounds CHALLENGE DOMAINS • Web Exploitation • Cryptography • Reverse Engineering • Digital Forensics • OSINT • Binary Exploitation • Miscellaneous Challenges range from Easy to Expert and are designed around realistic cybersecurity scenarios. ORGANISER Team CyberXoX × CyberHX OFFICIAL PARTNERS • INE Security — In Collaboration With • OffSec — In Association With • Unstop — Powered By • Render — Cloud Partner • Altered Security — Supporting Partner The competition runs on CyberHX's dedicated security-hardened CTF platform. Official Website: https://nullorigin.cyberhx.com/ Competition Platform: https://ctf.cyberhx.com/",
-      "organizer": "CyberXoX",
-      "location": "Online",
-      "url": "https://nullorigin.cyberhx.com/",
-      "starts_at": "2026-09-25T04:30:00.000Z",
-      "ends_at": "2026-09-25T16:30:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "1a5775eb7ed3d5f12aa08a039670877db229e41c"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3449",
-      "title": "NileCTF",
-      "category": "ctf",
-      "description": "NileCTF is Egypt's premier national cybersecurity competition for high school students. Solve realistic hacking challenges, build modern technical skills, and secure your place in Egypt's cyber defense future. Online round: 25 September, 2026 - 27 September, 2026 whatsapp (channel): https://whatsapp.com/channel/0029Vb8DBkb9WtBzZfZlG81 discord: https://discord.gg/KxcvSAHa4f facebook: https://web.facebook.com/profile.php?id=61590852389909 telegram(channel): https://t.me/nilectf telegram(group): https://t.me/+TRHmhcIBOfM3YjFk register now: https://nilectf.com/register Organized by Cyb3r_Ph4nt0ms",
-      "organizer": "Cyb3r_Ph4nt0ms",
-      "location": "Online",
-      "url": "https://nilectf.com/register",
-      "starts_at": "2026-09-25T12:00:00.000Z",
-      "ends_at": "2026-09-27T12:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "eb4a864870504b2b46d109cee190894b8f71f437"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3422",
@@ -198,7 +150,7 @@
       "uid": "ctftime-3364",
       "title": "Securinets CTF Quals 2026",
       "category": "ctf",
-      "description": "Securinets CTF Quals 2026 is an online jeopardy style CTF organized by Securinets INSAT. The CTF will feature these categories: Web, Reverse Engineering, Pwn, Crypto, Forensics, OSINT, Misc ... Only 10 teams will qualify to the final CTF + top 5 from north africa . Registration will be open soon. Join our discord server: https://discord.gg/X5nSDvjSyc Infra sponsored by goo.gle/ctfsponsorship",
+      "description": "**Securinets CTF Quals 2026** is an online Jeopardy-style CTF organized by **Securinets INSAT**. The **top 10 teams worldwide** and the **top 5 North African teams** will be invited to compete in the **finals in Tunis**. **Registration will open soon.** Join our Discord server: https://discord.gg/X5nSDvjSyc ☁️ Infrastructure sponsored by **goo.gle/ctfsponsorship**",
       "organizer": "Securinets",
       "location": "Online",
       "url": "https://ctf.securinets.tn/",
@@ -207,7 +159,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "8fc25097f4619c77ee4ab490848de80d8725e728"
+      "hash": "de837d3ac311f921437820a6f2a38294b1f80854"
     },
     {
       "source": "ctftime",
@@ -518,7 +470,7 @@
       "uid": "ctftime-3339",
       "title": "SpookyCTF 2026",
       "category": "ctf",
-      "description": "REGISTRATION IS NOW AVAILABLE! BOO!! Welcome to SpookyCTF 2026! Organized by the New Jersey Institute of Technology's Cyber Security Network (formerly known as NICC), this is our annual Halloween CTF event, open to all! We've made this CTF beginner-friendly, with a mix of harder challenges. Our mission is to help beginners develop professionally in cybersecurity while still keeping things fun! You'll be pushed to stay curious and strengthen your reasoning skills across challenges of varying difficulty. Our challenge categories include Binary Exploitation/Reverse Engineering, Cryptography, Forensics, OSINT, Web, and Misc. Expect weird but fun challenges developed by our team at CSN. SpookyCTF is hybrid — in person at NJIT and open to virtual attendees! Join our Discord to tap in: https://discord.gg/NeHyp5fFHW AI assistance is allowed but discouraged. Learning is part of the challenge — use your brain! Automated AI agents for solving challenges are strictly forbidden. Any detected automated AI usage will result in disqualification.",
+      "description": "EVENT TIME HAS BEEN SHIFTED TO START AND END 4 HOURS AFTER TIME LISTED ABOVE REGISTRATION IS NOW AVAILABLE! BOO!! Welcome to SpookyCTF 2026! Organized by the New Jersey Institute of Technology's Cyber Security Network (formerly known as NICC), this is our annual Halloween CTF event, open to all! We've made this CTF beginner-friendly, with a mix of harder challenges. Our mission is to help beginners develop professionally in cybersecurity while still keeping things fun! You'll be pushed to stay curious and strengthen your reasoning skills across challenges of varying difficulty. Our challenge categories include Binary Exploitation/Reverse Engineering, Cryptography, Forensics, OSINT, Web, and Misc. Expect weird but fun challenges developed by our team at CSN. SpookyCTF is hybrid — in person at NJIT and open to virtual attendees! Join our Discord to tap in: https://discord.gg/NeHyp5fFHW AI assistance is allowed but discouraged. Learning is part of the challenge — use your brain! Automated AI agents for solving challenges are strictly forbidden. Any detected automated AI usage will result in disqualification.",
       "organizer": "NICC",
       "location": "Online",
       "url": "https://spooky.ctfd.io/",
@@ -527,7 +479,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "ab3b81c4e72db26d1c7907019101994fc2b395c5"
+      "hash": "939174063dd3c8a150cd08526afc2c56f00127c9"
     },
     {
       "source": "ctftime",
