@@ -1,22 +1,6 @@
 {
-  "count": 39,
+  "count": 38,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3399",
-      "title": "SunshineCTF 2026",
-      "category": "ctf",
-      "description": "Welcome to the eleventh (!) year of SunshineCTF, hosted by Hack@UCF in affiliation with BSides Orlando 2026. See our website for the most accurate and up to date information! Infra sponsored by goo.gle/ctfsponsorship",
-      "organizer": "Knightsec",
-      "location": "Online",
-      "url": "https://sunshinectf.org/",
-      "starts_at": "2026-09-26T14:00:00.000Z",
-      "ends_at": "2026-09-28T14:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "0a13f7e065257ea7928851162f6efb915c17cdf1"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3020",
