@@ -1,44 +1,12 @@
 {
-  "count": 38,
+  "count": 36,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3020",
-      "title": "Pointer Overflow CTF - 2026",
-      "category": "ctf",
-      "description": "POCTF is designed for learners, newcomers, and anyone exploring the world of cybersecurity and CTFs. Whether this will be your first competition or your next milestone, this contest is built to be accessible, educational, and community-driven. The Pointer Overflow CTF is organized in honor of the students and alumni of the CIS: Cybersecurity program at the University of Wisconsin–Stevens Point. The contest continues to support our mission of expanding hands-on cybersecurity education through the Center for Cybersecurity Studies and Advanced Research.",
-      "organizer": "UWSP Pointers",
-      "location": "Online",
-      "url": "https://pointeroverflowctf.com/",
-      "starts_at": "2026-09-27T14:00:00.000Z",
-      "ends_at": "2026-12-06T14:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "6bce37be6870ca37be73218aabd62d39427a3f52"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3417",
-      "title": "SCAN 2026 Final",
-      "category": "ctf",
-      "description": "SCAN 2026 Finals brings together the Top 20 teams from the Online Qualifier for an in-person CTF in Seoul, Korea. Finalists will compete in digital asset tracing, blockchain investigation, and security challenges for a total prize pool of 2 BTC.",
-      "organizer": "D Asset Inc.",
-      "location": "Seoul, Korea",
-      "url": "https://scan.sx/",
-      "starts_at": "2026-09-28T01:00:00.000Z",
-      "ends_at": "2026-09-28T08:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "a82449b57d61d9699990b8c18e8f3785cf829b12"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3434",
       "title": "CSS CTF 2026: Return of Nexus",
       "category": "ctf",
-      "description": "CSS CTF 2026: Return of Nexus is a 40-hour online Capture The Flag competition organized and hosted by the USYD Cybersecurity Society. A year after the network went dark, the Quantum Nexus Network is back online. Join us for a 40-hour sprint featuring challenges spanning Web Exploitation, PWN, Reverse Engineering, Cryptography, Forensics, OSINT, and AI/Prompt Injection across skill levels. Organizer: USYD Cybersecurity Society Format: Jeopardy-style (Team & Solo) Start: Wednesday, 30 September 2026 @ 4:00 PM AEST End: Friday, 2 October 2026 @ 10:00 AM AEST Duration: 40 Hours continuous Categories: Web, Pwn, Rev, Crypto, Forensics, OSINT, AI, etc Discord / Updates: https://discord.gg/gUGqmt4Gqf Platform: CTFd",
+      "description": "CSS CTF 2026: Return of Nexus is a 40-hour online Capture The Flag competition organized and hosted by the USYD Cybersecurity Society. A year after the network went dark, the Quantum Nexus Network is back online. Join us for a 40-hour sprint featuring challenges spanning Web Exploitation, PWN, Reverse Engineering, Cryptography, Forensics, OSINT, and AI/Prompt Injection across skill levels. Organizer: Cybersecurity Society Sydney Format: Jeopardy-style (Team & Solo) Start: Wednesday, 30 September 2026 @ 4:00 PM AEST End: Friday, 2 October 2026 @ 10:00 AM AEST Duration: 40 Hours continuous Categories: Web, Pwn, Rev, Crypto, Forensics, OSINT, AI, etc Discord / Updates: https://discord.gg/gUGqmt4Gqf Platform: CTFd",
       "organizer": "suɐǝpodᴉʇuɐ",
       "location": "Online",
       "url": "https://ctf.cybersecurity.sydney/",
@@ -47,7 +15,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "e7e1dfcf7b9e8a8c419e7b82b33ab021383bd050"
+      "hash": "ef5d5e7875100cbc60cc3f759244fbcc02a1e728"
     },
     {
       "source": "ctftime",
