@@ -35,22 +35,6 @@
     },
     {
       "source": "ctftime",
-      "uid": "ctftime-3364",
-      "title": "Securinets CTF Quals 2026",
-      "category": "ctf",
-      "description": "**Securinets CTF Quals 2026** is an online Jeopardy-style CTF organized by **Securinets INSAT**. The **top 10 teams worldwide** and the **top 5 North African teams** will be invited to compete in the **finals in Tunis**. **Registration will open soon.** Join our Discord server: https://discord.gg/X5nSDvjSyc ☁️ Infrastructure sponsored by **goo.gle/ctfsponsorship**",
-      "organizer": "Securinets",
-      "location": "Online",
-      "url": "https://ctf.securinets.tn/",
-      "starts_at": "2026-10-03T09:00:00.000Z",
-      "ends_at": "2026-10-04T21:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "de837d3ac311f921437820a6f2a38294b1f80854"
-    },
-    {
-      "source": "ctftime",
       "uid": "ctftime-3352",
       "title": "CubeCTF 2026",
       "category": "ctf",
@@ -160,6 +144,22 @@
         "jeopardy"
       ],
       "hash": "901f6b88ea0587bbc515472775d9c2ec21bd110b"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3364",
+      "title": "Securinets CTF Quals 2026",
+      "category": "ctf",
+      "description": "**Securinets CTF Quals 2026** is an online Jeopardy-style CTF organized by **Securinets INSAT**. The **top 10 teams worldwide** and the **top 5 North African teams** will be invited to compete in the **finals in Tunis**. **Registration will open soon.** Join our Discord server: https://discord.gg/X5nSDvjSyc ☁️ Infrastructure sponsored by **goo.gle/ctfsponsorship**",
+      "organizer": "Securinets",
+      "location": "Online",
+      "url": "https://ctf.securinets.tn/",
+      "starts_at": "2026-10-17T09:00:00.000Z",
+      "ends_at": "2026-10-18T21:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "80911b48ee20aab8b79ab39125c6cba8b2967495"
     },
     {
       "source": "ctftime",
