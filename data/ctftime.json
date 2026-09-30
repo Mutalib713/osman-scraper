@@ -1,22 +1,6 @@
 {
-  "count": 36,
+  "count": 37,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3434",
-      "title": "CSS CTF 2026: Return of Nexus",
-      "category": "ctf",
-      "description": "CSS CTF 2026: Return of Nexus is a 40-hour online Capture The Flag competition organized and hosted by the USYD Cybersecurity Society. A year after the network went dark, the Quantum Nexus Network is back online. Join us for a 40-hour sprint featuring challenges spanning Web Exploitation, PWN, Reverse Engineering, Cryptography, Forensics, OSINT, and AI/Prompt Injection across skill levels. Organizer: Cybersecurity Society Sydney Format: Jeopardy-style (Team & Solo) Start: Wednesday, 30 September 2026 @ 4:00 PM AEST End: Friday, 2 October 2026 @ 10:00 AM AEST Duration: 40 Hours continuous Categories: Web, Pwn, Rev, Crypto, Forensics, OSINT, AI, etc Discord / Updates: https://discord.gg/gUGqmt4Gqf Platform: CTFd",
-      "organizer": "suɐǝpodᴉʇuɐ",
-      "location": "Online",
-      "url": "https://ctf.cybersecurity.sydney/",
-      "starts_at": "2026-09-30T06:00:00.000Z",
-      "ends_at": "2026-10-01T22:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "ef5d5e7875100cbc60cc3f759244fbcc02a1e728"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3380",
@@ -80,6 +64,22 @@
         "attack-defense"
       ],
       "hash": "ec7946f4bfdb16eb0eea55d35c96439036e4fd7d"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3438",
+      "title": "ByteMe CTF 26",
+      "category": "ctf",
+      "description": "ByteMe CTF 26 is a hybrid Jeopardy-style Capture The Flag competition organized by OWASP PCCOE and the Department of Computer Engineering, PCCOE, Pune. The event is designed for college students and provides hands-on exposure to practical cybersecurity through challenges across multiple domains, including OSINT, Web Security, Cryptography, Digital Forensics, Steganography, Reverse Engineering, Binary Exploitation, AI Security, and Miscellaneous. The competition will be conducted in both online and onsite modes, with participants solving challenges and submitting flags through the CTF platform. Challenges will range from beginner-friendly to advanced difficulty levels. Both online and onsite participants will compete through the same CTF platform, with separate event instances used for each mode. Date: 9 October 2026 Time: 09:00 AM – 06:00 PM IST Mode: Online + Onsite Venue: PCCOE, Pune Format: Jeopardy Platform: CTF7 Team Size: 1–2 Members Eligibility: College Students Website: https://bytemectf.owasppccoe.in/ Online Registration: https://ctf7.com/console/events/byteme-ctf/ Onsite Registration: https://unstop.com/p/byteme-ctf-26-pimpri-chinchwad-college-of-engineering-1760412 Discord: https://discord.com/invite/9BpjC2TxeK",
+      "organizer": "OWASP_PCCOE-CORE",
+      "location": "Online",
+      "url": "https://bytemectf.owasppccoe.in/",
+      "starts_at": "2026-10-09T04:30:00.000Z",
+      "ends_at": "2026-10-09T12:30:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "0ee3393090ffddfa990c473b38d2d58f4bd134a0"
     },
     {
       "source": "ctftime",
@@ -576,6 +576,22 @@
         "jeopardy"
       ],
       "hash": "27be115b72e0953c73ecec9602e33fd898f19534"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3062",
+      "title": "ASIS CTF Finals 2026",
+      "category": "ctf",
+      "description": "ASIS CTF Finals 2026",
+      "organizer": "ASIS",
+      "location": "Online",
+      "url": "https://asisctf.com/",
+      "starts_at": "2026-12-27T14:00:00.000Z",
+      "ends_at": "2026-12-28T14:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "784d786ebe3a9f73a6adf52b1c66007c90634854"
     }
   ]
 }
