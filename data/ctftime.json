@@ -1,22 +1,6 @@
 {
-  "count": 37,
+  "count": 36,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3380",
-      "title": "Hacker's Gambit 2026 (Round 1 – Online Qualifier)",
-      "category": "ctf",
-      "description": "Round 1 – Online Qualifier (48 Hours) The Online Qualifier is the first stage of Hackers Gambit 2026, designed to identify the most skilled cybersecurity teams from around the world. This 48-hour Jeopardy-style Capture The Flag (CTF) competition will challenge participants with a diverse set of real-world cybersecurity problems across multiple domains. Participants will solve challenges in areas including Web Security, Cryptography, Reverse Engineering, Digital Forensics, Binary Exploitation (Pwn), Open Source Intelligence (OSINT), Steganography, and Miscellaneous. Each challenge carries a predefined score based on its difficulty level, and teams earn points by successfully capturing and submitting valid flags. The competition will run continuously for 48 hours, allowing teams to strategize, collaborate, and solve challenges at their own pace within the competition window. A live leaderboard will be available throughout the event (subject to organizer discretion). At the conclusion of the qualifier, participating teams may be required to submit technical write-ups explaining their solutions to selected challenges. These submissions will be reviewed by the organizing committee to verify the authenticity of solutions and ensure fair play. Based on the final scores, write-up evaluation (if applicable), and adherence to the competition rules, the Top 15 teams will qualify for the 24-hour Offline Grand Finale at Jaihind College of Engineering, Kuran, where they will compete for the championship title, prizes, and recognition. Key Highlights Mode: Online Duration: 48 Hours Format: Jeopardy-style Capture The Flag (CTF) Challenge Categories: Web Security, Cryptography, Reverse Engineering, Digital Forensics, Binary Exploitation, OSINT, Steganography, and Miscellaneous Qualification: Top 15 teams advance to the Offline Grand Finale Time: 2 October 2026 (12:00 PM IST) – 4 October 2026 (12:00 PM IST)",
-      "organizer": "JCOE Cyber Sentinels",
-      "location": "Online",
-      "url": "https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293",
-      "starts_at": "2026-10-02T06:30:00.000Z",
-      "ends_at": "2026-10-04T06:30:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "efbfc630f8b27dc8521200b58312e209528f9a1d"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3352",
@@ -374,16 +358,16 @@
       "uid": "ctftime-3242",
       "title": "BlackAlps CTF 2026",
       "category": "ctf",
-      "description": "The BlackAlps CTF will be held at the end of the BlackAlps conference in Yverdon-les-Bains in Switzerland. It's a CTF for all level including from beginner up to advanced team. The CTF will last 4 hours 15 and be on site for about 250 people. There is no specific categories. Registration is mandatory. Welcome at 18:45. Start at 19:15. End at 23:30. Awards ceremony at 23:45.",
+      "description": "The BlackAlps CTF will be held at the end of the BlackAlps conference in Yverdon-les-Bains in Switzerland. It's a CTF for all level including from beginner up to advanced team. The CTF will last 5 hours and be on site for about 300 people. There is no specific categories. Registration is mandatory. Welcome at 18:45. Start at 19:00. End at 23:30. Awards ceremony at 23:45.",
       "organizer": "BlackAlps",
       "location": "Switzerland, Yverdon-les-Bains",
-      "url": "https://blackalps.ch/ba/",
+      "url": "https://blackalps.ch/ba-26/contest",
       "starts_at": "2026-11-06T18:15:00.000Z",
       "ends_at": "2026-11-06T22:30:00.000Z",
       "tags": [
         "jeopardy"
       ],
-      "hash": "1ad0bd990f625aef65eac8aea22bac555e31d54c"
+      "hash": "720ddebc05ed56c9f3188031a71ab18e17bfde5b"
     },
     {
       "source": "ctftime",
