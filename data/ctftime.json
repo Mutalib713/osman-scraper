@@ -1,5 +1,5 @@
 {
-  "count": 36,
+  "count": 41,
   "events": [
     {
       "source": "ctftime",
@@ -80,6 +80,38 @@
         "jeopardy"
       ],
       "hash": "62551fa98b2f3812e5c36c435fe8555580d598c7"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3456",
+      "title": "kBxAc CTF 2026",
+      "category": "ctf",
+      "description": "kBxAc CTF 2026 is a beginner-friendly CTF organized by kBxAc. **Event Timings** * IST: 10 October 2026, 00:00 – 11 October 2026, 00:00 * UTC: 9 October 2026, 18:30 – 10 October 2026, 18:30 * EDT: 9 October 2026, 14:30 – 10 October 2026, 14:30 Challenges will cover categories such as Web, Pwn, Rev, Crypto, Misc, and more. Alongside the usual categories, we’ll also have a few new and experimental categories designed to keep things fresh and interesting.",
+      "organizer": "kBxAc",
+      "location": "Online",
+      "url": "https://ctf.kbxac.xyz/",
+      "starts_at": "2026-10-09T18:30:00.000Z",
+      "ends_at": "2026-10-10T18:30:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "faafd72f86f81d5941daab3b8adb3ad219b8b284"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3441",
+      "title": "isfcr{ctf} 2026 Quals",
+      "category": "ctf",
+      "description": "isfcr{ctf} 2026 is the flagship annual Capture The Flag competition organized by the Information Security and Forensics Center for Research (ISFCR) at PES University, Bengaluru. This year's edition is split into two rounds: Online Qualifier. A 24-hour jeopardy-style CTF open to teams around the world. Offline Finals. The top qualifying teams are invited to compete on-site at PES University, Bengaluru. Challenges cover Web Exploitation, Binary Exploitation (pwn), Reverse Engineering, Cryptography, Forensics, OSINT, and Misc. The problem set ranges from beginner-friendly warmups to advanced challenges crafted by the CTF team @ ISFCR PESU.",
+      "organizer": "x6e.x65.x78.x75.x73",
+      "location": "Online",
+      "url": "https://isfcr.xyz/",
+      "starts_at": "2026-10-10T04:30:00.000Z",
+      "ends_at": "2026-10-11T04:30:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "c5e7aa4c7e22c750c810a8ee67149b74b05559c1"
     },
     {
       "source": "ctftime",
@@ -195,6 +227,22 @@
     },
     {
       "source": "ctftime",
+      "uid": "ctftime-3464",
+      "title": "h4ckc0n 2026",
+      "category": "ctf",
+      "description": "h4ckc0n is a 24-hour international Jeopardy-style Capture The Flag competition. Categories: Reverse Engineering, Web-exploitation, Forensics, AI/ML, Web3, OSINT, PWN, Cryptography, Miscellaneous The competition is designed to accommodate teams of varying skill levels, with a diverse challenge set covering multiple areas of cybersecurity. Duration: 24 hours Format: Jeopardy-style CTF Mode: Online Team-based: Yes",
+      "organizer": "d4rkc0de",
+      "location": "Online",
+      "url": "http://h4ckc0n.in/",
+      "starts_at": "2026-10-23T15:30:00.000Z",
+      "ends_at": "2026-10-24T15:30:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "63628ec573322264bbcd568705cc43957d37285c"
+    },
+    {
+      "source": "ctftime",
       "uid": "ctftime-3377",
       "title": "RSTCON 2026 CTF",
       "category": "ctf",
@@ -224,6 +272,22 @@
         "jeopardy"
       ],
       "hash": "35e7420b1df053c76842aa110a36c357f5b8ac14"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3442",
+      "title": "isfcr{ctf} 2026 Finals",
+      "category": "ctf",
+      "description": "isfcr{ctf} 2026 is the flagship annual Capture The Flag competition organized by the Information Security and Forensics Center for Research (ISFCR) at PES University, Bengaluru. This year's edition is split into two rounds: Online Qualifier. A 24-hour jeopardy-style CTF open to teams around the world. Offline Finals. The top qualifying teams are invited to compete on-site at PES University, Bengaluru. Challenges cover Web Exploitation, Binary Exploitation (pwn), Reverse Engineering, Cryptography, Forensics, OSINT, and Misc. The problem set ranges from beginner-friendly warmups to advanced challenges crafted by the CTF team @ ISFCR PESU.",
+      "organizer": "x6e.x65.x78.x75.x73",
+      "location": "Bengaluru, India",
+      "url": "https://isfcr.xyz/",
+      "starts_at": "2026-10-24T03:30:00.000Z",
+      "ends_at": "2026-10-25T06:30:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "ff8f6690c0deb781355463d2f57b4408fa4defb2"
     },
     {
       "source": "ctftime",
@@ -288,6 +352,22 @@
         "jeopardy"
       ],
       "hash": "590d8b236a877323a225236a3d93dff506fed250"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3460",
+      "title": "HI Cyber Con 2026 CTF",
+      "category": "ctf",
+      "description": "HI Cyber Con 2026 CTF is an international 48-hour Jeopardy-style Capture The Flag competition organized by Hidden Investigations. The competition features 70+ challenges covering web, forensics, steganography, network, crypto, binary exploitation, reverse engineering, AI/LLM, hardware, blockchain, OSINT, and misc. The CTF is fully online and open to teams of up to 5 participants worldwide.",
+      "organizer": "HiddenInvestigations",
+      "location": "Online",
+      "url": "https://ctf.hiddeninvestigations.net/",
+      "starts_at": "2026-10-30T14:00:00.000Z",
+      "ends_at": "2026-11-01T14:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "8806100a916c34e263f34fedb6cbce009782b81f"
     },
     {
       "source": "ctftime",
