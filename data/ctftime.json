@@ -1,53 +1,21 @@
 {
-  "count": 41,
+  "count": 43,
   "events": [
     {
       "source": "ctftime",
-      "uid": "ctftime-3352",
-      "title": "CubeCTF 2026",
+      "uid": "ctftime-3462",
+      "title": "Africa battleCTF 2026 Qualifier",
       "category": "ctf",
-      "description": "CubeCTF is coming back this year with Attack/Defense! Game format will follow traditional FAUST-style A/D format, with infrastructure provided by glitchrange.com. Brush up on your vim shortcuts and tcpdump flags - the environment will be hosted in an isolated environment with only web console access and no direct internet connection to vulnboxes, so AI agents will not have access. If you've been looking to bring the humanity back into CTFs, so have we - come play head-to-head with a range of challenge difficulties designed for everyone. Full infrastructure documentation, rules, and registration information will be published via Discord. Site: https://cubectf.com Discord: https://discord.gg/cRMNjdR4Ug",
-      "organizer": "CubeMastery",
+      "description": "A technical CTF by BUG|PWN. 31-day Qualifier across pwn/web/OT/vuln-research, real software, real bugs. Top finishers advance to a live Battle finale where two players race head-to-head on the same box.",
+      "organizer": "BUG PWN",
       "location": "Online",
-      "url": "https://cubectf.com/",
-      "starts_at": "2026-10-03T14:00:00.000Z",
-      "ends_at": "2026-10-03T22:00:00.000Z",
-      "tags": [
-        "attack-defense"
-      ],
-      "hash": "9c4b3e4c352aa6fe4aade58b3a8e7e7df1830b84"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3293",
-      "title": "CDCTF 2026",
-      "category": "ctf",
-      "description": "Crimson Defense CTF 2026 will be held on Saturday, October 3rd from 10am to 10pm CDT! CDCTF is a virtual 12-hour Jeopardy-style Capture-the-Flag competition designed for collegiate-level players. All ability levels are welcome. This competition will not only provide satisfying challenges for seasoned players, but be a good introduction to CTFs for new ones! CDCTF is a team competition, you may have up to four participants per team. Universities may have multiple teams representing their school. There will be challenges of all difficulties representing the following categories: Reverse Engineering, Log & Network Traffic Analysis, Forensics, Password Cracking, Cryptography, Open Source Intelligence, Social Engineering, and AI! Registration is OPEN through September 30th CDCTF is hosted and created by Crimson Defense Cyber Security Club at the University of Alabama.",
-      "organizer": "Crimson Defense",
-      "location": "Online",
-      "url": "https://crimsondefense.org/cdctf/",
-      "starts_at": "2026-10-03T15:00:00.000Z",
-      "ends_at": "2026-10-04T03:00:00.000Z",
+      "url": "https://ctf.bugpwn.com/",
+      "starts_at": "2026-10-04T23:00:00.000Z",
+      "ends_at": "2026-11-04T23:00:00.000Z",
       "tags": [
         "jeopardy"
       ],
-      "hash": "12d60c813b274e516e60f60424d98aa0259f199e"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3432",
-      "title": "AltayCTF 2026",
-      "category": "ctf",
-      "description": "",
-      "organizer": "SharLike",
-      "location": "Russia, Barnaul",
-      "url": "https://university.altayctf.ru/2026",
-      "starts_at": "2026-10-04T03:00:00.000Z",
-      "ends_at": "2026-10-04T12:00:00.000Z",
-      "tags": [
-        "attack-defense"
-      ],
-      "hash": "ec7946f4bfdb16eb0eea55d35c96439036e4fd7d"
+      "hash": "e11cfa1018fd019acfb46b33344655a438325426"
     },
     {
       "source": "ctftime",
@@ -86,7 +54,7 @@
       "uid": "ctftime-3456",
       "title": "kBxAc CTF 2026",
       "category": "ctf",
-      "description": "kBxAc CTF 2026 is a beginner-friendly CTF organized by kBxAc. **Event Timings** * IST: 10 October 2026, 00:00 – 11 October 2026, 00:00 * UTC: 9 October 2026, 18:30 – 10 October 2026, 18:30 * EDT: 9 October 2026, 14:30 – 10 October 2026, 14:30 Challenges will cover categories such as Web, Pwn, Rev, Crypto, Misc, and more. Alongside the usual categories, we’ll also have a few new and experimental categories designed to keep things fresh and interesting.",
+      "description": "kBxAc CTF 2026 organized by team kBxAc. Location: Online Format: Jeopardy CTF Website: https://ctf.kbxac.xyz/ Team Limit: No team limit NOTE: Register individually for now, team creation will be enabled soon Discord: https://discord.gg/g2QBSxarG LinkedIn: https://www.linkedin.com/company/kbxac/ Instagram: https://www.instagram.com/kbxac.real Website: https://kbxac.xyz/ Email: admin@kbxac.xyz Categories: - Web Exploitation - Reverse Engineering - Binary Exploitation - Cryptography - Misc and a few more... Event Timings: -> IST: 10 October 2026, 00:00 – 11 October 2026, 00:00 -> UTC: 9 October 2026, 18:30 – 10 October 2026, 18:30 -> EDT: 9 October 2026, 14:30 – 10 October 2026, 14:30",
       "organizer": "kBxAc",
       "location": "Online",
       "url": "https://ctf.kbxac.xyz/",
@@ -95,7 +63,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "faafd72f86f81d5941daab3b8adb3ad219b8b284"
+      "hash": "2d2886cd12a0353f3aa7df3a5519926e26c261cc"
     },
     {
       "source": "ctftime",
@@ -208,6 +176,22 @@
         "attack-defense"
       ],
       "hash": "fea6a3fa993a815b39a34b3e322f7b85908daaff"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3369",
+      "title": "cruXipher 2026 - ATMoS '26, BITS Hyderabad",
+      "category": "ctf",
+      "description": "cruXipher: A development-style Capture-the-Flag competition where teams of people come together to solve challenges that involve the skills of problem-solving, programming, cybersecurity, and general knowledge of computers to rise to the top.",
+      "organizer": "CRUx BPHC",
+      "location": "Online",
+      "url": "https://cruxipher.crux-bphc.com/",
+      "starts_at": "2026-10-23T00:30:00.000Z",
+      "ends_at": "2026-10-25T00:30:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "e59c49cff3fea6b91752974b3b3b94a2fa37fef3"
     },
     {
       "source": "ctftime",
@@ -371,6 +355,38 @@
     },
     {
       "source": "ctftime",
+      "uid": "ctftime-3459",
+      "title": "2026 Qiangwang Challenge on Cyber Mimic Defense Qualification",
+      "category": "ctf",
+      "description": "The 2026 Qiangwang Challenge on Cyber Mimic Defense Qualification is the online qualifying round of the 9th Qiangwang International Elite Challenge on Cyber Mimic Defense. This team-based Jeopardy CTF features standard CTF challenges and selected challenges on endogenous security. Teams can register through the official event website. Eligible teams will be selected for the on-site finals, which are planned to take place in Nanjing, China. Please refer to the official website for competition rules, qualification details and further announcements. Registration and event information: https://nest.pmlabs.com.cn/#/events/qiangwang-9/registration Discord: https://discord.gg/Jvn67Me9na QQ group: 523854931",
+      "organizer": "LoveFromMimic",
+      "location": "Online",
+      "url": "https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration",
+      "starts_at": "2026-10-31T02:00:00.000Z",
+      "ends_at": "2026-11-01T02:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "e8ebdb1c246198acc98fd6928f37f2e1d9d71cb1"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3469",
+      "title": "Russian CTF Cup X Qualifier",
+      "category": "ctf",
+      "description": "Russian CTF Cup X, Qualifier. https://ctfcup.ru/registration 12:00 UTC+3 (Moscow) 31 October - 12:00 UTC+3 (Moscow) 01 November. Online. The top 10 teams from each category (academic, mixed, school, and secondary vocational) will be invited to the final in December.",
+      "organizer": "ctfcup",
+      "location": "Online",
+      "url": "https://ctfcup.ru/",
+      "starts_at": "2026-10-31T09:00:00.000Z",
+      "ends_at": "2026-11-01T09:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "90ab9b5c7c2fe773501aa36c492d3249ea2891a3"
+    },
+    {
+      "source": "ctftime",
       "uid": "ctftime-3418",
       "title": "HKCERT CTF 2026 (Qualifying Round)",
       "category": "ctf",
@@ -451,6 +467,22 @@
     },
     {
       "source": "ctftime",
+      "uid": "ctftime-3455",
+      "title": "Mimic",
+      "category": "ctf",
+      "description": "Mimic is an online Jeopardy-style CTF by Rare Byte Hub. Some challenges are exactly what they look like, and some aren't. Figure out which is which. There's something for everyone, from beginners to experienced players. Teams of 1-4 members.",
+      "organizer": "Rare Byte Hub",
+      "location": "Online",
+      "url": "https://ctf.rarebytehub.com/events/mimic",
+      "starts_at": "2026-11-07T12:00:00.000Z",
+      "ends_at": "2026-11-08T12:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "da51f94a918e6382ae2d5ef5179dff165f1641d4"
+    },
+    {
+      "source": "ctftime",
       "uid": "ctftime-3410",
       "title": "CSAW CTF Final Round 2026",
       "category": "ctf",
@@ -499,19 +531,19 @@
     },
     {
       "source": "ctftime",
-      "uid": "ctftime-3390",
-      "title": "International Battle of Hackers 2026",
+      "uid": "ctftime-3467",
+      "title": "InIt CTF",
       "category": "ctf",
-      "description": "IBOH 2026 is a hybrid event which features a Local (Malaysian) category and an International Category held at Asia Pacific University of Technology & Innovation (APU), Kuala Lumpur, Malaysia. It is a Jeopardy-style Capture The Flag (CTF) competition that aims to bring together university level students to solve real-world cybersecurity challenges involving web exploitation, digital forensics, cryptography, reverse engineering, OSINT, and network security while promoting teamwork, ethical hacking, and hands-on technical learning.",
-      "organizer": "FSEC-SS",
+      "description": "InIt CTF is HII's (Hackers in India) beginner-focused Capture The Flag event, free and open to participants across India and internationally. 8 hours, Jeopardy-style, solo or teams of up to 4, across Web, Crypto, Forensics, OSINT, and Misc — mostly easy/medium with a couple of harder challenges for experienced players. This edition is sponsored by .xyz, who are providing free domain codes for participants, with additional sponsors being confirmed. Register at hackersinindia.com/init-ctf.",
+      "organizer": "Hackers_In_India",
       "location": "Online",
-      "url": "https://battleofhackers.com/",
-      "starts_at": "2026-11-14T00:30:00.000Z",
-      "ends_at": "2026-11-14T10:00:00.000Z",
+      "url": "https://hackersinindia.com/init-ctf",
+      "starts_at": "2026-11-14T15:30:00.000Z",
+      "ends_at": "2026-11-14T23:30:00.000Z",
       "tags": [
         "jeopardy"
       ],
-      "hash": "3a91ecc6a4d6176dd3201373ab772decaf7a5701"
+      "hash": "8f1798eef0ef4b80d0f27c167f0d652670f64909"
     },
     {
       "source": "ctftime",
