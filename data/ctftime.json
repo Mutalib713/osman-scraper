@@ -3,22 +3,6 @@
   "events": [
     {
       "source": "ctftime",
-      "uid": "ctftime-3462",
-      "title": "Africa battleCTF 2026 Qualifier",
-      "category": "ctf",
-      "description": "A technical CTF by BUG|PWN. 31-day Qualifier across pwn/web/OT/vuln-research, real software, real bugs. Top finishers advance to a live Battle finale where two players race head-to-head on the same box.",
-      "organizer": "BUG PWN",
-      "location": "Online",
-      "url": "https://ctf.bugpwn.com/",
-      "starts_at": "2026-10-04T23:00:00.000Z",
-      "ends_at": "2026-11-04T23:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "e11cfa1018fd019acfb46b33344655a438325426"
-    },
-    {
-      "source": "ctftime",
       "uid": "ctftime-3438",
       "title": "ByteMe CTF 26",
       "category": "ctf",
@@ -68,9 +52,9 @@
     {
       "source": "ctftime",
       "uid": "ctftime-3441",
-      "title": "isfcr{ctf} 2026 Quals",
+      "title": "Cryovault 2026 Quals",
       "category": "ctf",
-      "description": "isfcr{ctf} 2026 is the flagship annual Capture The Flag competition organized by the Information Security and Forensics Center for Research (ISFCR) at PES University, Bengaluru. This year's edition is split into two rounds: Online Qualifier. A 24-hour jeopardy-style CTF open to teams around the world. Offline Finals. The top qualifying teams are invited to compete on-site at PES University, Bengaluru. Challenges cover Web Exploitation, Binary Exploitation (pwn), Reverse Engineering, Cryptography, Forensics, OSINT, and Misc. The problem set ranges from beginner-friendly warmups to advanced challenges crafted by the CTF team @ ISFCR PESU.",
+      "description": "Cryovault 2026 is the flagship annual Capture The Flag competition organized by the Information Security and Forensics Center for Research (ISFCR) at PES University, Bengaluru. Discord : https://discord.gg/yMFMXh3raE This year's edition is split into two rounds: Online Qualifier. A 24-hour jeopardy-style CTF open to teams around the world. Offline Finals. The top qualifying teams are invited to compete on-site at PES University, Bengaluru. Challenges cover Web Exploitation, Binary Exploitation (pwn), Reverse Engineering, Cryptography, Forensics, OSINT, and Misc. The problem set ranges from beginner-friendly warmups to advanced challenges crafted by the CTF team @ ISFCR PESU.",
       "organizer": "x6e.x65.x78.x75.x73",
       "location": "Online",
       "url": "https://isfcr.xyz/",
@@ -79,14 +63,14 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "c5e7aa4c7e22c750c810a8ee67149b74b05559c1"
+      "hash": "a9b94d40c2807e54eaae37fba4744e7177b4b2b6"
     },
     {
       "source": "ctftime",
       "uid": "ctftime-3446",
       "title": "KubSTU CTF",
       "category": "ctf",
-      "description": "English and Indian languages are present. For help — https://t.me/c/3892440940/5995 KubSTU-2026-Autumn-Edition - an international 30-hour jeopardy CTF from Kuban State Technological University and the Capybaras team. 50+ challenges in Web, Crypto, Forensics, Stegano, OSINT and Misc. Last edition brought together 1,280 teams from 51 countries. Free to enter, open to all skill levels. Details: kubstu-ctf.ru | t.me/kubCTF",
+      "description": "English and Indian languages are present. For help — https://t.me/c/3892440940/5995 and https://discord.gg/kubstu KubSTU-2026-Autumn-Edition - an international 30-hour jeopardy CTF from Kuban State Technological University and the Capybaras team. 50+ challenges in Web, Crypto, Forensics, Stegano, OSINT and Misc. Last edition brought together 1,280 teams from 51 countries. Free to enter, open to all skill levels. Details: kubstu-ctf.ru | t.me/kubCTF",
       "organizer": "Capybaras",
       "location": "Online",
       "url": "https://kubstu-ctf.ru/",
@@ -95,7 +79,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "2e175993248b54cca5bd857e3590014e9601498d"
+      "hash": "6ccaddc21736cfaecd2e1b29f2f4de6f1c328990"
     },
     {
       "source": "ctftime",
@@ -144,6 +128,22 @@
         "jeopardy"
       ],
       "hash": "80911b48ee20aab8b79ab39125c6cba8b2967495"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3471",
+      "title": "SOLAR CTF 2026",
+      "category": "ctf",
+      "description": "Registration for SolarCTF is open ☀️ Solar’s first student cybersecurity competition is your chance to test your skills in practice, build a team, and compete for prizes. Key information: ✦ Teams of up to 5 people ✦ Start — October 17 at 12:00 PM (MSK) ✦ End — October 18 at 12:00 PM (MSK) ✦ 24 hours to complete the challenges Don’t have a team yet? Find teammates in the SolarCTF chat - https://t.me/+-6q5XsXtT6IxNjIy. Build your team and register for SolarCTF ❤️ https://solarctf.ru/",
+      "organizer": "SOLARCTF",
+      "location": "Online",
+      "url": "https://solarctf.ru/",
+      "starts_at": "2026-10-17T09:00:00.000Z",
+      "ends_at": "2026-10-18T09:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "a2b1d84dc4c9f38a57d96cdb7bfac6a0e6404159"
     },
     {
       "source": "ctftime",
@@ -260,9 +260,9 @@
     {
       "source": "ctftime",
       "uid": "ctftime-3442",
-      "title": "isfcr{ctf} 2026 Finals",
+      "title": "Cryovault 2026 Finals",
       "category": "ctf",
-      "description": "isfcr{ctf} 2026 is the flagship annual Capture The Flag competition organized by the Information Security and Forensics Center for Research (ISFCR) at PES University, Bengaluru. This year's edition is split into two rounds: Online Qualifier. A 24-hour jeopardy-style CTF open to teams around the world. Offline Finals. The top qualifying teams are invited to compete on-site at PES University, Bengaluru. Challenges cover Web Exploitation, Binary Exploitation (pwn), Reverse Engineering, Cryptography, Forensics, OSINT, and Misc. The problem set ranges from beginner-friendly warmups to advanced challenges crafted by the CTF team @ ISFCR PESU.",
+      "description": "Cryovault 2026 is the flagship annual Capture The Flag competition organized by the Information Security and Forensics Center for Research (ISFCR) at PES University, Bengaluru. Discord : https://discord.gg/yMFMXh3raE This year's edition is split into two rounds: Online Qualifier. A 24-hour jeopardy-style CTF open to teams around the world. Offline Finals. The top qualifying teams are invited to compete on-site at PES University, Bengaluru. Challenges cover Web Exploitation, Binary Exploitation (pwn), Reverse Engineering, Cryptography, Forensics, OSINT, and Misc. The problem set ranges from beginner-friendly warmups to advanced challenges crafted by the CTF team @ ISFCR PESU.",
       "organizer": "x6e.x65.x78.x75.x73",
       "location": "Bengaluru, India",
       "url": "https://isfcr.xyz/",
@@ -271,7 +271,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "ff8f6690c0deb781355463d2f57b4408fa4defb2"
+      "hash": "2b1a10f8927f969c02f13f34460cf1ee8b12dfaf"
     },
     {
       "source": "ctftime",
