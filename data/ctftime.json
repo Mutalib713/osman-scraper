@@ -57,13 +57,13 @@
       "description": "Cryovault 2026 is the flagship annual Capture The Flag competition organized by the Information Security and Forensics Center for Research (ISFCR) at PES University, Bengaluru. Discord : https://discord.gg/yMFMXh3raE This year's edition is split into two rounds: Online Qualifier. A 24-hour jeopardy-style CTF open to teams around the world. Offline Finals. The top qualifying teams are invited to compete on-site at PES University, Bengaluru. Challenges cover Web Exploitation, Binary Exploitation (pwn), Reverse Engineering, Cryptography, Forensics, OSINT, and Misc. The problem set ranges from beginner-friendly warmups to advanced challenges crafted by the CTF team @ ISFCR PESU.",
       "organizer": "x6e.x65.x78.x75.x73",
       "location": "Online",
-      "url": "https://isfcr.xyz/",
+      "url": "https://isfcrpesu.ctfd.io/",
       "starts_at": "2026-10-10T04:30:00.000Z",
       "ends_at": "2026-10-11T04:30:00.000Z",
       "tags": [
         "jeopardy"
       ],
-      "hash": "a9b94d40c2807e54eaae37fba4744e7177b4b2b6"
+      "hash": "48811a01e2f77e410aede588bebb64c430640a96"
     },
     {
       "source": "ctftime",
@@ -265,13 +265,13 @@
       "description": "Cryovault 2026 is the flagship annual Capture The Flag competition organized by the Information Security and Forensics Center for Research (ISFCR) at PES University, Bengaluru. Discord : https://discord.gg/yMFMXh3raE This year's edition is split into two rounds: Online Qualifier. A 24-hour jeopardy-style CTF open to teams around the world. Offline Finals. The top qualifying teams are invited to compete on-site at PES University, Bengaluru. Challenges cover Web Exploitation, Binary Exploitation (pwn), Reverse Engineering, Cryptography, Forensics, OSINT, and Misc. The problem set ranges from beginner-friendly warmups to advanced challenges crafted by the CTF team @ ISFCR PESU.",
       "organizer": "x6e.x65.x78.x75.x73",
       "location": "Bengaluru, India",
-      "url": "https://isfcr.xyz/",
+      "url": "https://isfcrpesu.ctfd.io/",
       "starts_at": "2026-10-24T03:30:00.000Z",
       "ends_at": "2026-10-25T06:30:00.000Z",
       "tags": [
         "jeopardy"
       ],
-      "hash": "2b1a10f8927f969c02f13f34460cf1ee8b12dfaf"
+      "hash": "38a7e0c6ecde2bbf9168fb4d824a466bdf841357"
     },
     {
       "source": "ctftime",
