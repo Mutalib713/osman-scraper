@@ -1,22 +1,6 @@
 {
-  "count": 42,
+  "count": 41,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3438",
-      "title": "ByteMe CTF 26",
-      "category": "ctf",
-      "description": "ByteMe CTF 26 is a hybrid Jeopardy-style Capture The Flag competition organized by OWASP PCCOE and the Department of Computer Engineering, PCCOE, Pune. The event is designed for college students and provides hands-on exposure to practical cybersecurity through challenges across multiple domains, including OSINT, Web Security, Cryptography, Digital Forensics, Steganography, Reverse Engineering, Binary Exploitation, AI Security, and Miscellaneous. The competition will be conducted in both online and onsite modes, with participants solving challenges and submitting flags through the CTF platform. Challenges will range from beginner-friendly to advanced difficulty levels. Both online and onsite participants will compete through the same CTF platform, with separate event instances used for each mode. Date: 9 October 2026 Time: 09:00 AM – 06:00 PM IST Mode: Online + Onsite Venue: PCCOE, Pune Format: Jeopardy Platform: CTF7 Team Size: 1–2 Members Eligibility: College Students Website: https://bytemectf.owasppccoe.in/ Online Registration: https://ctf7.com/console/events/byteme-ctf/ Onsite Registration: https://unstop.com/p/byteme-ctf-26-pimpri-chinchwad-college-of-engineering-1760412 Discord: https://discord.com/invite/9BpjC2TxeK",
-      "organizer": "OWASP_PCCOE-CORE",
-      "location": "Online",
-      "url": "https://bytemectf.owasppccoe.in/",
-      "starts_at": "2026-10-09T04:30:00.000Z",
-      "ends_at": "2026-10-09T12:30:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "0ee3393090ffddfa990c473b38d2d58f4bd134a0"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3440",
@@ -118,7 +102,7 @@
       "uid": "ctftime-3364",
       "title": "Securinets CTF Quals 2026",
       "category": "ctf",
-      "description": "**Securinets CTF Quals 2026** is an online Jeopardy-style CTF organized by **Securinets INSAT**. The **top 10 teams worldwide** and the **top 5 North African teams** will be invited to compete in the **finals in Tunis**. **Registration will open soon.** Join our Discord server: https://discord.gg/X5nSDvjSyc ☁️ Infrastructure sponsored by **goo.gle/ctfsponsorship**",
+      "description": "Securinets CTF Quals 2026 is an online Jeopardy-style Capture the Flag (CTF) competition organized by Securinets INSAT. The top 10 teams worldwide and the top 10 teams from the MENA region will qualify to compete in the onsite finals in Tunis, Tunisia. Registration opens soon! Join our Discord server: https://discord.gg/X5nSDvjSyc ☁️ Infrastructure sponsored by Google: https://goo.gle/ctfsponsorship",
       "organizer": "Securinets",
       "location": "Online",
       "url": "https://ctf.securinets.tn/",
@@ -127,7 +111,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "80911b48ee20aab8b79ab39125c6cba8b2967495"
+      "hash": "61adedcd0ce77f96049effd946454fb4becdfcc5"
     },
     {
       "source": "ctftime",
