@@ -3,86 +3,6 @@
   "events": [
     {
       "source": "ctftime",
-      "uid": "ctftime-3440",
-      "title": "FortID CTF 2026",
-      "category": "ctf",
-      "description": "This is the fourth global CTF organized by employees of Blockhouse Technology Zagreb (tbtl.com). It is also the second incarnation under our brand name - Fort ID (https://fortid.com/) - a privacy-first, secure, and eIDAS 2.0 compliant digital identity solution. The contest will be in the Jeopardy format, featuring all of the standard categories (web, crypto, rev, pwn, misc, OSINT). We will have a wide range of challenges, from beginner-friendly ones, all the way to some spicy ones which should hopefully be interesting to seasoned players as well. For more details and rules, please visit https://ctf.fortid.com/",
-      "organizer": "TBTL",
-      "location": "Online",
-      "url": "https://ctf.fortid.com/",
-      "starts_at": "2026-10-09T18:00:00.000Z",
-      "ends_at": "2026-10-11T18:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "62551fa98b2f3812e5c36c435fe8555580d598c7"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3456",
-      "title": "kBxAc CTF 2026",
-      "category": "ctf",
-      "description": "kBxAc CTF 2026 organized by team kBxAc. Location: Online Format: Jeopardy CTF Website: https://ctf.kbxac.xyz/ Team Limit: No team limit NOTE: Register individually for now, team creation will be enabled soon Discord: https://discord.gg/g2QBSxarG LinkedIn: https://www.linkedin.com/company/kbxac/ Instagram: https://www.instagram.com/kbxac.real Website: https://kbxac.xyz/ Email: admin@kbxac.xyz Categories: - Web Exploitation - Reverse Engineering - Binary Exploitation - Cryptography - Misc and a few more... Event Timings: -> IST: 10 October 2026, 00:00 – 11 October 2026, 00:00 -> UTC: 9 October 2026, 18:30 – 10 October 2026, 18:30 -> EDT: 9 October 2026, 14:30 – 10 October 2026, 14:30",
-      "organizer": "kBxAc",
-      "location": "Online",
-      "url": "https://ctf.kbxac.xyz/",
-      "starts_at": "2026-10-09T18:30:00.000Z",
-      "ends_at": "2026-10-10T18:30:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "2d2886cd12a0353f3aa7df3a5519926e26c261cc"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3441",
-      "title": "Cryovault 2026 Quals",
-      "category": "ctf",
-      "description": "Cryovault 2026 is the flagship annual Capture The Flag competition organized by the Information Security and Forensics Center for Research (ISFCR) at PES University, Bengaluru. Discord : https://discord.gg/yMFMXh3raE This year's edition is split into two rounds: Online Qualifier. A 24-hour jeopardy-style CTF open to teams around the world. Offline Finals. The top qualifying teams are invited to compete on-site at PES University, Bengaluru. Challenges cover Web Exploitation, Binary Exploitation (pwn), Reverse Engineering, Cryptography, Forensics, OSINT, and Misc. The problem set ranges from beginner-friendly warmups to advanced challenges crafted by the CTF team @ ISFCR PESU.",
-      "organizer": "x6e.x65.x78.x75.x73",
-      "location": "Online",
-      "url": "https://isfcrpesu.ctfd.io/",
-      "starts_at": "2026-10-10T04:30:00.000Z",
-      "ends_at": "2026-10-11T04:30:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "48811a01e2f77e410aede588bebb64c430640a96"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3446",
-      "title": "KubSTU CTF",
-      "category": "ctf",
-      "description": "English and Indian languages are present. For help — https://t.me/c/3892440940/5995 and https://discord.gg/kubstu KubSTU-2026-Autumn-Edition - an international 30-hour jeopardy CTF from Kuban State Technological University and the Capybaras team. 50+ challenges in Web, Crypto, Forensics, Stegano, OSINT and Misc. Last edition brought together 1,280 teams from 51 countries. Free to enter, open to all skill levels. Details: kubstu-ctf.ru | t.me/kubCTF",
-      "organizer": "Capybaras",
-      "location": "Online",
-      "url": "https://kubstu-ctf.ru/",
-      "starts_at": "2026-10-10T07:00:00.000Z",
-      "ends_at": "2026-10-11T13:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "6ccaddc21736cfaecd2e1b29f2f4de6f1c328990"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3437",
-      "title": "Narxoz CTF",
-      "category": "ctf",
-      "description": "Narxoz CTF 2026 is an international, on-site, scenario-based Cyber Range CTF organized by NarXploit in cooperation with Narxoz University. Participants will operate in a realistic cyber range environment where they will analyze infrastructure, identify vulnerabilities, exploit weaknesses, develop attack chains, and capture flags while progressing through a scenario-driven challenge. Event details Date: 10 October 2026 Location: Narxoz University, 55 Zhandosov Street, Almaty, Kazakhstan Format: Scenario-based Cyber Range CTF Mode: Offline Team size: Up to 5 participants Registration deadline: 30 September 2026, 23:59 (UTC+5) The competition is open to international CTF teams, cybersecurity students, enthusiasts, and professionals. Prize Pool: ₸1,700,000 1st place — ₸1,000,000 2nd place — ₸500,000 3rd place — ₸200,000 Organizers: NarXploit & Narxoz University Registration: https://narxploit.narxoz.kz/register.html Follow NarXploit: Telegram: https://t.me/narxploit Instagram: https://www.instagram.com/narxploit/ LinkedIn: https://www.linkedin.com/company/narxploit/",
-      "organizer": "NarXploit",
-      "location": "Almaty, Kazakhstan",
-      "url": "https://narxploit.narxoz.kz/register.html",
-      "starts_at": "2026-10-10T10:00:00.000Z",
-      "ends_at": "2026-10-10T18:00:00.000Z",
-      "tags": [
-        "hack quest"
-      ],
-      "hash": "f0cb575a659a28400a284df3cd65de208bc624a0"
-    },
-    {
-      "source": "ctftime",
       "uid": "ctftime-3354",
       "title": "GaianSpace CTF 2026",
       "category": "ctf",
@@ -256,6 +176,22 @@
         "attack-defense"
       ],
       "hash": "2eb85a4a8d314105d63137525c94fe60e0629919"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3473",
+      "title": "BSides Peoria CTF 2026",
+      "category": "ctf",
+      "description": "This is the BSides Peoria CTF for 2026! It is our inaugural CTF, covering web, pwn, crypto, forensics, reversing, and fullpwn. It is held exclusively on site, at Bradley University, in Peoria, IL. A conference attendee pass is needed, and can be purchased at https://bsidespeoria.com/tickets/. The maximum team size for this competition is 2. The AI policy is under https://bsidespeoriac.tf/rules Our sponsors are listed below! Platinum Sponsor: Brackish Security CyberDrain Gold Sponsor: BishopFox Threatlocker Blumira Silver Sponsor: Rocket Fuel FactoryFormal MClean Maintenance Solutions Cyphn.io Bronze Sponsor: Corelight Pearl Technology SKB Cyber Hacker Tracker",
+      "organizer": "BSides Peoria CTF Village",
+      "location": "Peoria, Illinois, USA",
+      "url": "https://bsidespeoriac.tf/",
+      "starts_at": "2026-10-24T14:45:00.000Z",
+      "ends_at": "2026-10-24T20:45:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "6290c4177ea435eba805bdc1d9b04a745b361219"
     },
     {
       "source": "ctftime",
@@ -611,6 +547,22 @@
     },
     {
       "source": "ctftime",
+      "uid": "ctftime-3474",
+      "title": "LakeCTF Quals 26-27",
+      "category": "ctf",
+      "description": "Qualifications for fifth edition of LakeCTF",
+      "organizer": "polygl0ts",
+      "location": "Online",
+      "url": "https://lakectf.epfl.ch/",
+      "starts_at": "2026-11-27T18:00:00.000Z",
+      "ends_at": "2026-11-28T18:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "9d0ff383798dee6b1adbe7887d167b77c62f5be5"
+    },
+    {
+      "source": "ctftime",
       "uid": "ctftime-3386",
       "title": "BlackHat MEA CTF Final 2026",
       "category": "ctf",
@@ -627,6 +579,22 @@
     },
     {
       "source": "ctftime",
+      "uid": "ctftime-3450",
+      "title": "x3CTF 2026",
+      "category": "ctf",
+      "description": "x3CTF is a cute little jeopardy-style CTF with web, pwn, rev, crypto, and misc challs! x3CTF 2026 will run from Dec 4th 18:00 UTC until Dec 6th 18:00 UTC (48h). Be on the website a few minutes early for a fun surprise ^_^.",
+      "organizer": "x3CTF",
+      "location": "Online",
+      "url": "https://x3c.tf/",
+      "starts_at": "2026-12-04T18:00:00.000Z",
+      "ends_at": "2026-12-06T18:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "9daaf3302caf26d3f5fec214ea290a5012f047e6"
+    },
+    {
+      "source": "ctftime",
       "uid": "ctftime-3367",
       "title": "niteCTF 2026",
       "category": "ctf",
@@ -640,6 +608,38 @@
         "jeopardy"
       ],
       "hash": "27be115b72e0953c73ecec9602e33fd898f19534"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3475",
+      "title": "BSides Algiers 2026",
+      "category": "ctf",
+      "description": "BSides Algiers 2026 CTF, a jeopardy-style CTF featuring intermediate to extreme challenges on reverse-engineering, binary exploitation, cryptography, web security and more. Organized by Shellmates Club. Infra sponsored by https://goo.gle/ctfsponsorship Note: The CTF will be both onsite and online, but only Algerian teams can play onsite.",
+      "organizer": "sarrus",
+      "location": "Online",
+      "url": "https://shellmates.club/",
+      "starts_at": "2026-12-17T19:00:00.000Z",
+      "ends_at": "2026-12-19T07:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "bd2562914724968b61198770ebd81102c780f90a"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3472",
+      "title": "BackdoorCTF 2026",
+      "category": "ctf",
+      "description": "BackdoorCTF is the flagship event of InfoSecIITR. Categories will include Pwn, Rev, Web, Crypto, Blockchain, Forensics Discord invite for the competition is https://discord.gg/chHtsSTQ2 Supported by our Sponsors: Sponsors for BackdoorCTF 2026 will be announced soon. Happy Hacking!",
+      "organizer": "InfoSecIITR",
+      "location": "Online",
+      "url": "https://backdoor.infoseciitr.in/",
+      "starts_at": "2026-12-19T12:00:00.000Z",
+      "ends_at": "2026-12-20T12:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "4aa77943d83603f35615c4eef28be9682333d619"
     },
     {
       "source": "ctftime",
