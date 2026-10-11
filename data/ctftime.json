@@ -1,22 +1,6 @@
 {
-  "count": 41,
+  "count": 40,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3354",
-      "title": "GaianSpace CTF 2026",
-      "category": "ctf",
-      "description": "GaianSpace CTF, hosted by GaianSpace! Challenges to secure ground and space systems through Web, Pwn, Forensics, Reverse, Network, Crypto and more. Varied difficulties ensure fun for all skill levels. Hack the cosmos with us! Location: Online Event format: Jeopardy First ever CTF scheduled: Event start datetime: 2026.10.10 9:00pm (UTC) Event finish datetime: 2026.10.14 9:00pm (UTC) Duration: 96 hours Prizes: 1st Place, 2nd Place, 3rd Place, Write-up Prizes",
-      "organizer": "GaianSpace",
-      "location": "Online",
-      "url": "https://gaian.space/ctf",
-      "starts_at": "2026-10-10T21:00:00.000Z",
-      "ends_at": "2026-10-14T21:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "901f6b88ea0587bbc515472775d9c2ec21bd110b"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3364",
