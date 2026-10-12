@@ -278,7 +278,7 @@
       "uid": "ctftime-3418",
       "title": "HKCERT CTF 2026 (Qualifying Round)",
       "category": "ctf",
-      "description": "HKCERT Capture The Flag 2026,” organised by the Hong Kong Computer Emergency Response Team Coordination Centre (HKCERT), the Hong Kong Productivity Council (HKPC) and the Digital Policy Office of HKSAR, is now in its sixth edition. It is one of the largest cybersecurity competitions in Hong Kong, featuring four categories: Secondary School, Tertiary, Open, and International. This year there will be an online Jeopardy CTF (qualifying round) and a physical CTF with offensive and defensive challenges (Final round). Please register at below HKCERT CTF website (Must register via the website) https://ctf.hkcert.org (Registration deadline: 20 Oct 2026) Discord: https://discord.gg/XEPyRr4Qp",
+      "description": "HKCERT Capture The Flag 2026,” organised by the Hong Kong Computer Emergency Response Team Coordination Centre (HKCERT), the Hong Kong Productivity Council (HKPC) and the Digital Policy Office of HKSAR, is now in its sixth edition. It is one of the largest cybersecurity competitions in Hong Kong, featuring four categories: Secondary School, Tertiary, Open, and International. This year there will be an online Jeopardy CTF (qualifying round) and a physical CTF with offensive and defensive challenges (Final round). Please register at below HKCERT CTF website (Must register via the website) https://ctf.hkcert.org (Registration deadline: 20 Oct 2026) Discord: https://discord.gg/2enm5Maedt",
       "organizer": "Black Bauhinia",
       "location": "Online",
       "url": "https://ctf.hkcert.org/",
@@ -287,7 +287,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "fc23d1a2be4cc6c924b87acc079bb6ffa49472fe"
+      "hash": "878fcbd1e8cbd99be0d29f0d3f316fbead4d8853"
     },
     {
       "source": "ctftime",
@@ -406,7 +406,7 @@
       "uid": "ctftime-3049",
       "title": "WolvCTF 2026",
       "category": "ctf",
-      "description": "Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint, misc.). There are two divisions, Open and University of Michigan students. No team limit sizes. Sponsors to be announced! **Note: This event has been postponed to November 2026**",
+      "description": "Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint, misc.). There are two divisions, Open and University of Michigan students. No team limit sizes. Sponsors to be announced! Infra sponsored by goo.gle/ctfsponsorship **Note: This event has been postponed to November 2026**",
       "organizer": "w01verines",
       "location": "Online",
       "url": "https://wolvctf.io/",
@@ -415,7 +415,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "9fbef480af6a60365a1f940bd1c41d6e9c4c33ac"
+      "hash": "d1dc848446e2bbc7fd69afb7a69c6d2e38b2af3d"
     },
     {
       "source": "ctftime",
@@ -614,7 +614,7 @@
       "uid": "ctftime-3472",
       "title": "BackdoorCTF 2026",
       "category": "ctf",
-      "description": "BackdoorCTF is the flagship event of InfoSecIITR. Categories will include Pwn, Rev, Web, Crypto, Blockchain, Forensics Discord invite for the competition is https://discord.gg/chHtsSTQ2 Supported by our Sponsors: Sponsors for BackdoorCTF 2026 will be announced soon. Happy Hacking!",
+      "description": "BackdoorCTF is the flagship event of InfoSecIITR. Categories will include Pwn, Rev, Web, Crypto, Forensics, Misc Discord invite for the competition is https://discord.gg/chHtsSTQ2 Supported by our Sponsors: Sponsors for BackdoorCTF 2026 will be announced soon. Happy Hacking!",
       "organizer": "InfoSecIITR",
       "location": "Online",
       "url": "https://backdoor.infoseciitr.in/",
@@ -623,7 +623,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "4aa77943d83603f35615c4eef28be9682333d619"
+      "hash": "67ac814d2f661c824310a6156fec0916d4447ee9"
     },
     {
       "source": "ctftime",
