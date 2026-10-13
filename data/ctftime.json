@@ -6,7 +6,7 @@
       "uid": "ctftime-3364",
       "title": "Securinets CTF Quals 2026",
       "category": "ctf",
-      "description": "Securinets CTF Quals 2026 is an online Jeopardy-style Capture the Flag (CTF) competition organized by Securinets INSAT. The top 10 teams worldwide and the top 10 teams from the MENA region will qualify to compete in the onsite finals in Tunis, Tunisia. Registration opens soon! Join our Discord server: https://discord.gg/X5nSDvjSyc ☁️ Infrastructure sponsored by Google: https://goo.gle/ctfsponsorship",
+      "description": "Securinets CTF Quals 2026 is an online Jeopardy-style Capture the Flag competition organized by Securinets INSAT, Tunisia. Qualifiers: October 17–18, 2026 | Online | 36 hours | Jeopardy Finals: December 12–13, 2026 | Onsite at INSAT, Tunis, Tunisia Qualification: The top 10 international teams and the top 10 teams from the MENA region will qualify for the onsite finals at INSAT, Tunisia. Travel & Accommodation: - Top 2 international teams: flights and accommodation fully covered. - Top 10 teams: additional travel and accommodation coverage may be offered, depending on availability. Categories: Web, Pwn, Reverse, Crypto, Forensics, Mobile, Hardware, OSINT, Misc Qualifying teams will take part in technical interviews to verify their solutions before the finals. Compete from anywhere and earn your ticket to Tunisia! Register: https://quals.securinets.tn Discord: https://discord.gg/X5nSDvjSyc ☁️ Infrastructure sponsored by Google: https://goo.gle/ctfsponsorship",
       "organizer": "Securinets",
       "location": "Online",
       "url": "https://ctf.securinets.tn/",
@@ -15,7 +15,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "61adedcd0ce77f96049effd946454fb4becdfcc5"
+      "hash": "e9f9958760513f4b8080ccfb2dfae666991415ce"
     },
     {
       "source": "ctftime",
@@ -102,7 +102,7 @@
       "uid": "ctftime-3377",
       "title": "RSTCON 2026 CTF",
       "category": "ctf",
-      "description": "Online/Hybrid RSTCON CTF will available online, but there will be some challenges on available on-site at the conference. RSTCON CTF is an on-site/online competition for RSTCON, which is an annual technical security and hacking conference hosted in Charlotte, NC. RSTCON focuses on cutting-edge research, exploitation, and tradecraft in the logistics, energy, and manufacturing industries, as well as the sensors, systems, and architectures they rely on. RSTCON is home to the curious and those passionate about software and hardware security. (https://rstcon.org/)",
+      "description": "Online/Hybrid RSTCON CTF will available online, but there will be some challenges only available on-site at the conference. RSTCON CTF is an on-site/online competition for RSTCON, which is an annual technical security and hacking conference hosted in Charlotte, NC. RSTCON focuses on cutting-edge research, exploitation, and tradecraft in the logistics, energy, and manufacturing industries, as well as the sensors, systems, and architectures they rely on. RSTCON is home to the curious and those passionate about software and hardware security. (https://rstcon.org/)",
       "organizer": "RSTCON",
       "location": "Online",
       "url": "https://ctf.rstcon.org/",
@@ -111,7 +111,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "0c886fe9e364ce2df58846f238d4441c3024bccd"
+      "hash": "8393b0a19fb8395d5d4df6726c47d698d2e45e3e"
     },
     {
       "source": "ctftime",
