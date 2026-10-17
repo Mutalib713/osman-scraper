@@ -1,38 +1,6 @@
 {
-  "count": 40,
+  "count": 39,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3364",
-      "title": "Securinets CTF Quals 2026",
-      "category": "ctf",
-      "description": "Securinets CTF Quals 2026 is an online Jeopardy-style Capture the Flag competition organized by Securinets INSAT, Tunisia. Qualifiers: October 17–18, 2026 | Online | 36 hours | Jeopardy Finals: December 12–13, 2026 | Onsite at INSAT, Tunis, Tunisia Qualification: The top 10 international teams and the top 10 teams from the MENA region will qualify for the onsite finals at INSAT, Tunisia. Travel & Accommodation: - Top 2 international teams: flights and accommodation fully covered. - Top 10 teams: additional travel and accommodation coverage may be offered, depending on availability. Categories: Web, Pwn, Reverse, Crypto, Forensics, Mobile, Hardware, OSINT, Misc Qualifying teams will take part in technical interviews to verify their solutions before the finals. Compete from anywhere and earn your ticket to Tunisia! Register: https://quals.securinets.tn Discord: https://discord.gg/X5nSDvjSyc ☁️ Infrastructure sponsored by Google: https://goo.gle/ctfsponsorship",
-      "organizer": "Securinets",
-      "location": "Online",
-      "url": "https://ctf.securinets.tn/",
-      "starts_at": "2026-10-17T09:00:00.000Z",
-      "ends_at": "2026-10-18T21:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "e9f9958760513f4b8080ccfb2dfae666991415ce"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3471",
-      "title": "SOLAR CTF 2026",
-      "category": "ctf",
-      "description": "Registration for SolarCTF is open ☀️ Solar’s first student cybersecurity competition is your chance to test your skills in practice, build a team, and compete for prizes. Key information: ✦ Teams of up to 5 people ✦ Start — October 17 at 12:00 PM (MSK) ✦ End — October 18 at 12:00 PM (MSK) ✦ 24 hours to complete the challenges Don’t have a team yet? Find teammates in the SolarCTF chat - https://t.me/+-6q5XsXtT6IxNjIy. Build your team and register for SolarCTF ❤️ https://solarctf.ru/",
-      "organizer": "SOLARCTF",
-      "location": "Online",
-      "url": "https://solarctf.ru/",
-      "starts_at": "2026-10-17T09:00:00.000Z",
-      "ends_at": "2026-10-18T09:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "a2b1d84dc4c9f38a57d96cdb7bfac6a0e6404159"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3279",
@@ -80,6 +48,22 @@
         "jeopardy"
       ],
       "hash": "e59c49cff3fea6b91752974b3b3b94a2fa37fef3"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3477",
+      "title": "CREST CTF 2.0",
+      "category": "ctf",
+      "description": "CREST CTF 2.0 | National Level Cyber Security Competition Organized by CREST Cyber Club under the School of Computer Applications, Pimpri Chinchwad University (PCU). CREST CTF 2.0 is a national-level Capture The Flag (CTF) cybersecurity competition designed to challenge and elevate your problem-solving, ethical hacking, and cybersecurity skills. Whether you are competing remotely or joining us on campus, CREST CTF 2.0 offers an immersive environment to test your practical knowledge across various domains of cybersecurity. This event is held alongside the National Level Cyber Security Conference on October 22–23, 2026. Format: Hybrid Mode — Participate Online from anywhere in India, or join Offline at the PCU Campus. Event Date: October 23, 2026 Participation Options Online Participation: Free (Participate remotely with access to the CTF portal). Offline Participation: Free(Join us on campus at Pimpri Chinchwad University for the live hands-on competition experience). Core Domains & Categories Participants will tackle hands-on challenges across diverse categories, including: Web Exploitation Digital Forensics & Incident Response Reverse Engineering & Binary Exploitation Cryptography & OSINT (Open Source Intelligence) Network Security & Cloud Defense Who Should Register? Cyber Security Enthusiasts & CTF Competitors Students pursuing Degrees in Computer Applications, Computer Science, IT, or Cybersecurity Anyone looking to build practical, real-world security skills and connect with industry peers",
+      "organizer": "CREST",
+      "location": "Online",
+      "url": "https://crest.ctf7.com/",
+      "starts_at": "2026-10-23T05:30:00.000Z",
+      "ends_at": "2026-10-23T11:30:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "67abb2694aa9f35268bd2e18a9b1540ab59bdc67"
     },
     {
       "source": "ctftime",
