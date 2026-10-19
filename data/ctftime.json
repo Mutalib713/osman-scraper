@@ -470,16 +470,16 @@
       "uid": "ctftime-3425",
       "title": "Outback Overflow",
       "category": "ctf",
-      "description": "Outback Overflow is a free online jeopardy-style CTF built for high schoolers across Australia. Run by the High School Cybersecurity Community, it's designed to be a stepping stone for students getting into cyber security, whether you've never touched a terminal or you're already popping shells. Our goal is simple: grow the number of young people in cyber security and give Australian high schoolers a CTF they can call their own. Sponsors: TBD (if you would like to sponsor please reach out to contact@hscyber.org or join our discord!) Join our discord to talk to other players! https://discord.gg/xWPndqMCfA",
+      "description": "Outback Overflow is a free online jeopardy-style CTF built for high schoolers across Australia. Run by the High School Cybersecurity Community, it's designed to be a stepping stone for students getting into cyber security, whether you've never touched a terminal or you're already popping shells. Our goal is simple: grow the number of young people in cyber security and give Australian high schoolers a CTF they can call their own. Sponsors: BinaryLane (binarylane.com.au) UTS:CSEC (utscyber.org) (if you would like to sponsor please reach out to outreach@hscyber.org or join our discord!) Join our discord to talk to other players! https://discord.gg/xWPndqMCfA",
       "organizer": "HSCC",
       "location": "Online",
-      "url": "http://hscyber.org/",
+      "url": "https://outbackoverflow26.hscyber.org/",
       "starts_at": "2026-11-20T23:00:00.000Z",
       "ends_at": "2026-11-21T23:00:00.000Z",
       "tags": [
         "jeopardy"
       ],
-      "hash": "ced0c8818c31796fcf0703c9ee3b8a5990d99901"
+      "hash": "fe63d0763d7cf4d108328a15d593d450f31c1d4f"
     },
     {
       "source": "ctftime",
