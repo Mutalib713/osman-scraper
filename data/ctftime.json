@@ -1,22 +1,6 @@
 {
-  "count": 41,
+  "count": 40,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3409",
-      "title": "SAS CTF 2026 Finals",
-      "category": "ctf",
-      "description": "SAS CTF is an international competition for cybersecurity experts, held as a part of the Security Analyst Summit conference. The competition consists of an online Jeopardy qualification stage and on-site Attack-Defense finals. We are inviting Top 8 teams that completed the SAS CTF qualification round and 5 regional winners of Kaspersky{CTF} 2026 (https://lp.kaspersky.com/ctf/) to compete for a share of the $18.000 prize pot at SAS 2026 in Bali, Indonesia on October 19-22.",
-      "organizer": "SAS CREW",
-      "location": "Indonesia, Bali",
-      "url": "https://ctf.thesascon.com/",
-      "starts_at": "2026-10-20T03:00:00.000Z",
-      "ends_at": "2026-10-20T14:00:00.000Z",
-      "tags": [
-        "attack-defense"
-      ],
-      "hash": "fea6a3fa993a815b39a34b3e322f7b85908daaff"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3369",
