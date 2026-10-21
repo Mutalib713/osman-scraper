@@ -1,5 +1,5 @@
 {
-  "count": 40,
+  "count": 41,
   "events": [
     {
       "source": "ctftime",
@@ -262,7 +262,7 @@
       "uid": "ctftime-3418",
       "title": "HKCERT CTF 2026 (Qualifying Round)",
       "category": "ctf",
-      "description": "HKCERT Capture The Flag 2026,” organised by the Hong Kong Computer Emergency Response Team Coordination Centre (HKCERT), the Hong Kong Productivity Council (HKPC) and the Digital Policy Office of HKSAR, is now in its sixth edition. It is one of the largest cybersecurity competitions in Hong Kong, featuring four categories: Secondary School, Tertiary, Open, and International. This year there will be an online Jeopardy CTF (qualifying round) and a physical CTF with offensive and defensive challenges (Final round). Please register at below HKCERT CTF website (Must register via the website) https://ctf.hkcert.org (Registration deadline: 20 Oct 2026) Discord: https://discord.gg/2enm5Maedt",
+      "description": "HKCERT Capture The Flag 2026,” organised by the Hong Kong Computer Emergency Response Team Coordination Centre (HKCERT), the Hong Kong Productivity Council (HKPC) and the Digital Policy Office of HKSAR, is now in its sixth edition. It is one of the largest cybersecurity competitions in Hong Kong, featuring four categories: Secondary School, Tertiary, Open, and International. This year there will be an online Jeopardy CTF (qualifying round) and a physical CTF with offensive and defensive challenges (Final round). Please register at below HKCERT CTF website (Must register via the website) https://ctf.hkcert.org (Registration deadline: 4 Nov 2026 HKT 1200) Discord: https://discord.gg/2enm5Maedt",
       "organizer": "Black Bauhinia",
       "location": "Online",
       "url": "https://ctf.hkcert.org/",
@@ -271,7 +271,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "878fcbd1e8cbd99be0d29f0d3f316fbead4d8853"
+      "hash": "992db97f81e9b848752476f8135b35daa90356a3"
     },
     {
       "source": "ctftime",
@@ -528,6 +528,22 @@
         "jeopardy"
       ],
       "hash": "9d0ff383798dee6b1adbe7887d167b77c62f5be5"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3485",
+      "title": "L3m0n CTF 2026 (Quals)",
+      "category": "ctf",
+      "description": "L3m0n CTF is the annual flagship capture-the-flag competition of Amrita Vishwa Vidyapeetham, Coimbatore, hosted by TIFAC-CORE in Cyber Security. This is a team-based event: teams of 1 to 4 players. The online prelims is Jeopardy-style and run for 12 hours (10:00 to 22:00 IST, 04:30 to 16:30 UTC, on 28 November 2026). The top teams are invited to on-campus finals in Coimbatore. Challenges span web, pwn, reverse engineering, cryptography, forensics, OSINT and miscellaneous, with extra tracks in AI and LLM security, Web3 and hardware, IoT and RF. This edition is a broadcast themed on the cartoons we grew up with. Open to all, with a beginner category that teaches the basics. Registration opens soon on l3m0nctf.xyz.",
+      "organizer": "L3m0n CTF",
+      "location": "Online",
+      "url": "https://l3m0nctf.xyz/",
+      "starts_at": "2026-11-28T04:30:00.000Z",
+      "ends_at": "2026-11-28T16:30:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "f4c7949c4312e533babca9da9dfbe14c9e5d2e59"
     },
     {
       "source": "ctftime",
