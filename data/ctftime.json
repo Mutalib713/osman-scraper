@@ -198,7 +198,7 @@
       "uid": "ctftime-3460",
       "title": "HI Cyber Con 2026 CTF",
       "category": "ctf",
-      "description": "HI Cyber Con 2026 CTF is an international 48-hour Jeopardy-style Capture The Flag competition organized by Hidden Investigations. The competition features 70+ challenges covering web, forensics, steganography, network, crypto, binary exploitation, reverse engineering, AI/LLM, hardware, blockchain, OSINT, and misc. The CTF is fully online and open to teams of up to 5 participants worldwide.",
+      "description": "HI Cyber Con 2026 CTF is an international 48-hour Jeopardy-style Capture The Flag competition organized by Hidden Investigations. The competition features 70+ challenges covering web, forensics, steganography, network, crypto, binary exploitation, reverse engineering, AI/LLM, hardware, blockchain, OSINT, and misc. The CTF is fully online and open to teams of up to 5 participants worldwide. Competition Divisions: HI Cyber Con 2026 features two divisions: Human-Led (AI permitted for reference only) and Agentic AI (AI-assisted and autonomous challenge solving permitted). Both divisions are eligible for the same overall USD 2,500 cash prize pool. Participation is free, with teams of 1–5 members. Discord: https://discord.gg/rD2gHUWJhf",
       "organizer": "HiddenInvestigations",
       "location": "Online",
       "url": "https://ctf.hiddeninvestigations.net/",
@@ -207,7 +207,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "8806100a916c34e263f34fedb6cbce009782b81f"
+      "hash": "17b7f294dcdc89fe7beab1c994cd70a712eb72bb"
     },
     {
       "source": "ctftime",
@@ -454,7 +454,7 @@
       "uid": "ctftime-3425",
       "title": "Outback Overflow",
       "category": "ctf",
-      "description": "Outback Overflow is a free online jeopardy-style CTF built for high schoolers across Australia. Run by the High School Cybersecurity Community, it's designed to be a stepping stone for students getting into cyber security, whether you've never touched a terminal or you're already popping shells. Our goal is simple: grow the number of young people in cyber security and give Australian high schoolers a CTF they can call their own. Sponsors: BinaryLane (binarylane.com.au) UTS:CSEC (utscyber.org) (if you would like to sponsor please reach out to outreach@hscyber.org or join our discord!) Join our discord to talk to other players! https://discord.gg/xWPndqMCfA",
+      "description": "Outback Overflow is a free online jeopardy-style CTF built for high schoolers across Australia. Run by the High School Cybersecurity Community, it's designed to be a stepping stone for students getting into cyber security, whether you've never touched a terminal or you're already popping shells. Our goal is simple: grow the number of young people in cyber security and give Australian high schoolers a CTF they can call their own. Sponsors: BinaryLane (binarylane.com.au) UTS:CSEC (utscyber.org) XYZ (gen.xyz) (if you would like to sponsor please reach out to outreach@hscyber.org or join our discord!) Join our discord to talk to other players! https://discord.gg/xWPndqMCfA",
       "organizer": "HSCC",
       "location": "Online",
       "url": "https://outbackoverflow26.hscyber.org/",
@@ -463,7 +463,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "fe63d0763d7cf4d108328a15d593d450f31c1d4f"
+      "hash": "73971b198e2d31daca82141989acbfbf9fdda593"
     },
     {
       "source": "ctftime",
