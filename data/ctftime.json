@@ -1,38 +1,6 @@
 {
-  "count": 41,
+  "count": 39,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3369",
-      "title": "cruXipher 2026 - ATMoS '26, BITS Hyderabad",
-      "category": "ctf",
-      "description": "cruXipher: A development-style Capture-the-Flag competition where teams of people come together to solve challenges that involve the skills of problem-solving, programming, cybersecurity, and general knowledge of computers to rise to the top.",
-      "organizer": "CRUx BPHC",
-      "location": "Online",
-      "url": "https://cruxipher.crux-bphc.com/",
-      "starts_at": "2026-10-23T00:30:00.000Z",
-      "ends_at": "2026-10-25T00:30:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "e59c49cff3fea6b91752974b3b3b94a2fa37fef3"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3477",
-      "title": "CREST CTF 2.0",
-      "category": "ctf",
-      "description": "CREST CTF 2.0 | National Level Cyber Security Competition Organized by CREST Cyber Club under the School of Computer Applications, Pimpri Chinchwad University (PCU). CREST CTF 2.0 is a national-level Capture The Flag (CTF) cybersecurity competition designed to challenge and elevate your problem-solving, ethical hacking, and cybersecurity skills. Whether you are competing remotely or joining us on campus, CREST CTF 2.0 offers an immersive environment to test your practical knowledge across various domains of cybersecurity. This event is held alongside the National Level Cyber Security Conference on October 22–23, 2026. Format: Hybrid Mode — Participate Online from anywhere in India, or join Offline at the PCU Campus. Event Date: October 23, 2026 Participation Options Online Participation: Free (Participate remotely with access to the CTF portal). Offline Participation: Free(Join us on campus at Pimpri Chinchwad University for the live hands-on competition experience). Core Domains & Categories Participants will tackle hands-on challenges across diverse categories, including: Web Exploitation Digital Forensics & Incident Response Reverse Engineering & Binary Exploitation Cryptography & OSINT (Open Source Intelligence) Network Security & Cloud Defense Who Should Register? Cyber Security Enthusiasts & CTF Competitors Students pursuing Degrees in Computer Applications, Computer Science, IT, or Cybersecurity Anyone looking to build practical, real-world security skills and connect with industry peers",
-      "organizer": "CREST",
-      "location": "Online",
-      "url": "https://crest.ctf7.com/",
-      "starts_at": "2026-10-23T05:30:00.000Z",
-      "ends_at": "2026-10-23T11:30:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "67abb2694aa9f35268bd2e18a9b1540ab59bdc67"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3340",
