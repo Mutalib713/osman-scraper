@@ -1,86 +1,6 @@
 {
-  "count": 39,
+  "count": 35,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3340",
-      "title": "HITCON CTF 2026",
-      "category": "ctf",
-      "description": "",
-      "organizer": "HITCON",
-      "location": "Online",
-      "url": "https://ctf2026.hitcon.org/",
-      "starts_at": "2026-10-23T14:00:00.000Z",
-      "ends_at": "2026-10-25T14:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "1ade125fe060ae2ef1528b0dbc84327e6d70df17"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3377",
-      "title": "RSTCON 2026 CTF",
-      "category": "ctf",
-      "description": "Online/Hybrid RSTCON CTF will available online, but there will be some challenges only available on-site at the conference. RSTCON CTF is an on-site/online competition for RSTCON, which is an annual technical security and hacking conference hosted in Charlotte, NC. RSTCON focuses on cutting-edge research, exploitation, and tradecraft in the logistics, energy, and manufacturing industries, as well as the sensors, systems, and architectures they rely on. RSTCON is home to the curious and those passionate about software and hardware security. (https://rstcon.org/)",
-      "organizer": "RSTCON",
-      "location": "Online",
-      "url": "https://ctf.rstcon.org/",
-      "starts_at": "2026-10-23T17:00:00.000Z",
-      "ends_at": "2026-10-25T17:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "8393b0a19fb8395d5d4df6726c47d698d2e45e3e"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3207",
-      "title": "Hack.lu CTF 2026",
-      "category": "ctf",
-      "description": "Hack.​lu CTF is organized by FluxFingers, the CTF team of Ruhr-University Bochum (Germany). This will be the 16th edition.",
-      "organizer": "FluxFingers",
-      "location": "Online",
-      "url": "https://flu.xxx/",
-      "starts_at": "2026-10-23T18:00:00.000Z",
-      "ends_at": "2026-10-25T18:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "35e7420b1df053c76842aa110a36c357f5b8ac14"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3442",
-      "title": "Cryovault 2026 Finals",
-      "category": "ctf",
-      "description": "Cryovault 2026 is the flagship annual Capture The Flag competition organized by the Information Security and Forensics Center for Research (ISFCR) at PES University, Bengaluru. Discord : https://discord.gg/yMFMXh3raE This year's edition is split into two rounds: Online Qualifier. A 24-hour jeopardy-style CTF open to teams around the world. Offline Finals. The top qualifying teams are invited to compete on-site at PES University, Bengaluru. Challenges cover Web Exploitation, Binary Exploitation (pwn), Reverse Engineering, Cryptography, Forensics, OSINT, and Misc. The problem set ranges from beginner-friendly warmups to advanced challenges crafted by the CTF team @ ISFCR PESU.",
-      "organizer": "x6e.x65.x78.x75.x73",
-      "location": "Bengaluru, India",
-      "url": "https://isfcrpesu.ctfd.io/",
-      "starts_at": "2026-10-24T03:30:00.000Z",
-      "ends_at": "2026-10-25T06:30:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "38a7e0c6ecde2bbf9168fb4d824a466bdf841357"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3094",
-      "title": "H7CTF 2026 Finals",
-      "category": "ctf",
-      "description": "H7CTF v3 Finals: An onsite cyber-security challenge hosted at SRMIST, bringing together the top teams from a unified global qualification round. Teams will compete in a real-world attack-defense environment, testing their capabilities across offensive and defensive domains.",
-      "organizer": "H7Tex",
-      "location": "Chennai, Tamil Nadu",
-      "url": "https://2026.h7tex.com/",
-      "starts_at": "2026-10-24T06:30:00.000Z",
-      "ends_at": "2026-10-25T06:30:00.000Z",
-      "tags": [
-        "attack-defense"
-      ],
-      "hash": "2eb85a4a8d314105d63137525c94fe60e0629919"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3473",
@@ -448,6 +368,22 @@
         "jeopardy"
       ],
       "hash": "67b034acf9dc4b387a6e705bbcf42935ce5ccf5c"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3490",
+      "title": "Cyber Ninja CTF 2026 - BLACKOUT",
+      "category": "ctf",
+      "description": "# Cyber Ninja CTF 2026 – BLACKOUT Gardez Paris allumé ! Le Cyber Ninja CTF revient pour sa 3e édition avec BLACKOUT, une compétition nationale de cybersécurité organisée par OTERIA Cyber School et destinée aux lycéens de toute la France. Cette année, un mystérieux hacker surnommé « Lights-Out » menace les infrastructures critiques de Paris : métro, électricité, réseaux de communication et distribution d'eau. Votre mission : résoudre des challenges de cybersécurité, récupérer des flags, découvrir des indices cachés et arrêter Lights-Out avant que Paris ne soit plongé dans le noir. ## Dates et déroulement Qualifications en ligne - Début : samedi 21 novembre 2026 à 10h (heure de Paris) - Fin : dimanche 22 novembre 2026 à 10h (heure de Paris) - Durée : 24 heures - Format : Jeopardy - Participation : individuelle et gratuite Finale en présentiel - Date : samedi 16 janvier 2027 - Lieu : campus OTERIA, région parisienne - Participants : les 80 meilleurs des qualifications éligibles - Invité spécial : V2F, youtubeur spécialisé en cybersécurité ## Les challenges Une cinquantaine de flags répartis dans 9 catégories : - Web : exploitation de vulnérabilités Web - PWN : exploitation de programmes binaires - Reverse Engineering : rétro-ingénierie - Crypto : cryptographie - OSINT : recherche en sources ouvertes - DFIR : investigation numérique et réponse aux incidents - Hardware : sécurité matérielle - Programming : programmation - Misc : challenges divers Trois niveaux de difficulté sont proposés : débutant, intermédiaire et confirmé. Aucune expérience préalable en cybersécurité n'est nécessaire pour participer. ## Un scénario immersif : BLACKOUT Pendant les qualifications, certains flags permettront de débloquer des éléments du dossier « Lights-Out » : messages interceptés, photographies, notes manuscrites et indices cachés. Ces informations pourront aider les participants à progresser dans les challenges et à découvrir les prochaines cibles du hacker. ## Deux classements selon ",
+      "organizer": "OteriHack",
+      "location": "Online",
+      "url": "https://www.cyber-ninja-ctf.fr/",
+      "starts_at": "2026-11-21T09:00:00.000Z",
+      "ends_at": "2026-11-22T09:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "a6b1d4445888ab1432cd59206c91bd6f8d9c18f8"
     },
     {
       "source": "ctftime",
