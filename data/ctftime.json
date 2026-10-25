@@ -1,22 +1,6 @@
 {
-  "count": 35,
+  "count": 38,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3473",
-      "title": "BSides Peoria CTF 2026",
-      "category": "ctf",
-      "description": "This is the BSides Peoria CTF for 2026! It is our inaugural CTF, covering web, pwn, crypto, forensics, reversing, and fullpwn. It is held exclusively on site, at Bradley University, in Peoria, IL. A conference attendee pass is needed, and can be purchased at https://bsidespeoria.com/tickets/. The maximum team size for this competition is 2. The AI policy is under https://bsidespeoriac.tf/rules Our sponsors are listed below! Platinum Sponsor: Brackish Security CyberDrain Gold Sponsor: BishopFox Threatlocker Blumira Silver Sponsor: Rocket Fuel FactoryFormal MClean Maintenance Solutions Cyphn.io Bronze Sponsor: Corelight Pearl Technology SKB Cyber Hacker Tracker",
-      "organizer": "BSides Peoria CTF Village",
-      "location": "Peoria, Illinois, USA",
-      "url": "https://bsidespeoriac.tf/",
-      "starts_at": "2026-10-24T14:45:00.000Z",
-      "ends_at": "2026-10-24T20:45:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "6290c4177ea435eba805bdc1d9b04a745b361219"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3443",
@@ -112,6 +96,22 @@
         "jeopardy"
       ],
       "hash": "e8ebdb1c246198acc98fd6928f37f2e1d9d71cb1"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3491",
+      "title": "HAM-DEFCON",
+      "category": "ctf",
+      "description": "HAM-DEFCON is a cybersecurity competition organized by HAM-ARC club of National Institute Of Technology Warangal Telangana, India. Event Details: Format: Attack & Defense Categories: Web Exploitation, Binary Exploitation (Pwn), Reverse Engineering, Cryptography, and Infrastructure Hardening. Team Size: 1–4 Members Categories: Web Security, Binary Exploitation (Pwn), Reverse Engineering, Applied Cryptography, and Service Hardening Rules & Code of Conduct On-Site & Network Access: The competition is strictly offline at the NIT Warangal campus. All team traffic and service interactions must route exclusively through the official network access gateway. Multi-Tiered Flagstores: Each service hosts multiple independent flagstores (Easy, Medium, Hard). Flags are dynamically rotated and refreshed every tick (round). Scoring Breakdown: Attack Points: Awarded for successfully exploiting opponent services and submitting their flags to the Flag Submission endpoint. Defense Points: Maintained by successfully patching vulnerabilities while keeping services operational. SLA (Uptime) Points: Awarded each round your services remain healthy, responsive, and passing all automated checker functionality tests. Scope & Infrastructure Immunity: Only designated opponent service ports and containers are in scope. Attacking the game engine, scoring backend, automated checkers, host hypervisors, or other teams’ network credentials will result in immediate disqualification. Fair Play & Service Integrity: Denial-of-Service (DoS) attacks, network floods, deleting arbitrary system utilities, bricking service runtimes to prevent checker evaluation, and flag sharing or collusion between teams are strictly prohibited.",
+      "organizer": "HAMARC",
+      "location": "National Institute Of Technology Warangal, Hanamkonda, Telangana, India, 505004",
+      "url": "http://defcon.hamarc.tech/",
+      "starts_at": "2026-10-31T03:30:00.000Z",
+      "ends_at": "2026-10-31T07:30:00.000Z",
+      "tags": [
+        "attack-defense"
+      ],
+      "hash": "dabcd1f31390d92b9ac72b35250f000211082b60"
     },
     {
       "source": "ctftime",
@@ -256,6 +256,22 @@
         "jeopardy"
       ],
       "hash": "101211d0e24919d434a415e1f8316cde1ff227fa"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3486",
+      "title": "TVX CTF 2026",
+      "category": "ctf",
+      "description": "TVX CTF is a cybersecurity Capture The Flag competition organized by Tech Visions. Challenge categories include: • DFIR (Digital Forensics & Incident Response) • Cloud Security • Malware Analysis • Reverse Engineering • Pwn (Binary Exploitation) • Web Exploitation • Cryptography • OSINT (Open-Source Intelligence) Test your skills, solve real-world-inspired cybersecurity challenges, and compete with other security enthusiasts in a hands-on environment. Organized by Tech Visions.",
+      "organizer": "Tech Visions",
+      "location": "Online",
+      "url": "https://ctf-techvisions.com/",
+      "starts_at": "2026-11-13T10:00:00.000Z",
+      "ends_at": "2026-11-13T20:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "87c2e5874e9eb08bb672241184e7c2c5f75b7c74"
     },
     {
       "source": "ctftime",
@@ -451,6 +467,22 @@
     },
     {
       "source": "ctftime",
+      "uid": "ctftime-3489",
+      "title": "CyberNSK2027-Qualifier",
+      "category": "ctf",
+      "description": "CyberNSK 2027 is one of the largest cybersecurity competitions in Siberia, organized by Siberian Security League in collaboration with Novosibirsk State Technical University (NSTU NETI), Department of Information Security. The online qualification round is a 12-hour Jeopardy-style CTF. Teams of up to 5 participants (school and university students) compete by solving practical security challenges and submitting flags. ✦ Start — November 28 at 12:00 PM (MSK)✦ ✦ End — November 29 at 00:00 PM (MSK)✦ The competition uses a dynamic scoring system: the fewer teams solve a task, the more points it is worth. Categories include: Web Crypto Reverse Engineering Pwn Forensics AI Hardware and others",
+      "organizer": "siberiansecurityleague",
+      "location": "Online",
+      "url": "https://quals.sslctf.ru/",
+      "starts_at": "2026-11-28T09:00:00.000Z",
+      "ends_at": "2026-11-28T21:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "70dec5f27f321a9c29970d52221aee249ea9da6f"
+    },
+    {
+      "source": "ctftime",
       "uid": "ctftime-3386",
       "title": "BlackHat MEA CTF Final 2026",
       "category": "ctf",
@@ -560,6 +592,22 @@
         "jeopardy"
       ],
       "hash": "784d786ebe3a9f73a6adf52b1c66007c90634854"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3492",
+      "title": "GaianSpace Perihelion CTF 2027",
+      "category": "ctf",
+      "description": "GaianSpace CTF, hosted by GaianSpace! Challenges to secure ground and space systems through Web, Pwn, Forensics, Reverse, Network, Crypto and more. Varied difficulties ensure fun for all skill levels. Hack the cosmos with us! Location: Online Event format: Jeopardy Event start datetime: 2027.01.02 6:00pm (UTC) Event finish datetime: 2027.01.03 6:00pm (UTC) Duration: 24 hours Prizes: 1st Place, 2nd Place, 3rd Place, Write-up Prizes",
+      "organizer": "GaianSpace",
+      "location": "Online",
+      "url": "https://gaian.space/ctf",
+      "starts_at": "2027-01-02T18:00:00.000Z",
+      "ends_at": "2027-01-03T18:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "2648a618e2a71ee846e1ae559dcb0eac92ebc041"
     }
   ]
 }
