@@ -1,22 +1,6 @@
 {
-  "count": 38,
+  "count": 37,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3443",
-      "title": "Sudocrypt v16.0",
-      "category": "ctf",
-      "description": "The technology club of DPS RK Puram, Exun Clan is returning with its eagerly anticipated annual International Capture the Flag (CTF) x Cryptic Hunt event. Sudocrypt v16.0 is an event where individual cryptic enthusiasts come together to take on the ultimate challenge, showcasing their skills and passion for cyber and cryptic challenges. It's an event that promises excitement, learning, and the chance to test your abilities against participants from around the globe.",
-      "organizer": "exunclan",
-      "location": "Online",
-      "url": "https://sudocrypt.com/",
-      "starts_at": "2026-10-27T03:30:00.000Z",
-      "ends_at": "2026-10-28T15:30:00.000Z",
-      "tags": [
-        "hack quest"
-      ],
-      "hash": "bfee04895d2e7793c4eea860f06dcab0a5ab236d"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3444",
@@ -566,7 +550,7 @@
       "uid": "ctftime-3472",
       "title": "BackdoorCTF 2026",
       "category": "ctf",
-      "description": "BackdoorCTF is the flagship event of InfoSecIITR. Categories will include Pwn, Rev, Web, Crypto, Forensics, Misc Discord invite for the competition is https://discord.gg/chHtsSTQ2 Supported by our Sponsors: Sponsors for BackdoorCTF 2026 will be announced soon. Happy Hacking!",
+      "description": "BackdoorCTF is the flagship event of InfoSecIITR. Categories will include Pwn, Rev, Web, Crypto, Forensics, Misc Discord invite for the competition is https://discord.gg/chHtsSTQ2 Supported by our Sponsors: Infrastructure Sponsored by: - Google Cloud (https://goo.gle/ctfsponsorship) Other Sponsors for BackdoorCTF 2026 will be announced soon. Happy Hacking!",
       "organizer": "InfoSecIITR",
       "location": "Online",
       "url": "https://backdoor.infoseciitr.in/",
@@ -575,7 +559,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "67ac814d2f661c824310a6156fec0916d4447ee9"
+      "hash": "8ebded9033cbc319a54613f510771e1b826771fe"
     },
     {
       "source": "ctftime",
