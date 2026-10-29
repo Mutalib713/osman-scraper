@@ -1,22 +1,6 @@
 {
-  "count": 37,
+  "count": 36,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3444",
-      "title": "Srdnlen CTF 2026 Finals (Sardinia Cyber Camp)",
-      "category": "ctf",
-      "description": "The Sardinia Cyber Camp 2026 will bring the top 10 teams from the qualification round to compete live in Sardinia. Alongside the onsite CTF, the event will also host a cybersecurity fair and conference.",
-      "organizer": "Srdnlen",
-      "location": "Italy, Cagliari",
-      "url": "https://ctf.srdnlen.it/",
-      "starts_at": "2026-10-29T09:00:00.000Z",
-      "ends_at": "2026-10-29T17:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "41ae0b4b0041f9a56bc147600d98539cd428af5d"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3381",
@@ -278,7 +262,7 @@
       "uid": "ctftime-3049",
       "title": "WolvCTF 2026",
       "category": "ctf",
-      "description": "Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint, misc.). There are two divisions, Open and University of Michigan students. No team limit sizes. Sponsors to be announced! Infra sponsored by goo.gle/ctfsponsorship **Note: This event has been postponed to November 2026**",
+      "description": "Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint, misc.). There are two divisions, Open and University of Michigan students. No team limit sizes. Thank you to our sponsors! Binary Ninja: https://binary.ninja/ **Note: This event has been postponed to November 2026**",
       "organizer": "w01verines",
       "location": "Online",
       "url": "https://wolvctf.io/",
@@ -287,7 +271,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "d1dc848446e2bbc7fd69afb7a69c6d2e38b2af3d"
+      "hash": "df3f5a35dc4dcbc7d798c7339601fa1b053b4777"
     },
     {
       "source": "ctftime",
