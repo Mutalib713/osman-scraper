@@ -1,38 +1,6 @@
 {
-  "count": 36,
+  "count": 33,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3381",
-      "title": "Hacker's Gambit 2026 (Round 2 – Grand Finale)",
-      "category": "ctf",
-      "description": "The Grand Finale is the final stage of Hackers Gambit 2026, where the Top 15 teams selected from the Online Qualifier will compete for the championship title. This 24-hour, on-site Capture The Flag (CTF) competition is designed to simulate real-world cybersecurity scenarios and evaluate participants' ability to solve complex security challenges under pressure. Hosted at Jaihind College of Engineering, Kuran, the Grand Finale brings together the highest-performing teams for an intensive competition featuring advanced challenges across multiple cybersecurity domains. Participants will demonstrate their technical expertise, analytical thinking, teamwork, strategic decision-making, and adaptability while competing against some of the best cybersecurity talent. Challenges may cover domains including: Web Security Cryptography Reverse Engineering Digital Forensics Binary Exploitation (Pwn) Open Source Intelligence (OSINT) Steganography Network Security Miscellaneous Challenges Throughout the competition, teams will work continuously for 24 hours, solving progressively challenging problems to accumulate points on the official scoreboard. The competition will conclude with score verification by the organizing committee, followed by the official announcement of winners during the Awards & Closing Ceremony. The Grand Finale provides participants with an opportunity to showcase their cybersecurity skills in a highly competitive environment while networking with industry professionals, sponsors, security researchers, and fellow cybersecurity enthusiasts. Key Highlights Mode: Offline Venue: Jaihind College of Engineering, Kuran, Maharashtra, India Duration: 24 Hours Format: Advanced Jeopardy-style Capture The Flag (CTF) Eligibility: Top 15 teams qualified from the Online Qualifier Challenge Categories: Web Security, Cryptography, Reverse Engineering, Digital Forensics, Binary Exploitation (Pwn), OSINT, Steganography, Network Security, and Miscellaneous Scoring: Points awarded ba",
-      "organizer": "JCOE Cyber Sentinels",
-      "location": "Jaihind College of Engineering,At Post Kuran, Taluka Junnar, Pune - 410511, Maharashtra, India (19°09'47.2\"N 73°54'52.2\"E)",
-      "url": "https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293",
-      "starts_at": "2026-10-30T06:30:00.000Z",
-      "ends_at": "2026-10-31T06:30:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "590d8b236a877323a225236a3d93dff506fed250"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3463",
-      "title": "CTF@AC26 - Finals",
-      "category": "ctf",
-      "description": "RO: CTF@AC este un concurs de tip Capture the Flag (CTF) organizat de echipa de securitate cibernetică a Universității Politehnica Timișoara. Prin acest eveniment ne propunem: ✅ Promovarea culturii securității cibernetice ✅ Atragerea elevilor și studenților pasionați de IT și securitate Premii: 3000 euros Discord: https://ctf.ac.upt.ro/discord EN: CTF@AC is a Capture the Flag (CTF) competition organized by the cybersecurity team of Politehnica University Timisoara. Through this event we aim to: ✅ Promote the culture of cybersecurity ✅ Attract students passionate about IT and security Prizes: 3000 euros Discord: https://ctf.ac.upt.ro/discord",
-      "organizer": "UPT-CTF",
-      "location": "Faculty of Automation & Computer Science, Timisoara, Romania",
-      "url": "https://ctf.ac.upt.ro/",
-      "starts_at": "2026-10-30T10:00:00.000Z",
-      "ends_at": "2026-11-01T10:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "162b817fce3b13b11150b16997741bef533ba82d"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3460",
@@ -352,22 +320,6 @@
         "jeopardy"
       ],
       "hash": "67b034acf9dc4b387a6e705bbcf42935ce5ccf5c"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3490",
-      "title": "Cyber Ninja CTF 2026 - BLACKOUT",
-      "category": "ctf",
-      "description": "RÉSERVÉ UNIQUEMENT AUX LYCÉENS # Cyber Ninja CTF 2026 – BLACKOUT Gardez Paris allumé ! Le Cyber Ninja CTF revient pour sa 3e édition avec BLACKOUT, une compétition nationale de cybersécurité organisée par OTERIA Cyber School et destinée aux lycéens de toute la France. Cette année, un mystérieux hacker surnommé « Lights-Out » menace les infrastructures critiques de Paris : métro, électricité, réseaux de communication et distribution d'eau. Votre mission : résoudre des challenges de cybersécurité, récupérer des flags, découvrir des indices cachés et arrêter Lights-Out avant que Paris ne soit plongé dans le noir. ## Dates et déroulement Qualifications en ligne - Début : samedi 21 novembre 2026 à 10h (heure de Paris) - Fin : dimanche 22 novembre 2026 à 10h (heure de Paris) - Durée : 24 heures - Format : Jeopardy - Participation : individuelle et gratuite Finale en présentiel - Date : samedi 16 janvier 2027 - Lieu : campus OTERIA, région parisienne - Participants : les 80 meilleurs des qualifications éligibles - Invité spécial : V2F, youtubeur spécialisé en cybersécurité ## Les challenges Une cinquantaine de flags répartis dans 9 catégories : - Web : exploitation de vulnérabilités Web - PWN : exploitation de programmes binaires - Reverse Engineering : rétro-ingénierie - Crypto : cryptographie - OSINT : recherche en sources ouvertes - DFIR : investigation numérique et réponse aux incidents - Hardware : sécurité matérielle - Programming : programmation - Misc : challenges divers Trois niveaux de difficulté sont proposés : débutant, intermédiaire et confirmé. Aucune expérience préalable en cybersécurité n'est nécessaire pour participer. ## Un scénario immersif : BLACKOUT Pendant les qualifications, certains flags permettront de débloquer des éléments du dossier « Lights-Out » : messages interceptés, photographies, notes manuscrites et indices cachés. Ces informations pourront aider les participants à progresser dans les challenges et à découvrir les prochaines cibles du hac",
-      "organizer": "OteriHack",
-      "location": "Online",
-      "url": "https://www.cyber-ninja-ctf.fr/",
-      "starts_at": "2026-11-21T09:00:00.000Z",
-      "ends_at": "2026-11-22T09:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "81f4940015bbda5086fbae829230f61abec559ac"
     },
     {
       "source": "ctftime",
