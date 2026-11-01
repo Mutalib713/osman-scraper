@@ -278,7 +278,7 @@
       "uid": "ctftime-3474",
       "title": "LakeCTF Quals 26-27",
       "category": "ctf",
-      "description": "Qualifications for fifth edition of LakeCTF",
+      "description": "Qualifications for fifth edition of LakeCTF old discord server here for discussion: https://discord.gg/8FHmzT5aGM new discord server in your invite email",
       "organizer": "polygl0ts",
       "location": "Online",
       "url": "https://lakectf.epfl.ch/",
@@ -287,7 +287,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "9d0ff383798dee6b1adbe7887d167b77c62f5be5"
+      "hash": "44b39ca0b87fb23ac332d8a2e0728f73ec26fc06"
     },
     {
       "source": "ctftime",
