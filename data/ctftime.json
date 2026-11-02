@@ -198,7 +198,7 @@
       "uid": "ctftime-3337",
       "title": "GlacierCTF 2026",
       "category": "ctf",
-      "description": "We're excited to announce GlacierCTF 2026 for its fifth edition, a 24-hour jeopardy CTF organized by LosFuzzys. Join our discord at: https://discord.gg/DFYnRAME23 Infra sponsored by goo.gle/ctfsponsorship",
+      "description": "We're excited to announce GlacierCTF 2026 for its fifth edition, a 24-hour jeopardy CTF organized by LosFuzzys. Join our discord at: https://discord.gg/DFYnRAME23 - Hex-Rays (hex-rays.com) - ISEC @ Graz University of Technology (isec.tugraz.at) Infra sponsored by goo.gle/ctfsponsorship",
       "organizer": "LosFuzzys",
       "location": "Online",
       "url": "https://glacierctf.com/",
@@ -207,7 +207,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "d418482af408bbc6f9e460c8e76b140b8d310888"
+      "hash": "a125cee55658e6639a12895dc2c0590efcdd957b"
     },
     {
       "source": "ctftime",
