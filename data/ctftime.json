@@ -1,5 +1,5 @@
 {
-  "count": 28,
+  "count": 29,
   "events": [
     {
       "source": "ctftime",
@@ -38,7 +38,7 @@
       "uid": "ctftime-3333",
       "title": "CSCTF 2026",
       "category": "ctf",
-      "description": "\"CSCTF 2026: Total Warfare\" is an international, online, free jeopardy-style CTF focused on realistic cybersecurity scenarios inspired by critical infrastructure, defense, and modern adversary tactics. Challenges cover web, pwn, crypto, reverse engineering, forensics, misc, Linux, Windows, and operational security, with scenarios connected to energy, telecom, healthcare, finance, and defense environments. The competition is somewhat beginner-friendly but realism-driven.",
+      "description": "CSCTF 2026: Total Warfare is a free, international, 48-hour online Jeopardy-style CTF. This is the second edition of CSCTF. Last year's competition brought together 600+ players from more than 10 countries. The event is built around realistic cybersecurity scenarios inspired by critical infrastructure, defence and modern adversary tactics. Expect 40+ challenges across web, pwn, crypto, reverse engineering, forensics, misc, Linux, Windows and operational security, with scenarios involving energy, telecom, finance, healthcare and defence. The competition is welcoming to newer players while still rewarding strong methodology and technical depth. Players compete in Junior, Senior and Fighters divisions. Squads can have one to five players, and solo players are fully eligible for prizes. Challenges open in two waves: Wave 1: 6 November, 15:00 EET Wave 2: 7 November, 15:00 EET Prize and infrastructure support comes from Hack The Box, Covert Security, ThunderCipher, TryHackMe, Canonical, Yubico, Altered Security, CyberDefenders and Visma. Registration and full details: https://2026.chronos-security.ro/ Prizes: https://2026.chronos-security.ro/prizes Rules: https://2026.chronos-security.ro/rules Discord: https://discord.chronos-security.ro/",
       "organizer": "Mirachron",
       "location": "Online",
       "url": "https://2026.chronos-security.ro/",
@@ -47,7 +47,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "c60da174fe0eadf64833bc3a53c47323c65ab55c"
+      "hash": "9562ac332e9c192e5d9d41c31a2bfc83bb8f1b9c"
     },
     {
       "source": "ctftime",
@@ -217,13 +217,13 @@
       "description": "Outback Overflow is a free online jeopardy-style CTF built for high schoolers across Australia. Run by the High School Cybersecurity Community, it's designed to be a stepping stone for students getting into cyber security, whether you've never touched a terminal or you're already popping shells. Our goal is simple: grow the number of young people in cyber security and give Australian high schoolers a CTF they can call their own. Sponsors: BinaryLane (binarylane.com.au) UTS:CSEC (utscyber.org) XYZ (gen.xyz) (if you would like to sponsor please reach out to outreach@hscyber.org or join our discord!) Join our discord to talk to other players! https://discord.gg/xWPndqMCfA",
       "organizer": "HSCC",
       "location": "Online",
-      "url": "https://outbackoverflow26.hscyber.org/",
+      "url": "http://ctf.hscyber.org/",
       "starts_at": "2026-11-20T23:00:00.000Z",
       "ends_at": "2026-11-21T23:00:00.000Z",
       "tags": [
         "jeopardy"
       ],
-      "hash": "73971b198e2d31daca82141989acbfbf9fdda593"
+      "hash": "62d2243f70b20daeaaa0549cd2716396af6931c9"
     },
     {
       "source": "ctftime",
@@ -368,6 +368,22 @@
         "jeopardy"
       ],
       "hash": "19adcaafb37a66e2818ec2d370aae927f50b9fc9"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3493",
+      "title": "OTERIA Cyber Cup #4",
+      "category": "ctf",
+      "description": "# OTERIA Cyber ​​Cup #4 Rejoignez-nous le 5 décembre 2026 pour la quatrième édition de l'OTERIA Cyber ​​Cup, une compétition de type « Capture The Flag » (CTF) destinée aux étudiants, organisée par l'OTERIA Cyber ​​School à Gennevilliers, en France. Détails de l'événement - Date : 5 décembre 2026 - Lieu : OTERIA Cyber ​​School, 1 Rue du 19 Mars 1962, 92230 Gennevilliers, France - Format : CTF de type « Jeopardy » (à confirmer) - Durée : 6 heures - Participation : Gratuite - Éligibilité : Étudiants, du lycée jusqu'au niveau Master (Bac à Bac+5) - Taille des équipes : 4 étudiants par équipe - Défis : 5 catégories d'épreuves et 25 « flags » (drapeaux) à trouver La compétition est ouverte aussi bien aux débutants qu'aux joueurs expérimentés ; les défis sont conçus pour s'adapter à différents niveaux de compétence. Récompenses - 1re place : 500 € et des goodies - 2e place : 300 € et des goodies - 3e place : 150 € et des goodies Les membres des 10 meilleures équipes pourront également bénéficier d'un accès direct à un entretien d'admission chez OTERIA, sans avoir à passer le test technique (sous réserve des règles officielles de la compétition). Inscription : https://www.oteria-cyber-cup.fr/inscription Site officiel : https://www.oteria-cyber-cup.fr/ Organisé par l'OTERIA Cyber ​​School.",
+      "organizer": "OteriHack",
+      "location": "France, Gennevilliers",
+      "url": "https://www.oteria-cyber-cup.fr/",
+      "starts_at": "2026-12-05T09:00:00.000Z",
+      "ends_at": "2026-12-05T17:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "229b16b3f4a7aa7945b570258d7e685121e3d1e2"
     },
     {
       "source": "ctftime",
