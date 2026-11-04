@@ -1,5 +1,5 @@
 {
-  "count": 29,
+  "count": 30,
   "events": [
     {
       "source": "ctftime",
@@ -160,6 +160,22 @@
         "jeopardy"
       ],
       "hash": "df3f5a35dc4dcbc7d798c7339601fa1b053b4777"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3464",
+      "title": "h4ckc0n 2026",
+      "category": "ctf",
+      "description": "h4ckc0n is a 24-hour international Jeopardy-style Capture The Flag competition. (URL will be live in a few days) Categories: Reverse Engineering, Web-exploitation, Forensics, AI/ML, Web3, OSINT, PWN, Cryptography, Miscellaneous The competition is designed to accommodate teams of varying skill levels, with a diverse challenge set covering multiple areas of cybersecurity. Duration: 24 hours Format: Jeopardy-style CTF Mode: Online Team-based: Yes Join the discord server: https://discord.gg/kw8J5r2ZWh",
+      "organizer": "d4rkc0de",
+      "location": "Online",
+      "url": "https://h4ckc0n.in/",
+      "starts_at": "2026-11-14T15:30:00.000Z",
+      "ends_at": "2026-11-15T15:30:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "3f32398c500dc98e9ffb75a7cdd9d326006c1d97"
     },
     {
       "source": "ctftime",
