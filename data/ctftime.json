@@ -1,54 +1,6 @@
 {
-  "count": 30,
+  "count": 27,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3418",
-      "title": "HKCERT CTF 2026 (Qualifying Round)",
-      "category": "ctf",
-      "description": "HKCERT Capture The Flag 2026,” organised by the Hong Kong Computer Emergency Response Team Coordination Centre (HKCERT), the Hong Kong Productivity Council (HKPC) and the Digital Policy Office of HKSAR, is now in its sixth edition. It is one of the largest cybersecurity competitions in Hong Kong, featuring four categories: Secondary School, Tertiary, Open, and International. This year there will be an online Jeopardy CTF (qualifying round) and a physical CTF with offensive and defensive challenges (Final round). Please register at below HKCERT CTF website (Must register via the website) https://ctf.hkcert.org (Registration deadline: 4 Nov 2026 HKT 1200) Discord: https://discord.gg/2enm5Maedt",
-      "organizer": "Black Bauhinia",
-      "location": "Online",
-      "url": "https://ctf.hkcert.org/",
-      "starts_at": "2026-11-06T10:00:00.000Z",
-      "ends_at": "2026-11-07T10:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "992db97f81e9b848752476f8135b35daa90356a3"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3331",
-      "title": "PINK+ CTF 2026",
-      "category": "ctf",
-      "description": "The first iteration of PINK+ CTF. Explore a variety of hand crafted challenges with a focus on steganography! Discord: https://discord.gg/VuPqnhFxH4",
-      "organizer": "PINK+",
-      "location": "Online",
-      "url": "https://ctf.pink.bayern/",
-      "starts_at": "2026-11-06T12:00:00.000Z",
-      "ends_at": "2026-11-09T12:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "dbcd5a7c8ac4b35349e18b357199d6d9784aee1d"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3333",
-      "title": "CSCTF 2026",
-      "category": "ctf",
-      "description": "CSCTF 2026: Total Warfare is a free, international, 48-hour online Jeopardy-style CTF. This is the second edition of CSCTF. Last year's competition brought together 600+ players from more than 10 countries. The event is built around realistic cybersecurity scenarios inspired by critical infrastructure, defence and modern adversary tactics. Expect 40+ challenges across web, pwn, crypto, reverse engineering, forensics, misc, Linux, Windows and operational security, with scenarios involving energy, telecom, finance, healthcare and defence. The competition is welcoming to newer players while still rewarding strong methodology and technical depth. Players compete in Junior, Senior and Fighters divisions. Squads can have one to five players, and solo players are fully eligible for prizes. Challenges open in two waves: Wave 1: 6 November, 15:00 EET Wave 2: 7 November, 15:00 EET Prize and infrastructure support comes from Hack The Box, Covert Security, ThunderCipher, TryHackMe, Canonical, Yubico, Altered Security, CyberDefenders and Visma. Registration and full details: https://2026.chronos-security.ro/ Prizes: https://2026.chronos-security.ro/prizes Rules: https://2026.chronos-security.ro/rules Discord: https://discord.chronos-security.ro/",
-      "organizer": "Mirachron",
-      "location": "Online",
-      "url": "https://2026.chronos-security.ro/",
-      "starts_at": "2026-11-06T13:00:00.000Z",
-      "ends_at": "2026-11-08T13:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "9562ac332e9c192e5d9d41c31a2bfc83bb8f1b9c"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3339",
