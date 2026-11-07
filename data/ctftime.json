@@ -1,53 +1,21 @@
 {
-  "count": 27,
+  "count": 26,
   "events": [
     {
       "source": "ctftime",
-      "uid": "ctftime-3339",
-      "title": "SpookyCTF 2026",
+      "uid": "ctftime-3499",
+      "title": "CyberZerk CTF 2026",
       "category": "ctf",
-      "description": "EVENT TIME HAS BEEN SHIFTED TO START AND END 2 HOURS AFTER TIME LISTED ABOVE REGISTRATION IS NOW AVAILABLE! BOO!! Welcome to SpookyCTF 2026! Organized by the New Jersey Institute of Technology's Cyber Security Network (formerly known as NICC), this is our annual Halloween CTF event, open to all! We've made this CTF beginner-friendly, with a mix of harder challenges. Our mission is to help beginners develop professionally in cybersecurity while still keeping things fun! You'll be pushed to stay curious and strengthen your reasoning skills across challenges of varying difficulty. Our challenge categories include Binary Exploitation/Reverse Engineering, Cryptography, Forensics, OSINT, Web, and Misc. Expect weird but fun challenges developed by our team at CSN. SpookyCTF is hybrid — in person at NJIT and open to virtual attendees! Join our Discord to tap in: https://discord.gg/NeHyp5fFHW AI assistance is allowed but discouraged. Learning is part of the challenge — use your brain! Automated AI agents for solving challenges are strictly forbidden. Any detected automated AI usage will result in disqualification.",
-      "organizer": "NICC",
+      "description": "CyberZerk CTF 2026 is a free, online Jeopardy-style CTF for all skill levels, organized by the CyberZerk association. It runs from November 9 (14:00 CET) to November 22 (18:00 CET). Challenges cover web, crypto, forensics, steganography and social engineering. Registration is individual. Donations to the association are optional and never required to play. Rules and registration: https://ctf.cyberzerk.fr",
+      "organizer": "CyberZerk",
       "location": "Online",
-      "url": "https://spooky.ctfd.io/",
-      "starts_at": "2026-11-06T17:00:00.000Z",
-      "ends_at": "2026-11-07T17:00:00.000Z",
+      "url": "https://ctf.cyberzerk.fr/",
+      "starts_at": "2026-11-09T13:00:00.000Z",
+      "ends_at": "2026-11-22T17:00:00.000Z",
       "tags": [
         "jeopardy"
       ],
-      "hash": "56c66b38d71d6fde20e1657ccc87098472568f2d"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3242",
-      "title": "BlackAlps CTF 2026",
-      "category": "ctf",
-      "description": "The BlackAlps CTF will be held at the end of the BlackAlps conference in Yverdon-les-Bains in Switzerland. It's a CTF for all level including from beginner up to advanced team. The CTF will last 5 hours and be on site for about 300 people. There is no specific categories. Registration is mandatory. Welcome at 18:45. Start at 19:00. End at 23:30. Awards ceremony at 23:45.",
-      "organizer": "BlackAlps",
-      "location": "Switzerland, Yverdon-les-Bains",
-      "url": "https://blackalps.ch/ba-26/contest",
-      "starts_at": "2026-11-06T18:15:00.000Z",
-      "ends_at": "2026-11-06T22:30:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "720ddebc05ed56c9f3188031a71ab18e17bfde5b"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3455",
-      "title": "Mimic",
-      "category": "ctf",
-      "description": "Mimic is an online Jeopardy-style CTF by Rare Byte Hub. Some challenges are exactly what they look like, and some aren't. Figure out which is which. There's something for everyone, from beginners to experienced players. Teams of 1-4 members.",
-      "organizer": "Rare Byte Hub",
-      "location": "Online",
-      "url": "https://ctf.rarebytehub.com/events/mimic",
-      "starts_at": "2026-11-07T12:00:00.000Z",
-      "ends_at": "2026-11-08T12:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "da51f94a918e6382ae2d5ef5179dff165f1641d4"
+      "hash": "71e5236d1c1f7b2eed666f324ddfb939d44b53c9"
     },
     {
       "source": "ctftime",
@@ -368,6 +336,22 @@
         "jeopardy"
       ],
       "hash": "27be115b72e0953c73ecec9602e33fd898f19534"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3498",
+      "title": "Leo's 20th Birthday Bash",
+      "category": "ctf",
+      "description": "Hey! You there! Do you like programming? Do you like puzzles? Do you like... money? Leo's 20th Birthday Bash is a 24-hour online team contest that's competitive-programming-ish, CTF-ish, math-olympiad-ish, and puzzle-hunt-ish, all wrapped into one. The contest runs on DMOJ, an online judge for competitive programming, and each team shares one DMOJ account to submit from. Teams can have 1 to 10 members (6 to 8 recommended). Some problems are CTF-ish, but DMOJ itself is not part of the contest, so please do not attack, probe, or abuse it. The people at DMOJ are hosting this for free >.< This contest has no sponsors, so all the prize money is from yours truly ;) Make sure you've read all the rules (see the contest page). In particular, interactive generative AI is not allowed, because it is stinky. See you there!",
+      "organizer": "SanguineChameleon",
+      "location": "Online",
+      "url": "https://dmoj.ca/contest/leo20",
+      "starts_at": "2026-12-12T01:00:00.000Z",
+      "ends_at": "2026-12-13T01:00:00.000Z",
+      "tags": [
+        "hack quest"
+      ],
+      "hash": "06d4edab8ae4a2d64193d1b36c20a13f1577f7f2"
     },
     {
       "source": "ctftime",
