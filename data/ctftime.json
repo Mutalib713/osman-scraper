@@ -1,22 +1,6 @@
 {
-  "count": 26,
+  "count": 24,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3499",
-      "title": "CyberZerk CTF 2026",
-      "category": "ctf",
-      "description": "CyberZerk CTF 2026 is a free, online Jeopardy-style CTF for all skill levels, organized by the CyberZerk association. It runs from November 9 (14:00 CET) to November 22 (18:00 CET). Challenges cover web, crypto, forensics, steganography and social engineering. Registration is individual. Donations to the association are optional and never required to play. Rules and registration: https://ctf.cyberzerk.fr",
-      "organizer": "CyberZerk",
-      "location": "Online",
-      "url": "https://ctf.cyberzerk.fr/",
-      "starts_at": "2026-11-09T13:00:00.000Z",
-      "ends_at": "2026-11-22T17:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "71e5236d1c1f7b2eed666f324ddfb939d44b53c9"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3410",
@@ -70,7 +54,7 @@
       "uid": "ctftime-3049",
       "title": "WolvCTF 2026",
       "category": "ctf",
-      "description": "Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint, misc.). There are two divisions, Open and University of Michigan students. No team limit sizes. Thank you to our sponsors! Binary Ninja: https://binary.ninja/ **Note: This event has been postponed to November 2026**",
+      "description": "This event will be postponed to Fri, 20 Nov. 2026, 18:00 EST — Sun, 22 Nov. 2026, 18:00 EST Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint, misc.). There are two divisions, Open and University of Michigan students. No team limit sizes. Thank you to our sponsors! Binary Ninja: https://binary.ninja/",
       "organizer": "w01verines",
       "location": "Online",
       "url": "https://wolvctf.io/",
@@ -79,7 +63,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "df3f5a35dc4dcbc7d798c7339601fa1b053b4777"
+      "hash": "e1438abd636cbc3793cb895bcdcde821681be205"
     },
     {
       "source": "ctftime",
@@ -304,22 +288,6 @@
         "jeopardy"
       ],
       "hash": "19adcaafb37a66e2818ec2d370aae927f50b9fc9"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3493",
-      "title": "OTERIA Cyber Cup #4",
-      "category": "ctf",
-      "description": "# OTERIA Cyber ​​Cup #4 Rejoignez-nous le 5 décembre 2026 pour la quatrième édition de l'OTERIA Cyber ​​Cup, une compétition de type « Capture The Flag » (CTF) destinée aux étudiants, organisée par l'OTERIA Cyber ​​School à Gennevilliers, en France. Détails de l'événement - Date : 5 décembre 2026 - Lieu : OTERIA Cyber ​​School, 1 Rue du 19 Mars 1962, 92230 Gennevilliers, France - Format : CTF de type « Jeopardy » (à confirmer) - Durée : 6 heures - Participation : Gratuite - Éligibilité : Étudiants, du lycée jusqu'au niveau Master (Bac à Bac+5) - Taille des équipes : 4 étudiants par équipe - Défis : 5 catégories d'épreuves et 25 « flags » (drapeaux) à trouver La compétition est ouverte aussi bien aux débutants qu'aux joueurs expérimentés ; les défis sont conçus pour s'adapter à différents niveaux de compétence. Récompenses - 1re place : 500 € et des goodies - 2e place : 300 € et des goodies - 3e place : 150 € et des goodies Les membres des 10 meilleures équipes pourront également bénéficier d'un accès direct à un entretien d'admission chez OTERIA, sans avoir à passer le test technique (sous réserve des règles officielles de la compétition). Inscription : https://www.oteria-cyber-cup.fr/inscription Site officiel : https://www.oteria-cyber-cup.fr/ Organisé par l'OTERIA Cyber ​​School.",
-      "organizer": "OteriHack",
-      "location": "France, Gennevilliers",
-      "url": "https://www.oteria-cyber-cup.fr/",
-      "starts_at": "2026-12-05T09:00:00.000Z",
-      "ends_at": "2026-12-05T17:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "229b16b3f4a7aa7945b570258d7e685121e3d1e2"
     },
     {
       "source": "ctftime",
