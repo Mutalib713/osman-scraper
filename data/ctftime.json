@@ -134,7 +134,7 @@
       "uid": "ctftime-3425",
       "title": "Outback Overflow",
       "category": "ctf",
-      "description": "Outback Overflow is a free online jeopardy-style CTF built for high schoolers across Australia. Run by the High School Cybersecurity Community, it's designed to be a stepping stone for students getting into cyber security, whether you've never touched a terminal or you're already popping shells. Our goal is simple: grow the number of young people in cyber security and give Australian high schoolers a CTF they can call their own. Sponsors: BinaryLane (binarylane.com.au) UTS:CSEC (utscyber.org) XYZ (gen.xyz) (if you would like to sponsor please reach out to outreach@hscyber.org or join our discord!) Join our discord to talk to other players! https://discord.gg/xWPndqMCfA",
+      "description": "Outback Overflow is a free online jeopardy-style CTF built for high schoolers across Australia. Run by the High School Cybersecurity Community, it's designed to be a stepping stone for students getting into cyber security, whether you've never touched a terminal or you're already popping shells. Our goal is simple: grow the number of young people in cyber security and give Australian high schoolers a CTF they can call their own. Gold Sponsors: * Tanto Security (https://tantosec.com) * Try Hack Me (https://tryhackme.com) Silver Sponsors * gen.xyz (https://gen.xyz) * UTS CSEC (https://utscyber.org) * Skillbit (https://skillbit.com) * Active IT prep (https://activeitprep.com) Hosting Partners: * Binary Lane (https://www.binarylane.com.au) University Supports: * UNSW Security Society (https://unswsecurity.com) (if you would like to sponsor please reach out to outreach@hscyber.org or join our discord!) Join our discord to talk to other players! https://discord.gg/xWPndqMCfA Event Site: https://oo26.hscyber.org/",
       "organizer": "HSCC",
       "location": "Online",
       "url": "http://ctf.hscyber.org/",
@@ -143,7 +143,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "62d2243f70b20daeaaa0549cd2716396af6931c9"
+      "hash": "0e7389c1a7a885ab36116f8d92b8e6a45250be8d"
     },
     {
       "source": "ctftime",
@@ -230,7 +230,7 @@
       "uid": "ctftime-3489",
       "title": "CyberNSK2027-Qualifier",
       "category": "ctf",
-      "description": "CyberNSK 2027 is one of the largest cybersecurity competitions in Siberia, organized by Siberian Security League in collaboration with Novosibirsk State Technical University (NSTU NETI), Department of Information Security. The online qualification round is a 12-hour Jeopardy-style CTF. Teams of up to 5 participants (school and university students) compete by solving practical security challenges and submitting flags. ✦ Start — November 28 at 12:00 PM (MSK)✦ ✦ End — November 29 at 00:00 PM (MSK)✦ The competition uses a dynamic scoring system: the fewer teams solve a task, the more points it is worth. Categories include: Web Crypto Reverse Engineering Pwn Forensics AI Hardware and others",
+      "description": "CyberNSK 2027 is one of the largest cybersecurity competitions in Siberia, organized by Siberian Security League in collaboration with Novosibirsk State Technical University (NSTU NETI), Department of Information Security. The online qualification round is a 12-hour Jeopardy-style CTF. Teams of up to 5 participants (school and university students) compete by solving practical security challenges and submitting flags. ✦ Start — November 28 at 12:00 PM (MSK)✦ ✦ End — November 29 at 00:00 PM (MSK)✦ Teams that have passed the qualifying stage and reside in CIS countries or China are invited to the in-person final. The competition uses a dynamic scoring system: the fewer teams solve a task, the more points it is worth. Categories include: Web Crypto Reverse Engineering Pwn Forensics AI Hardware and others",
       "organizer": "siberiansecurityleague",
       "location": "Online",
       "url": "https://quals.sslctf.ru/",
@@ -239,7 +239,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "70dec5f27f321a9c29970d52221aee249ea9da6f"
+      "hash": "91e54865402d0309ffd3e3612d29ab3e12ad916b"
     },
     {
       "source": "ctftime",
