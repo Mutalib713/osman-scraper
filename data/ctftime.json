@@ -1,38 +1,6 @@
 {
-  "count": 24,
+  "count": 22,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3410",
-      "title": "CSAW CTF Final Round 2026",
-      "category": "ctf",
-      "description": "CSAW CTF is one of the oldest and biggest CTFs. Designed as an entry-level, jeopardy-style CTF, this competition is for students who are trying to break into the field of security, as well as for advanced students and industry professionals who want to practice their skills.",
-      "organizer": "NYUSEC",
-      "location": "Online",
-      "url": "https://ctf.csaw.io/",
-      "starts_at": "2026-11-12T17:00:00.000Z",
-      "ends_at": "2026-11-14T05:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "101211d0e24919d434a415e1f8316cde1ff227fa"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3486",
-      "title": "TVX CTF 2026",
-      "category": "ctf",
-      "description": "TVX CTF is a cybersecurity Capture The Flag competition organized by Tech Visions. Challenge categories include: • DFIR (Digital Forensics & Incident Response) • Cloud Security • Malware Analysis • Reverse Engineering • Pwn (Binary Exploitation) • Web Exploitation • Cryptography • OSINT (Open-Source Intelligence) Test your skills, solve real-world-inspired cybersecurity challenges, and compete with other security enthusiasts in a hands-on environment. Organized by Tech Visions.",
-      "organizer": "Tech Visions",
-      "location": "Online",
-      "url": "https://ctf-techvisions.com/",
-      "starts_at": "2026-11-13T10:00:00.000Z",
-      "ends_at": "2026-11-13T20:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "87c2e5874e9eb08bb672241184e7c2c5f75b7c74"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3082",
@@ -41,13 +9,13 @@
       "description": "The Platypwn 2026 is an online Jeopardy CTF which offers easy challenges for beginners, but also medium and difficult challenges for advanced players. See https://platypwnies.de/events/platypwn for further details.",
       "organizer": "Platypwnies",
       "location": "Online",
-      "url": "https://platypwnies.de/events/platypwn/",
+      "url": "https://platypwn.ctf.platypwnies.de/",
       "starts_at": "2026-11-13T17:00:00.000Z",
       "ends_at": "2026-11-14T11:00:00.000Z",
       "tags": [
         "jeopardy"
       ],
-      "hash": "e76d641b2afcbfd1da461cf848d3d846f7ba550f"
+      "hash": "b8822bc6df4f07175f9c580e1b83ebe3c09fa33b"
     },
     {
       "source": "ctftime",
