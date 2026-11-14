@@ -1,38 +1,6 @@
 {
-  "count": 22,
+  "count": 20,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3082",
-      "title": "Platypwn 2026",
-      "category": "ctf",
-      "description": "The Platypwn 2026 is an online Jeopardy CTF which offers easy challenges for beginners, but also medium and difficult challenges for advanced players. See https://platypwnies.de/events/platypwn for further details.",
-      "organizer": "Platypwnies",
-      "location": "Online",
-      "url": "https://platypwn.ctf.platypwnies.de/",
-      "starts_at": "2026-11-13T17:00:00.000Z",
-      "ends_at": "2026-11-14T11:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "b8822bc6df4f07175f9c580e1b83ebe3c09fa33b"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3049",
-      "title": "WolvCTF 2026",
-      "category": "ctf",
-      "description": "This event will be postponed to Fri, 20 Nov. 2026, 18:00 EST — Sun, 22 Nov. 2026, 18:00 EST Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint, misc.). There are two divisions, Open and University of Michigan students. No team limit sizes. Thank you to our sponsors! Binary Ninja: https://binary.ninja/",
-      "organizer": "w01verines",
-      "location": "Online",
-      "url": "https://wolvctf.io/",
-      "starts_at": "2026-11-13T23:00:00.000Z",
-      "ends_at": "2026-11-15T23:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "e1438abd636cbc3793cb895bcdcde821681be205"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3464",
