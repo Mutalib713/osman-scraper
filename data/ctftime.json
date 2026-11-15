@@ -1,38 +1,6 @@
 {
-  "count": 20,
+  "count": 25,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3464",
-      "title": "h4ckc0n 2026",
-      "category": "ctf",
-      "description": "h4ckc0n is a 24-hour international Jeopardy-style Capture The Flag competition. EVENT URL UP! REGISTER NOW! Categories: Reverse Engineering, Web-exploitation, Forensics, AI/ML, Web3, OSINT, PWN, Cryptography, Miscellaneous The competition is designed to accommodate teams of varying skill levels, with a diverse challenge set covering multiple areas of cybersecurity. Duration: 24 hours Format: Jeopardy-style CTF Mode: Online Team-based: Yes Join the discord server: https://discord.gg/kw8J5r2ZWh",
-      "organizer": "d4rkc0de",
-      "location": "Online",
-      "url": "https://h4ckc0n.ctfd.io/",
-      "starts_at": "2026-11-14T15:30:00.000Z",
-      "ends_at": "2026-11-15T15:30:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "e9ee4fed5f67c7e64deb6588a3c71c1fbe34981c"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3467",
-      "title": "InIt CTF",
-      "category": "ctf",
-      "description": "InIt CTF is HII's (Hackers in India) beginner-focused Capture The Flag event, free and open to participants across India and internationally. 8 hours, Jeopardy-style, solo or teams of up to 4, across Web, Crypto, Forensics, OSINT, and Misc — mostly easy/medium with a couple of harder challenges for experienced players. This edition is sponsored by .xyz, who are providing free domain codes for participants, with additional sponsors being confirmed. Register at hackersinindia.com/init-ctf.",
-      "organizer": "Hackers_In_India",
-      "location": "Online",
-      "url": "https://hackersinindia.com/init-ctf",
-      "starts_at": "2026-11-14T15:30:00.000Z",
-      "ends_at": "2026-11-14T23:30:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "8f1798eef0ef4b80d0f27c167f0d652670f64909"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3419",
@@ -64,6 +32,22 @@
         "jeopardy"
       ],
       "hash": "a125cee55658e6639a12895dc2c0590efcdd957b"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3049",
+      "title": "WolvCTF 2026",
+      "category": "ctf",
+      "description": "Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint, misc.). There are two divisions, Open and University of Michigan students. No team limit sizes. Thank you to our sponsors! Binary Ninja: https://binary.ninja/",
+      "organizer": "w01verines",
+      "location": "Online",
+      "url": "https://wolvctf.io/",
+      "starts_at": "2026-11-20T23:00:00.000Z",
+      "ends_at": "2026-11-22T23:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "406178d2ac4fbee03ac1c17a6575e72b47aa2d42"
     },
     {
       "source": "ctftime",
@@ -131,6 +115,22 @@
     },
     {
       "source": "ctftime",
+      "uid": "ctftime-3502",
+      "title": "RedReaper CTF",
+      "category": "ctf",
+      "description": "RedReaper CTF Welcome to RedReaper CTF, a cybersecurity Capture The Flag competition organized by RedX & Reaper Enter a dark world of cybersecurity challenges, where technical knowledge, creativity, and problem-solving skills will determine who survives the hunt. Test your skills across multiple cybersecurity domains, solve challenges, uncover hidden flags, and compete against other participants. Challenge Categories - Forensics - Crypto - Misc - Reverse Engineering - Web - AI Hacking - Pwn - OSINT - Automation Event Information - Organizer: RedX & Reaper - Official Website: https://qualification.redx.site/ - social Media: https://qualification.redx.site/socials - RedX Platform: https://redx.site Sharpen your skills, trust your knowledge, and prepare for the hunt. The Reaper is waiting.",
+      "organizer": "RedReaper",
+      "location": "Online",
+      "url": "https://qualification.redx.site/",
+      "starts_at": "2026-11-27T11:00:00.000Z",
+      "ends_at": "2026-11-27T19:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "f25b068155a76f8baf1f99fd6e79e2f0c3bd1d1b"
+    },
+    {
+      "source": "ctftime",
       "uid": "ctftime-3474",
       "title": "LakeCTF Quals 26-27",
       "category": "ctf",
@@ -179,6 +179,22 @@
     },
     {
       "source": "ctftime",
+      "uid": "ctftime-3510",
+      "title": "Black Hat India 2026 Official CTF",
+      "category": "ctf",
+      "description": "Black Hat India 2026 Official CTF is a 24-hour online Jeopardy-style CTF with 200 original challenges. The top 3 teams each win 3 Briefings passes (9 in total, each worth ₹85,000) to attend Black Hat India 2027 in Hyderabad. Dates for Black Hat India 2027 are yet to be announced. Categories: Web3, Smart Contract Exploitation, LLM Security, AI Security, IAM, SSO, DFIR, Cloud Native Security, Mobile Security, FinTech Security, Linux Security, Active Directory, DevSecOps, Binary Exploitation, Reverse Engineering, Web Security, Cryptography, OSINT, Steganography, Miscellaneous, and a Beginner Jeopardy Track. Team size: up to 3. Scheduled start: 28 Nov, 7:30 PM IST. Platform sponsor and CTF host: CTF7 (https://ctf7.com) - the platform running this CTF. Website: https://ctf.blackhat-india.com/",
+      "organizer": "CTF7",
+      "location": "Online",
+      "url": "https://ctf.blackhat-india.com/",
+      "starts_at": "2026-11-28T14:00:00.000Z",
+      "ends_at": "2026-11-29T14:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "dae25d1f2d5e65ef733cb4e2fb35aa5a33f0588f"
+    },
+    {
+      "source": "ctftime",
       "uid": "ctftime-3386",
       "title": "BlackHat MEA CTF Final 2026",
       "category": "ctf",
@@ -192,6 +208,22 @@
         "jeopardy"
       ],
       "hash": "549df344d4bf9ca4d19cf79f300d1b27a66ad415"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3509",
+      "title": "2026 Qiangwang Challenge on Cyber Mimic Defense Finals",
+      "category": "ctf",
+      "description": "The 2026 Qiangwang Challenge on Cyber Mimic Defense Finals is the on-site final round of the 9th Qiangwang International Elite Challenge on Cyber Mimic Defense in Nanjing, China. Qualified and invited teams conduct security research on physical targets within the competition scope across six tracks. Judges evaluate the teams’ technical reports under the competition rules.",
+      "organizer": "LoveFromMimic",
+      "location": "Nanjing, China",
+      "url": "https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration",
+      "starts_at": "2026-12-03T04:00:00.000Z",
+      "ends_at": "2026-12-06T04:00:00.000Z",
+      "tags": [
+        "hack quest"
+      ],
+      "hash": "b11bb8c7341a0e42a3cf9a35327907bc131e4e48"
     },
     {
       "source": "ctftime",
@@ -259,6 +291,22 @@
     },
     {
       "source": "ctftime",
+      "uid": "ctftime-3505",
+      "title": "OTERIA Cyber Cup #4",
+      "category": "ctf",
+      "description": "# OTERIA Cyber ​​Cup #4 Rejoignez-nous le 12 décembre 2026 pour la quatrième édition de l'OTERIA Cyber ​​Cup, une compétition de type « Capture The Flag » (CTF) destinée aux étudiants, organisée par l'OTERIA Cyber ​​School à Gennevilliers, en France. Détails de l'événement - Date : 12 décembre 2026 - Lieu : OTERIA Cyber ​​School, 1 Rue du 19 Mars 1962, 92230 Gennevilliers, France - Format : CTF de type « Jeopardy » (à confirmer) - Durée : 6 heures - Participation : Gratuite - Éligibilité : Étudiants, du lycée jusqu'au niveau Master (Bac à Bac+5) - Taille des équipes : 4 étudiants par équipe - Défis : 5 catégories d'épreuves et 25 « flags » (drapeaux) à trouver La compétition est ouverte aussi bien aux débutants qu'aux joueurs expérimentés ; les défis sont conçus pour s'adapter à différents niveaux de compétence. Récompenses - 1re place : 500 € et des goodies - 2e place : 300 € et des goodies - 3e place : 150 € et des goodies Les membres des 10 meilleures équipes pourront également bénéficier d'un accès direct à un entretien d'admission chez OTERIA, sans avoir à passer le test technique (sous réserve des règles officielles de la compétition). Inscription : https://www.oteria-cyber-cup.fr/inscription Site officiel : https://www.oteria-cyber-cup.fr/ Organisé par l'OTERIA Cyber ​​School.",
+      "organizer": "OteriHack",
+      "location": "France, Gennevilliers",
+      "url": "https://www.oteria-cyber-cup.fr/",
+      "starts_at": "2026-12-12T09:00:00.000Z",
+      "ends_at": "2026-12-12T17:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "eb00f7dddf63f0f07c95fb59d79e0b918d443a52"
+    },
+    {
+      "source": "ctftime",
       "uid": "ctftime-3475",
       "title": "BSides Algiers 2026",
       "category": "ctf",
@@ -307,6 +355,22 @@
     },
     {
       "source": "ctftime",
+      "uid": "ctftime-3511",
+      "title": "THE FINAL EXPLOIT CTF 2026—QUALIFIERS",
+      "category": "ctf",
+      "description": "THE FINAL EXPLOIT CTF 2026 — QUALIFIERS ONE LAST FLAG. ONE FINAL EXPLOIT. The year is coming to an end, but there's one last challenge waiting. Organized by 0xV01D, THE FINAL EXPLOIT CTF 2026 is a 48-hour international online Jeopardy-style competition, open to CTF teams worldwide. Compete against teams from around the world, solve challenging cybersecurity problems, demonstrate your real-world skills, and earn your place in THE FINAL EXPLOIT CTF 2026 — GRAND FINAL. ━━━━━━━━━━━━━━━━━━━━ EVENT DETAILS Dates: December 29–31, 2026 Start: December 29 at 12:00 UTC End: December 31 at 12:00 UTC Duration: 48 hours Format: Online | Jeopardy-style Participation: Team-based | Worldwide Organizer: 0xV01D Prizes: To be announced ━━━━━━━━━━━━━━━━━━━━ CHALLENGE CATEGORIES • Web Exploitation • Binary Exploitation (Pwn) • Reverse Engineering • Cryptography • OSINT • Digital Forensics & Incident Response (DFIR) • Malware Analysis • Mobile Security • AI Security • Blockchain Security • Miscellaneous BEYOND TRADITIONAL CTF CHALLENGES This competition goes beyond conventional CTF puzzles. Participants will face realistic, industry-inspired cybersecurity scenarios designed to test practical skills used by security professionals in real-world environments. Expect hands-on challenges involving: • Security Operations Center (SOC) investigations and threat detection • Real-world penetration testing methodologies and exploitation scenarios • Digital forensics and incident response investigations • Analysis of authentic or realistically simulated security logs, network traffic, and system artifacts • Threat hunting, attack reconstruction, and incident analysis • Practical security challenges inspired by real operational environments These challenges are designed to bridge the gap between CTF competitions and the cybersecurity industry, encouraging participants to develop job-relevant skills in offensive and defensive security. NOT JUST FLAGS. REAL SKILLS. REAL-WORLD SECURITY. ━━━━━━━━━━━━━━━━",
+      "organizer": "OxV01D",
+      "location": "Online",
+      "url": "https://0xv01d-ctf.xyz/",
+      "starts_at": "2026-12-29T12:00:00.000Z",
+      "ends_at": "2026-12-31T12:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "4f4fb8caf43a6bdf4c5cc33dff4298efcfb8d242"
+    },
+    {
+      "source": "ctftime",
       "uid": "ctftime-3492",
       "title": "GaianSpace Perihelion CTF 2027",
       "category": "ctf",
@@ -320,6 +384,22 @@
         "jeopardy"
       ],
       "hash": "2648a618e2a71ee846e1ae559dcb0eac92ebc041"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3508",
+      "title": "UofTCTF 2027",
+      "category": "ctf",
+      "description": "UofTCTF 2027 is the annual capture-the-flag competition organized by the UofTCTF team. This year’s event will take place online from January 8, 2027, at 7:00 PM EST to January 10, 2027, at 7:00 PM EST. It will be a jeopardy-style CTF with classic categories like web, pwn, crypto, rev, forensics, and misc. Join the event discord server: https://discord.gg/4mQP8Tk3JE",
+      "organizer": "UofTCTF",
+      "location": "Online",
+      "url": "https://ctf.uoftctf.org/",
+      "starts_at": "2027-01-09T00:00:00.000Z",
+      "ends_at": "2027-01-11T00:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "66940e65fdc3731730d54affb2f86e42d77d49a9"
     }
   ]
 }
