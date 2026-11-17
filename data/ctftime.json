@@ -1,5 +1,5 @@
 {
-  "count": 25,
+  "count": 27,
   "events": [
     {
       "source": "ctftime",
@@ -38,7 +38,7 @@
       "uid": "ctftime-3049",
       "title": "WolvCTF 2026",
       "category": "ctf",
-      "description": "Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint, misc.). There are two divisions, Open and University of Michigan students. No team limit sizes. Thank you to our sponsors! Binary Ninja: https://binary.ninja/",
+      "description": "Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint). There are two divisions, Open and University of Michigan students. No team limit sizes. Thank you to our sponsors! Binary Ninja: https://binary.ninja/",
       "organizer": "w01verines",
       "location": "Online",
       "url": "https://wolvctf.io/",
@@ -47,7 +47,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "406178d2ac4fbee03ac1c17a6575e72b47aa2d42"
+      "hash": "e7200525311de7d0db40fe881b6c3c5a384c8107"
     },
     {
       "source": "ctftime",
@@ -128,6 +128,22 @@
         "jeopardy"
       ],
       "hash": "f25b068155a76f8baf1f99fd6e79e2f0c3bd1d1b"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3512",
+      "title": "N0v4CTF 2026",
+      "category": "ctf",
+      "description": "N0v4CTF 2026 is a free, 24-hour online Jeopardy-style Capture the Flag competition open to teams worldwide. Challenges cover Web Exploitation, Pwn (Binary Exploitation), Reverse Engineering, Cryptography, Digital Forensics, and Miscellaneous. Teams can investigate digital evidence, recover hidden messages, and figure out how unfamiliar programs work. The challenge set includes beginner-friendly puzzles and tougher problems for experienced players. Teams earn points by submitting correct flags. A live scoreboard tracks team rankings throughout the competition. The event runs from 17:00 UTC on November 27 to 17:00 UTC on November 28, 2026. In Vietnam, that is midnight at the start of November 27 to midnight at the start of November 28 (UTC+7).",
+      "organizer": "NovaRun",
+      "location": "Online",
+      "url": "https://n0v4ctf.devs.surf/",
+      "starts_at": "2026-11-27T17:00:00.000Z",
+      "ends_at": "2026-11-28T17:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "ddfd41a920544602205b1fb8cd52ff14cf3e21a7"
     },
     {
       "source": "ctftime",
@@ -336,6 +352,22 @@
         "jeopardy"
       ],
       "hash": "8ebded9033cbc319a54613f510771e1b826771fe"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3429",
+      "title": "idktheCTF 2026",
+      "category": "ctf",
+      "description": "After coming together with an amazing run in 2026, the team at idktheflag is excited to announce our first, end of year CTF! Categories will include Crypto, Pwn, Rev, Forensics, OSINT and NOT Web (maybe)! We've taken a lot of care to ensure each challenge we put out is original and not slopped with AI. Likewise, we will take a stance against fully autonomous teams in the interest of promoting human ingenuity and creativity. No team size limit.",
+      "organizer": "idktheflag",
+      "location": "Online",
+      "url": "http://ctf.idktheflag.sh/",
+      "starts_at": "2026-12-26T01:00:00.000Z",
+      "ends_at": "2026-12-28T04:59:59.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "3083e01c60e858e8fe2782d03e1e2ce1d5890e10"
     },
     {
       "source": "ctftime",
