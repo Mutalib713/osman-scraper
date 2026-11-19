@@ -166,7 +166,7 @@
       "uid": "ctftime-3485",
       "title": "L3m0n CTF 2026 (Quals)",
       "category": "ctf",
-      "description": "L3m0n CTF is the annual flagship capture-the-flag competition of Amrita Vishwa Vidyapeetham, Coimbatore, hosted by TIFAC-CORE in Cyber Security. This is a team-based event: teams of 1 to 4 players. The online prelims is Jeopardy-style and run for 12 hours (10:00 to 22:00 IST, 04:30 to 16:30 UTC, on 28 November 2026). The top teams are invited to on-campus finals in Coimbatore. Challenges span web, pwn, reverse engineering, cryptography, forensics, OSINT and miscellaneous, with extra tracks in AI and LLM security, Web3 and hardware, IoT and RF. This edition is a broadcast themed on the cartoons we grew up with. Open to all, with a beginner category that teaches the basics. Registration opens soon on l3m0nctf.xyz.",
+      "description": "TIFAC-CORE, Amrita Vishwa Vidyapeetham, Coimbatore, invites you to \"L3m0n CTF 2026\", our annual flagship Capture The Flag competition! - 12-hour Jeopardy-style online qualifiers. - Open to teams of 1–4 participants. - Challenges across Web, Pwn, Cryptography, AI/LLM, Forensics, OSINT and more. - Beginner-friendly category for newcomers. - Top teams advance to the on-campus finals at Coimbatore to be held on December 12th, 2026. Qualifiers Date: November 28th, 2026 Time: 4:30 AM – 4:30 PM GMT Register and stay tuned for updates: https://l3m0nctf.xyz",
       "organizer": "L3m0n CTF",
       "location": "Online",
       "url": "https://l3m0nctf.xyz/",
@@ -175,7 +175,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "f4c7949c4312e533babca9da9dfbe14c9e5d2e59"
+      "hash": "bf0f7e239593aad72721685cf41a092f3a7ee221"
     },
     {
       "source": "ctftime",
