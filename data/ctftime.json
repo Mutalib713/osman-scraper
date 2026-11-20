@@ -3,22 +3,6 @@
   "events": [
     {
       "source": "ctftime",
-      "uid": "ctftime-3419",
-      "title": "EyesOpenCTF 7th edition",
-      "category": "ctf",
-      "description": "EyesOpenCTF 2026 is a FREE CTF competition organized as part of the 7th edition of EOCON. This year, the competition goes far beyond a traditional CTF. You are not simply joining to solve isolated challenges. You are entering The Convergence, a live 48-hour cyber adventure in which reality itself is beginning to fracture. Across more than 40 challenges and 8 disciplines, teams will investigate corrupted systems, recover hidden Reality Fragments, unlock classified dossiers, expose compromised actors, and gradually reconstruct the truth behind a phenomenon threatening the entire world. Every flag matters. Each solved challenge can reveal new intelligence, unlock characters and locations, alter the mission briefing, and move the story forward in real time. The competition platform becomes a living investigation that evolves with the progress of the Operators. Expect : - web exploitation, - digital forensics, - reverse engineering, - binary exploitation, - cryptography, - OSINT, - AI security, and more—woven into a single coherent mission unlike any previous EyesOpenCTF. Built for teams from around the world and open to different experience levels, EyesOpenCTF is both a proving ground and an immersive narrative experience where competitors can learn, compete, get noticed, and join a fast-growing international cybersecurity community. As part of EOCON, the competition also connects participants with experts, researchers, recruiters, entrepreneurs, and emerging talent from Africa and beyond. It is a place where technical ability meets storytelling, where discoveries change the mission, and where tomorrow’s collaborations, careers, and opportunities begin. Form your team. Enter the Protocol. Recover the Fragments. Register: https://eyesopensecurity.com/ctf-briefing.html Direct Form: https://eyesopensecurity.com/?modal=ctf SPONSORS : - CyberDefenders (https://cyberdefenders.org) - JetBrains (https://jetbrains.com) - Netticket (https://netticket.net) - ExamBoot (https://exam",
-      "organizer": "EyesOpen_Security",
-      "location": "Online",
-      "url": "https://eyesopensecurity.com/ctf-briefing.html",
-      "starts_at": "2026-11-20T10:00:00.000Z",
-      "ends_at": "2026-11-22T10:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "0ddae71fdeb77ca92fc875f03d74d22d5cd36f4d"
-    },
-    {
-      "source": "ctftime",
       "uid": "ctftime-3337",
       "title": "GlacierCTF 2026",
       "category": "ctf",
@@ -38,7 +22,7 @@
       "uid": "ctftime-3049",
       "title": "WolvCTF 2026",
       "category": "ctf",
-      "description": "Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint). There are two divisions, Open and University of Michigan students. No team limit sizes. Thank you to our sponsors! Binary Ninja: https://binary.ninja/",
+      "description": "Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint). There are two divisions, Open and University of Michigan students. No team limit sizes. Thank you to our sponsors! Binary Ninja: https://binary.ninja/ Altered Security: https://www.alteredsecurity.com/",
       "organizer": "w01verines",
       "location": "Online",
       "url": "https://wolvctf.io/",
@@ -47,7 +31,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "e7200525311de7d0db40fe881b6c3c5a384c8107"
+      "hash": "0eae2aa0c75a86d15996b36b35568df2ae43300b"
     },
     {
       "source": "ctftime",
@@ -240,6 +224,22 @@
         "hack quest"
       ],
       "hash": "b11bb8c7341a0e42a3cf9a35327907bc131e4e48"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3518",
+      "title": "TUCTF 2026",
+      "category": "ctf",
+      "description": "TUCTF26 is a Capture the Flag competition hosted by the CTF club at the University of Tulsa designed for a range of skill levels for teams that want to build their experience. We offer Web, Forensics, Crypto, Reverse Engineering, and Miscellanous based challenges. If you have any questions you can contact us through our Discord: https://discord.gg/Q35eWhHsw",
+      "organizer": "ascii overflow",
+      "location": "Online",
+      "url": "https://tuctf.com/",
+      "starts_at": "2026-12-04T10:00:00.000Z",
+      "ends_at": "2026-12-06T18:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "a49ef99aa2cc83efc46a8eeaf2c7b79fae5ab9a4"
     },
     {
       "source": "ctftime",
