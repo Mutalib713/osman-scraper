@@ -1,5 +1,5 @@
 {
-  "count": 21,
+  "count": 23,
   "events": [
     {
       "source": "ctftime",
@@ -243,6 +243,22 @@
     },
     {
       "source": "ctftime",
+      "uid": "ctftime-3490",
+      "title": "Cyber Ninja CTF 2026 - BLACKOUT",
+      "category": "ctf",
+      "description": "RÉSERVÉ UNIQUEMENT AUX LYCÉENS # Cyber Ninja CTF 2026 – BLACKOUT Gardez Paris allumé ! Le Cyber Ninja CTF revient pour sa 3e édition avec BLACKOUT, une compétition nationale de cybersécurité organisée par OTERIA Cyber School et destinée aux lycéens de toute la France. Cette année, un mystérieux hacker surnommé « Lights-Out » menace les infrastructures critiques de Paris : métro, électricité, réseaux de communication et distribution d'eau. Votre mission : résoudre des challenges de cybersécurité, récupérer des flags, découvrir des indices cachés et arrêter Lights-Out avant que Paris ne soit plongé dans le noir. ## Dates et déroulement Qualifications en ligne - Début : samedi 19 décembre 2026 à 10h (heure de Paris) - Fin : dimanche 20 décembre 2026 à 10h (heure de Paris) - Durée : 24 heures - Format : Jeopardy - Participation : individuelle et gratuite Finale en présentiel - Date : samedi 16 janvier 2027 - Lieu : campus OTERIA, région parisienne - Participants : les 80 meilleurs des qualifications éligibles - Invité spécial : V2F, youtubeur spécialisé en cybersécurité ## Les challenges Une cinquantaine de flags répartis dans 9 catégories : - Web : exploitation de vulnérabilités Web - PWN : exploitation de programmes binaires - Reverse Engineering : rétro-ingénierie - Crypto : cryptographie - OSINT : recherche en sources ouvertes - DFIR : investigation numérique et réponse aux incidents - Hardware : sécurité matérielle - Programming : programmation - Misc : challenges divers Trois niveaux de difficulté sont proposés : débutant, intermédiaire et confirmé. Aucune expérience préalable en cybersécurité n'est nécessaire pour participer. ## Un scénario immersif : BLACKOUT Pendant les qualifications, certains flags permettront de débloquer des éléments du dossier « Lights-Out » : messages interceptés, photographies, notes manuscrites et indices cachés. Ces informations pourront aider les participants à progresser dans les challenges et à découvrir les prochaines cibles du hac",
+      "organizer": "OteriHack",
+      "location": "Online",
+      "url": "https://www.cyber-ninja-ctf.fr/",
+      "starts_at": "2026-12-19T09:00:00.000Z",
+      "ends_at": "2026-12-20T09:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "b061cc4f97036efd14375b526ce784c6eca527a2"
+    },
+    {
+      "source": "ctftime",
       "uid": "ctftime-3472",
       "title": "BackdoorCTF 2026",
       "category": "ctf",
@@ -288,6 +304,22 @@
         "jeopardy"
       ],
       "hash": "784d786ebe3a9f73a6adf52b1c66007c90634854"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3516",
+      "title": "pothloe CTF 2026",
+      "category": "ctf",
+      "description": "",
+      "organizer": "pothloe cft",
+      "location": "Online",
+      "url": "https://pothloe.cc/",
+      "starts_at": "2026-12-27T20:00:00.000Z",
+      "ends_at": "2026-12-29T20:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "9b16c4d688cce662398e97c2742689b54dff888e"
     },
     {
       "source": "ctftime",
