@@ -1,5 +1,5 @@
 {
-  "count": 23,
+  "count": 24,
   "events": [
     {
       "source": "ctftime",
@@ -22,7 +22,7 @@
       "uid": "ctftime-3512",
       "title": "N0v4CTF 2026",
       "category": "ctf",
-      "description": "N0v4CTF 2026 is a free, 24-hour online Jeopardy-style Capture the Flag competition open to teams worldwide. Challenges cover Web Exploitation, Pwn (Binary Exploitation), Reverse Engineering, Cryptography, Digital Forensics, and Miscellaneous. Teams can investigate digital evidence, recover hidden messages, and figure out how unfamiliar programs work. The challenge set includes beginner-friendly puzzles and tougher problems for experienced players. Teams earn points by submitting correct flags. A live scoreboard tracks team rankings throughout the competition. The event runs from 17:00 UTC on November 27 to 17:00 UTC on November 28, 2026. In Vietnam, that is midnight at the start of November 27 to midnight at the start of November 28 (UTC+7).",
+      "description": "N0v4CTF 2026 is a free, 24-hour online Jeopardy-style Capture the Flag competition organized by NovaRun, open to teams and cybersecurity enthusiasts worldwide. Challenges cover Web Exploitation, Pwn (Binary Exploitation), Reverse Engineering, Cryptography, Digital Forensics, and Miscellaneous. Teams will investigate digital evidence, recover hidden messages, exploit vulnerabilities, and analyze unfamiliar programs. The challenge set includes both beginner-friendly puzzles and tougher problems for experienced players. Teams earn points by submitting correct flags, with a live scoreboard tracking rankings throughout the competition. [ SCHEDULE ] - Start: November 27, 2026, 17:00 UTC (November 28, 2026, 00:00 UTC+7 / ICT) - End: November 28, 2026, 17:00 UTC (November 29, 2026, 00:00 UTC+7 / ICT) [ OFFICIAL PRIZE SPONSOR: TRYHACKME ] N0v4CTF 2026 is proudly sponsored by TryHackMe (https://tryhackme.com) — a leading gamified cybersecurity training platform helping learners and professionals master real-world offensive and defensive security skills. [ PRIZE POOL ] - 1st Place: 2x 6-Month TryHackMe Premium Vouchers + Official Winner Certificates - 2nd Place: 2x 3-Month TryHackMe Premium Vouchers + Official Winner Certificates - 3rd Place: 2x 1-Month TryHackMe Premium Vouchers + Official Winner Certificates - Best Write-up Award: 1x 1-Month TryHackMe Premium Voucher (Note: Vouchers will be distributed within 5–7 days after the competition ends and Top 3 write-ups are verified.) [ LINKS & COMMUNITY ] - Official Website: https://n0v4ctf.devs.surf/ - Discord Server: https://discord.gg/JAWpzjsNp",
       "organizer": "NovaRun",
       "location": "Online",
       "url": "https://n0v4ctf.devs.surf/",
@@ -31,7 +31,7 @@
       "tags": [
         "jeopardy"
       ],
-      "hash": "ddfd41a920544602205b1fb8cd52ff14cf3e21a7"
+      "hash": "aace9143109d488d02b0cc4b99d37d207c93d55f"
     },
     {
       "source": "ctftime",
@@ -368,6 +368,22 @@
         "jeopardy"
       ],
       "hash": "66940e65fdc3731730d54affb2f86e42d77d49a9"
+    },
+    {
+      "source": "ctftime",
+      "uid": "ctftime-3515",
+      "title": "LA CTF 2027",
+      "category": "ctf",
+      "description": "LA CTF is an annual Capture the Flag (CTF) competition hosted by ACM Cyber at UCLA and its CTF team, Psi Beta Rho. LA CTF has challenges for all skill levels, whether you're tackling your first exploit or have professional cybersecurity experience. The event will feature a jeopardy-style CTF competition, talks from cybersecurity professionals, and (for in-person attendees) food, merch, and fun side events. If you are interested in attending, join the Discord to stay up to date with the latest information! Discord: https://lac.tf/discord Challenge archive can be found here: https://github.com/uclaacm/lactf-archive",
+      "organizer": "PBR",
+      "location": "Online",
+      "url": "https://lac.tf/",
+      "starts_at": "2027-02-20T02:00:00.000Z",
+      "ends_at": "2027-02-22T02:00:00.000Z",
+      "tags": [
+        "jeopardy"
+      ],
+      "hash": "b9e7a6a625a3cd1ed923de9209a452c5e7a3ae59"
     }
   ]
 }
