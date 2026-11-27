@@ -1,38 +1,6 @@
 {
-  "count": 24,
+  "count": 22,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3502",
-      "title": "RedReaper CTF",
-      "category": "ctf",
-      "description": "RedReaper CTF Welcome to RedReaper CTF, a cybersecurity Capture The Flag competition organized by RedX & Reaper Enter a dark world of cybersecurity challenges, where technical knowledge, creativity, and problem-solving skills will determine who survives the hunt. Test your skills across multiple cybersecurity domains, solve challenges, uncover hidden flags, and compete against other participants. Challenge Categories - Forensics - Crypto - Misc - Reverse Engineering - Web - AI Hacking - Pwn - OSINT - Automation Event Information - Organizer: RedX & Reaper - Official Website: https://qualification.redx.site/ - social Media: https://qualification.redx.site/socials - RedX Platform: https://redx.site Sharpen your skills, trust your knowledge, and prepare for the hunt. The Reaper is waiting.",
-      "organizer": "RedReaper",
-      "location": "Online",
-      "url": "https://qualification.redx.site/",
-      "starts_at": "2026-11-27T11:00:00.000Z",
-      "ends_at": "2026-11-27T19:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "f25b068155a76f8baf1f99fd6e79e2f0c3bd1d1b"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3512",
-      "title": "N0v4CTF 2026",
-      "category": "ctf",
-      "description": "N0v4CTF 2026 is a free, 24-hour online Jeopardy-style Capture the Flag competition organized by NovaRun, open to teams and cybersecurity enthusiasts worldwide. Challenges cover Web Exploitation, Pwn (Binary Exploitation), Reverse Engineering, Cryptography, Digital Forensics, and Miscellaneous. Teams will investigate digital evidence, recover hidden messages, exploit vulnerabilities, and analyze unfamiliar programs. The challenge set includes both beginner-friendly puzzles and tougher problems for experienced players. Teams earn points by submitting correct flags, with a live scoreboard tracking rankings throughout the competition. [ SCHEDULE ] - Start: November 27, 2026, 17:00 UTC (November 28, 2026, 00:00 UTC+7 / ICT) - End: November 28, 2026, 17:00 UTC (November 29, 2026, 00:00 UTC+7 / ICT) [ OFFICIAL PRIZE SPONSOR: TRYHACKME ] N0v4CTF 2026 is proudly sponsored by TryHackMe (https://tryhackme.com) — a leading gamified cybersecurity training platform helping learners and professionals master real-world offensive and defensive security skills. [ PRIZE POOL ] - 1st Place: 2x 6-Month TryHackMe Premium Vouchers + Official Winner Certificates - 2nd Place: 2x 3-Month TryHackMe Premium Vouchers + Official Winner Certificates - 3rd Place: 2x 1-Month TryHackMe Premium Vouchers + Official Winner Certificates - Best Write-up Award: 1x 1-Month TryHackMe Premium Voucher (Note: Vouchers will be distributed within 5–7 days after the competition ends and Top 3 write-ups are verified.) [ LINKS & COMMUNITY ] - Official Website: https://n0v4ctf.devs.surf/ - Discord Server: https://discord.gg/JAWpzjsNp",
-      "organizer": "NovaRun",
-      "location": "Online",
-      "url": "https://n0v4ctf.devs.surf/",
-      "starts_at": "2026-11-27T17:00:00.000Z",
-      "ends_at": "2026-11-28T17:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "aace9143109d488d02b0cc4b99d37d207c93d55f"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3474",
