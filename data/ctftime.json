@@ -1,70 +1,6 @@
 {
-  "count": 22,
+  "count": 18,
   "events": [
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3474",
-      "title": "LakeCTF Quals 26-27",
-      "category": "ctf",
-      "description": "Qualifications for fifth edition of LakeCTF old discord server here for discussion: https://discord.gg/8FHmzT5aGM new discord server in your invite email",
-      "organizer": "polygl0ts",
-      "location": "Online",
-      "url": "https://lakectf.epfl.ch/",
-      "starts_at": "2026-11-27T18:00:00.000Z",
-      "ends_at": "2026-11-28T18:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "44b39ca0b87fb23ac332d8a2e0728f73ec26fc06"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3485",
-      "title": "L3m0n CTF 2026 (Quals)",
-      "category": "ctf",
-      "description": "TIFAC-CORE, Amrita Vishwa Vidyapeetham, Coimbatore, invites you to \"L3m0n CTF 2026\", our annual flagship Capture The Flag competition! - 12-hour Jeopardy-style online qualifiers. - Open to teams of 1–4 participants. - Challenges across Web, Pwn, Cryptography, AI/LLM, Forensics, OSINT and more. - Beginner-friendly category for newcomers. - Top teams advance to the on-campus finals at Coimbatore to be held on December 12th, 2026. Qualifiers Date: November 28th, 2026 Time: 4:30 AM – 4:30 PM GMT Register and stay tuned for updates: https://l3m0nctf.xyz",
-      "organizer": "L3m0n CTF",
-      "location": "Online",
-      "url": "https://l3m0nctf.xyz/",
-      "starts_at": "2026-11-28T04:30:00.000Z",
-      "ends_at": "2026-11-28T16:30:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "bf0f7e239593aad72721685cf41a092f3a7ee221"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3489",
-      "title": "CyberNSK2027-Qualifier",
-      "category": "ctf",
-      "description": "CyberNSK 2027 is one of the largest cybersecurity competitions in Siberia, organized by Siberian Security League in collaboration with Novosibirsk State Technical University (NSTU NETI), Department of Information Security. The online qualification round is a 12-hour Jeopardy-style CTF. Teams of up to 5 participants (school and university students) compete by solving practical security challenges and submitting flags. ✦ Start — November 28 at 12:00 PM (MSK)✦ ✦ End — November 29 at 00:00 PM (MSK)✦ Teams that have passed the qualifying stage and reside in CIS countries or China are invited to the in-person final. The competition uses a dynamic scoring system: the fewer teams solve a task, the more points it is worth. Categories include: Web Crypto Reverse Engineering Pwn Forensics AI Hardware and others",
-      "organizer": "siberiansecurityleague",
-      "location": "Online",
-      "url": "https://quals.sslctf.ru/",
-      "starts_at": "2026-11-28T09:00:00.000Z",
-      "ends_at": "2026-11-28T21:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "91e54865402d0309ffd3e3612d29ab3e12ad916b"
-    },
-    {
-      "source": "ctftime",
-      "uid": "ctftime-3510",
-      "title": "Black Hat India 2026 Official CTF",
-      "category": "ctf",
-      "description": "Black Hat India 2026 Official CTF is a 24-hour online Jeopardy-style CTF with 200 original challenges. The top 3 teams each win 3 Briefings passes (9 in total, each worth ₹85,000) to attend Black Hat India 2027 in Hyderabad. Dates for Black Hat India 2027 are yet to be announced. Categories: Web3, Smart Contract Exploitation, LLM Security, AI Security, IAM, SSO, DFIR, Cloud Native Security, Mobile Security, FinTech Security, Linux Security, Active Directory, DevSecOps, Binary Exploitation, Reverse Engineering, Web Security, Cryptography, OSINT, Steganography, Miscellaneous, and a Beginner Jeopardy Track. Team size: up to 3. Scheduled start: 28 Nov, 7:30 PM IST. Platform sponsor and CTF host: CTF7 (https://ctf7.com) - the platform running this CTF. Website: https://ctf.blackhat-india.com/",
-      "organizer": "CTF7",
-      "location": "Online",
-      "url": "https://ctf.blackhat-india.com/",
-      "starts_at": "2026-11-28T14:00:00.000Z",
-      "ends_at": "2026-11-29T14:00:00.000Z",
-      "tags": [
-        "jeopardy"
-      ],
-      "hash": "dae25d1f2d5e65ef733cb4e2fb35aa5a33f0588f"
-    },
     {
       "source": "ctftime",
       "uid": "ctftime-3386",
@@ -297,13 +233,13 @@
       "description": "THE FINAL EXPLOIT CTF 2026 — QUALIFIERS ONE LAST FLAG. ONE FINAL EXPLOIT. The year is coming to an end, but there's one last challenge waiting. Organized by 0xV01D, THE FINAL EXPLOIT CTF 2026 is a 48-hour international online Jeopardy-style competition, open to CTF teams worldwide. Compete against teams from around the world, solve challenging cybersecurity problems, demonstrate your real-world skills, and earn your place in THE FINAL EXPLOIT CTF 2026 — GRAND FINAL. ━━━━━━━━━━━━━━━━━━━━ EVENT DETAILS Dates: December 29–31, 2026 Start: December 29 at 12:00 UTC End: December 31 at 12:00 UTC Duration: 48 hours Format: Online | Jeopardy-style Participation: Team-based | Worldwide Organizer: 0xV01D Prizes: To be announced ━━━━━━━━━━━━━━━━━━━━ CHALLENGE CATEGORIES • Web Exploitation • Binary Exploitation (Pwn) • Reverse Engineering • Cryptography • OSINT • Digital Forensics & Incident Response (DFIR) • Malware Analysis • Mobile Security • AI Security • Blockchain Security • Miscellaneous BEYOND TRADITIONAL CTF CHALLENGES This competition goes beyond conventional CTF puzzles. Participants will face realistic, industry-inspired cybersecurity scenarios designed to test practical skills used by security professionals in real-world environments. Expect hands-on challenges involving: • Security Operations Center (SOC) investigations and threat detection • Real-world penetration testing methodologies and exploitation scenarios • Digital forensics and incident response investigations • Analysis of authentic or realistically simulated security logs, network traffic, and system artifacts • Threat hunting, attack reconstruction, and incident analysis • Practical security challenges inspired by real operational environments These challenges are designed to bridge the gap between CTF competitions and the cybersecurity industry, encouraging participants to develop job-relevant skills in offensive and defensive security. NOT JUST FLAGS. REAL SKILLS. REAL-WORLD SECURITY. ━━━━━━━━━━━━━━━━",
       "organizer": "OxV01D",
       "location": "Online",
-      "url": "https://0xv01d-ctf.xyz/",
+      "url": "https://voidteamjo.com/",
       "starts_at": "2026-12-29T12:00:00.000Z",
       "ends_at": "2026-12-31T12:00:00.000Z",
       "tags": [
         "jeopardy"
       ],
-      "hash": "4f4fb8caf43a6bdf4c5cc33dff4298efcfb8d242"
+      "hash": "026ffa91d4fdf711874b02e031a42511cd86bba3"
     },
     {
       "source": "ctftime",
